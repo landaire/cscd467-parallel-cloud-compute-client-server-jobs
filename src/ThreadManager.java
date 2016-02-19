@@ -8,7 +8,7 @@ import java.util.Date;
  */
 public class ThreadManager implements Runnable {
     // frequency in milliseconds
-    private static final int POLL_FREQUENCY = 10;
+    private static final int POLL_FREQUENCY = 100;
     private static final int INITIAL_WORKERS = 5;
     public static boolean killServer = false;
 
