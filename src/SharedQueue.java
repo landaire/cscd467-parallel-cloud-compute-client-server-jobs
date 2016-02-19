@@ -3,6 +3,7 @@ import java.util.*;
 
 /**
  * Thread-safe queue implementation
+ * @author Lander Brandt
  * @param <E>
  */
 public class SharedQueue<E>  implements Queue<E> {
