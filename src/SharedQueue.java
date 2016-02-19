@@ -132,11 +132,17 @@ public class SharedQueue<E>  implements Queue<E> {
      * @throws InterruptedException
      */
     public synchronized E take() throws InterruptedException {
-        while (size() == 0) {
-            this.wait();
+        E data = null;
+
+        while (data == null) {
+            while (size() == 0) {
+                this.wait();
+            }
+
+            data = remove();
         }
 
-        return remove();
+        return data;
     }
 
 
