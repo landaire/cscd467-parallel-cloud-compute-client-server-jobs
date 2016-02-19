@@ -95,20 +95,18 @@ public class CapitalizeServer {
 
                 // Send a welcome message to the client.
                 out.println("Hello, you are client #" + clientNumber + ".");
-                out.println("Enter a line with only a period to quit\n");
 
                 // Get messages from the client, line by line; return them
                 // capitalized
-                while (!manager.isKilled()) {
-                    String input = in.readLine();
-                    if (input == null || input.equals(".")) {
-                        break;
-                    }
+                String input = in.readLine();
+                if (input == null) {
+                    log("bad input");
+                    socket.close();
+                }
 
-                    if (!jobQueue.add(new Job(out, socket, clientNumber, input))) {
-                        out.println("Server is too busy to handle request right now, please try again later");
-                        break;
-                    }
+                if (!jobQueue.add(new Job(out, socket, clientNumber, input))) {
+                    out.println("Server is too busy to handle request right now, please try again later");
+                    log("Too busy -- had to kill client");
                 }
             } catch (IOException e) {
                 log("Error:" + e);

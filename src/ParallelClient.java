@@ -90,26 +90,33 @@ public class ParallelClient {
                         new InputStreamReader(socket.getInputStream()));
                 PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
 
-                while (!Thread.currentThread().isInterrupted()) {
-                    String command = commands[randInt(0, commands.length - 1)];
-                    int num1 = randInt(0, 1000);
-                    int num2 = randInt(1, 1000); // min 1 because of division by 0
+                String command = commands[randInt(0, commands.length - 1)];
+                int num1 = randInt(0, 1000);
+                int num2 = randInt(1, 1000); // min 1 because of division by 0
 
-                    String sentCommand = String.format("%s,%d,%d", command, num1, num2);
+                String sentCommand = String.format("%s,%d,%d", command, num1, num2);
 
-                    log(sentCommand);
-                    out.println(sentCommand);
-                    String response = in.readLine();
+                log(sentCommand);
+                out.println(sentCommand);
 
-                    if (response == null) {
-                        break;
-                    }
+                String hello = in.readLine();
+                log("Hello message: " + hello);
 
+                String response = in.readLine();
+
+                if (response == null) {
+                    log("bad response");
+                } else {
                     log(response);
                 }
+
+                log("Closing socket");
+                socket.close();
             } catch (IOException e) {
                 log(e.toString());
             }
+
+            log("done");
         }
 
         private void log(String message) {
