@@ -22,6 +22,11 @@ public class Worker extends Thread {
                 log("Taking job off queue");
                 Job job = jobQueue.take();
 
+                if (job == null) {
+                    log("got a null job");
+                    continue;
+                }
+
                 log("Running job");
                 job.run();
                 log("Job finished");
