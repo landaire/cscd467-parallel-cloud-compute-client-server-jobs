@@ -56,20 +56,24 @@ public class SharedQueue<E>  implements Queue<E> {
         newNode.data = element;
 
         synchronized (tail.lock) {
+            // tail would be dead if it was the last element -- in this case tail == head
             if (!tail.live) {
                 synchronized (head.lock) {
                     tail = newNode;
-                    head.setNext(newNode);
+                    head.setNext(tail);
+
+                    synchronized (sizeLock) {
+                        size++;
+                    }
                 }
             } else {
                 tail.setNext(newNode);
                 tail = newNode;
+
+                synchronized (sizeLock) {
+                    size++;
+                }
             }
-        }
-
-
-        synchronized (sizeLock) {
-            size++;
         }
 
         // Only notify one thread
@@ -88,20 +92,21 @@ public class SharedQueue<E>  implements Queue<E> {
         E data;
 
         synchronized (head.lock) {
-            if (head.getNext() == null) {
+            Node front = head.getNext();
+            if (front == null) {
                 return null;
             }
 
-            Node front = head.getNext();
             synchronized (front.lock) {
                 front.live = false;
                 data = front.data;
-                head.setNext(front.getNext());
-            }
-        }
 
-        synchronized (sizeLock) {
-            size--;
+                head.setNext(front.getNext());
+
+                synchronized (sizeLock) {
+                    size--;
+                }
+            }
         }
 
         synchronized (this) {
