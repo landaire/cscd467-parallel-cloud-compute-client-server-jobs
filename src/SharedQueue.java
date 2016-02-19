@@ -89,7 +89,7 @@ public class SharedQueue<E>  implements Queue<E> {
 
         synchronized (head.lock) {
             if (head.getNext() == null) {
-                throw new NoSuchElementException();
+                return null;
             }
 
             Node front = head.getNext();
