@@ -33,6 +33,7 @@ public class ThreadManager implements Runnable {
     @Override
     public void run() {
         int jobsPreviousIteration = 0;
+        int previousThreshold = 0;
         while (!isKilled() && !killServer) {
             int jobs = _queue.size();
             if (jobs > 0) {
@@ -48,22 +49,26 @@ public class ThreadManager implements Runnable {
                 // if queue size is less than the first threshold -- this should be the lowest number of workers possible
                 message = "queue size is less than lowest threshold -- setting to minimum number of workers: " + INITIAL_WORKERS;
                 _pool.setNumActiveWorkers(INITIAL_WORKERS);
+                previousThreshold = 0;
             } else if (jobsPreviousIteration < jobs) {
                 // jobs are growing
-                if (jobs < t2) {
+                if (jobs < t2 && previousThreshold < 1) {
                     newWorkerCount *= 2;
                     message = "queue size is less than t2 -- doubling workers: " + newWorkerCount;
                     _pool.setNumActiveWorkers(newWorkerCount);
+                    previousThreshold = 1;
                 } else if (jobs > t2) {
                     newWorkerCount *= 2;
                     message = "queue size is greater than t2 -- doubling workers: " + newWorkerCount;
                     _pool.setNumActiveWorkers(newWorkerCount);
+                    previousThreshold = 2;
                 }
-            } else if (jobsPreviousIteration > jobs && jobsPreviousIteration < t2) {
+            } else if (jobsPreviousIteration > jobs && jobsPreviousIteration < t2 && previousThreshold > 1) {
                 // jobs are shrinking
                 newWorkerCount /= 2;
                 message = "queue size is less than t2 -- halving workers: " + newWorkerCount;
                 _pool.setNumActiveWorkers(newWorkerCount);
+                previousThreshold = 1;
             }
 
             // the pool may set the number of active workers to capacity, so don't trust the # of jobs above
