@@ -1,4 +1,4 @@
-# Project design
+# Project design - Lander Brandt
 
 The project is designed so that the `ThreadManager` class is really the
 core of the application. The main class looks at the `ThreadManager` to see if
@@ -70,3 +70,9 @@ If any other command is received then it is executed, and the result is sent bac
 to the client.
 
 At the end of the `run()` method the socket the client is connected to is closed.
+
+## SharedQueue
+
+This `SharedQueue` implementation is one which was created for a previous
+assignment. It is fully thread-safe for add/remove/size operations and
+does not lock the entire structure when an add/remove is performed.
