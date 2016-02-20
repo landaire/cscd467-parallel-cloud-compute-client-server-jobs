@@ -76,3 +76,32 @@ At the end of the `run()` method the socket the client is connected to is closed
 This `SharedQueue` implementation is one which was created for a previous
 assignment. It is fully thread-safe for add/remove/size operations and
 does not lock the entire structure when an add/remove is performed.
+
+## ThreadManager
+
+The `ThreadManager` is the most important piece of this project. It ties together
+nearly everything. The thread manager has `POLL_FREQUENCY` variable which is
+how long it will sleep in its event loop. The event loop condition is whether the
+server `KILL` command has come in, or if the `ThreadManager` itself has been
+notified by the main thread to stop (`kill()` has been called).
+
+In the event loop the number of jobs is obtained from the queue. If the number
+of jobs has grown since the last iteration of the loop *and* any of the following
+conditions are met, then the number of `Worker` threads will double. Conditions:
+
+- Number of jobs is > `Threshold1` and previous threshold was not `1`, workers
+was not 1.
+- Number of jobs is > `Threshold2` and number of jobs has changed since previous
+iteration (growth).
+
+If the number of jobs since the last iteration has decreased then the jobs are
+halved if any of the conditions are met:
+
+- Number of jobs is > `Threshold1` and previous threshold was not `1`
+
+In any case if the number of jobs is `< Threshold1`, then the number of workers
+are set to `minimumWorkers`.
+
+Once the loop is exited, the manager notifies the `ThreadPool` to `stop()`,
+which tells all `Worker` threads to stop, then the main thread is interrupted
+and the manager exits.
