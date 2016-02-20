@@ -119,15 +119,11 @@ public class SharedQueue<E>  implements Queue<E> {
     /**
      * The calling thread will wait until an item has been removed from the queue
      */
-    public synchronized void waitForRemove() {
+    public synchronized void waitForRemove() throws InterruptedException {
         int s = size();
 
         while (s == size()) {
-            try {
-                wait();
-            } catch (InterruptedException e) {
-                // do nothing
-            }
+            wait();
         }
     }
 

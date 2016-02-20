@@ -33,7 +33,7 @@ public class ThreadManager implements Runnable {
     @Override
     public void run() {
         int jobsPreviousIteration = 0;
-        while (!isKilled()) {
+        while (!isKilled() && !killServer) {
             int jobs = _queue.size();
             if (jobs > 0) {
                 log("# Jobs: " + jobs);
@@ -80,17 +80,22 @@ public class ThreadManager implements Runnable {
             }
         }
 
+        log("Thread manager received signal to kill all operations");
         _pool.stop();
+        log("Pool stop called");
+
+        // tell anything else that we're done
+        killServer = true;
+        kill();
 
         try {
             socket.close();
         } catch (Exception ignored) {
-
         }
     }
 
     public boolean isKilled() {
-        return _killed || killServer;
+        return _killed;
     }
 
     public void kill() {

@@ -51,6 +51,7 @@ public class ThreadPool {
 
                 workers[j] = new Worker(j, queue);
                 workers[j].start();
+                workers[j].setName("Worker " + j);
                 lastFreeIndex = j;
                 numActiveThreads++;
 

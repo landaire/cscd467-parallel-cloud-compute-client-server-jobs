@@ -20,6 +20,7 @@ public class Worker extends Thread {
         while (!isKilled()) {
             try {
                 log("Taking job off queue");
+                Thread.sleep((int)(Math.random() * 1000));
                 Job job = jobQueue.take();
 
                 log("Running job");

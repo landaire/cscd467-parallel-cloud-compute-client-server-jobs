@@ -28,12 +28,10 @@ public class Job implements Runnable {
 
         output.println(evaluateCommand());
 
-        if (ThreadManager.killServer) {
-            try {
-                socket.close();
-            } catch (IOException e) {
-                log("Error closing socket: " + e);
-            }
+        try {
+            socket.close();
+        } catch (IOException e) {
+            log("Error closing socket: " + e.toString());
         }
 
         log("Responded");

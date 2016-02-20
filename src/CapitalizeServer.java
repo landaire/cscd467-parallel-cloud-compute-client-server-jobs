@@ -44,12 +44,13 @@ public class CapitalizeServer {
         ThreadPool pool = new ThreadPool(capacity, jobQueue);
         manager = new ThreadManager(listener, pool, jobQueue, t1, t2);
 
-        Thread managerThread = new Thread(manager);
+        Thread managerThread = new Thread(manager, "ThreadManager");
         managerThread.start();
 
         try {
             while (!manager.isKilled()) {
                 ClientHandler clientHandler = new ClientHandler(listener.accept(), clientNumber++);
+                clientHandler.setName("Client handler " + clientNumber);
                 clientHandler.start();
             }
         } catch (SocketException e) {
@@ -58,11 +59,21 @@ public class CapitalizeServer {
                 throw e;
             }
         } finally {
+            log("Killing manager");
             manager.kill();
             pool.join();
+            log("Joining the thread pool");
 
             listener.close();
         }
+
+        log("Exiting");
+    }
+
+    private static void log(String message) {
+        SimpleDateFormat dt = new SimpleDateFormat("hh:mm:ss yyyy-mm-dd");
+
+        System.out.printf("[Main] %s at %s\n", message, dt.format(new Date()));
     }
 
     /**
@@ -111,13 +122,7 @@ public class CapitalizeServer {
             } catch (IOException e) {
                 log("Error:" + e);
             } finally {
-                try {
-                    socket.close();
-                } catch (IOException e) {
-                    log("Couldn't close a socket, what's going on?");
-                }
-
-                log("Connection closed");
+                log("Client handler done");
             }
         }
 
