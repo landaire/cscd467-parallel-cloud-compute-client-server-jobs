@@ -105,3 +105,18 @@ are set to `minimumWorkers`.
 Once the loop is exited, the manager notifies the `ThreadPool` to `stop()`,
 which tells all `Worker` threads to stop, then the main thread is interrupted
 and the manager exits.
+
+## Challenges
+
+1. My `SharedQueue` turned out to have a race condition somewhere when either
+adding or removing items, or both, would cause the size of the queue to be off by
+1\. I *think* the condition was that if one thread was removing an item while another thread was adding, then a node would be skipped in the removal process. I cleaned
+up that code and moved the synchronized block for incrementing/decrementing
+and the issue seemed to go away. Still not sure exactly how it was happening
+since my sequence of locking was correct and no one thread could update the
+size while any other thread was viewing or modifying the size...
+2. The `KILL` message didn't work at one point because of refactoring the
+jobs to only accept one command then close the connection. The code was previously
+set to have the jobs kill the socket only if the `KILL` command was received,
+but that changed once it was understood that only one command would ever be read
+from the client.
