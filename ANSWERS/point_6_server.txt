@@ -1,0 +1,2585 @@
+The capitalization server is running.
+[ThreadPool] Growing workers from 0 to 5 at 03:08:09 2016-08-19
+[Worker 0] Starting at 03:08:09 2016-08-19
+[Worker 2] Starting at 03:08:09 2016-08-19
+[Worker 4] Starting at 03:08:09 2016-08-19
+[Worker 1] Starting at 03:08:09 2016-08-19
+[Worker 4] Taking job off queue at 03:08:09 2016-08-19
+[Worker 2] Taking job off queue at 03:08:09 2016-08-19
+[Worker 0] Taking job off queue at 03:08:09 2016-08-19
+[Worker 3] Starting at 03:08:09 2016-08-19
+[Worker 1] Taking job off queue at 03:08:09 2016-08-19
+[Worker 3] Taking job off queue at 03:08:09 2016-08-19
+[Worker 4] Running job at 03:08:13 2016-08-19
+[Capitalize thread for client 0] Client handler done at 03:08:13 2016-08-19
+[Job for client 0] Running command DIV,235,618 at 03:08:13 2016-08-19
+[Job for client 0] Responded at 03:08:13 2016-08-19
+[Worker 4] Job finished at 03:08:13 2016-08-19
+[Worker 4] Taking job off queue at 03:08:13 2016-08-19
+[Worker 0] Running job at 03:08:13 2016-08-19
+[Capitalize thread for client 1] Client handler done at 03:08:13 2016-08-19
+[Job for client 1] Running command SUB,410,627 at 03:08:13 2016-08-19
+[Job for client 1] Responded at 03:08:13 2016-08-19
+[Worker 0] Job finished at 03:08:13 2016-08-19
+[Worker 0] Taking job off queue at 03:08:13 2016-08-19
+[Worker 3] Running job at 03:08:13 2016-08-19
+[Capitalize thread for client 2] Client handler done at 03:08:13 2016-08-19
+[Job for client 2] Running command MUL,454,935 at 03:08:13 2016-08-19
+[Job for client 2] Responded at 03:08:13 2016-08-19
+[Worker 3] Job finished at 03:08:13 2016-08-19
+[Worker 3] Taking job off queue at 03:08:13 2016-08-19
+[Worker 2] Running job at 03:08:13 2016-08-19
+[Capitalize thread for client 3] Client handler done at 03:08:13 2016-08-19
+[Job for client 3] Running command DIV,604,199 at 03:08:13 2016-08-19
+[Job for client 3] Responded at 03:08:13 2016-08-19
+[Worker 2] Job finished at 03:08:13 2016-08-19
+[Worker 2] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 4] Client handler done at 03:08:13 2016-08-19
+[Worker 1] Running job at 03:08:13 2016-08-19
+[Job for client 4] Running command ADD,423,769 at 03:08:13 2016-08-19
+[Job for client 4] Responded at 03:08:13 2016-08-19
+[Worker 1] Job finished at 03:08:13 2016-08-19
+[Worker 1] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 5] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 6] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 7] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 8] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 9] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 5 at 03:08:13 2016-08-19
+[Capitalize thread for client 11] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 10] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 12] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 13] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 14] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 15] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 11 at 03:08:13 2016-08-19
+[ThreadPool] Growing workers from 5 to 10 at 03:08:13 2016-08-19
+[Capitalize thread for client 16] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 17] Client handler done at 03:08:13 2016-08-19
+[Worker 5] Starting at 03:08:13 2016-08-19
+[Worker 5] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 18] Client handler done at 03:08:13 2016-08-19
+[Worker 6] Starting at 03:08:13 2016-08-19
+[Worker 6] Taking job off queue at 03:08:13 2016-08-19
+[Worker 2] Running job at 03:08:13 2016-08-19
+[Worker 8] Starting at 03:08:13 2016-08-19
+[Worker 8] Taking job off queue at 03:08:13 2016-08-19
+[Worker 7] Starting at 03:08:13 2016-08-19
+[Worker 9] Starting at 03:08:13 2016-08-19
+[ThreadPool] Total number of threads in pool: 10 at 03:08:13 2016-08-19
+[Worker 9] Taking job off queue at 03:08:13 2016-08-19
+[Job for client 5] Running command SUB,270,477 at 03:08:13 2016-08-19
+[ThreadManager] queue size is less than t2 -- doubling workers: 10 at 03:08:13 2016-08-19
+[Worker 7] Taking job off queue at 03:08:13 2016-08-19
+[Job for client 5] Responded at 03:08:13 2016-08-19
+[Worker 2] Job finished at 03:08:13 2016-08-19
+[Worker 2] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 19] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 20] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 22] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 21] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 23] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 24] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 25] Client handler done at 03:08:13 2016-08-19
+[Worker 4] Running job at 03:08:13 2016-08-19
+[Job for client 6] Running command SUB,395,187 at 03:08:13 2016-08-19
+[Job for client 6] Responded at 03:08:13 2016-08-19
+[Worker 4] Job finished at 03:08:13 2016-08-19
+[Worker 4] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 26] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 27] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 28] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 22 at 03:08:13 2016-08-19
+[ThreadPool] Growing workers from 10 to 20 at 03:08:13 2016-08-19
+[Worker 10] Starting at 03:08:13 2016-08-19
+[Worker 12] Starting at 03:08:13 2016-08-19
+[Worker 13] Starting at 03:08:13 2016-08-19
+[Worker 13] Taking job off queue at 03:08:13 2016-08-19
+[Worker 11] Starting at 03:08:13 2016-08-19
+[Worker 17] Starting at 03:08:13 2016-08-19
+[Worker 18] Starting at 03:08:13 2016-08-19
+[Worker 15] Starting at 03:08:13 2016-08-19
+[Worker 14] Starting at 03:08:13 2016-08-19
+[Worker 14] Taking job off queue at 03:08:13 2016-08-19
+[Worker 12] Taking job off queue at 03:08:13 2016-08-19
+[Worker 10] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 29] Client handler done at 03:08:13 2016-08-19
+[Worker 15] Taking job off queue at 03:08:13 2016-08-19
+[Worker 19] Starting at 03:08:13 2016-08-19
+[Worker 19] Taking job off queue at 03:08:13 2016-08-19
+[Worker 18] Taking job off queue at 03:08:13 2016-08-19
+[Worker 17] Taking job off queue at 03:08:13 2016-08-19
+[ThreadPool] Total number of threads in pool: 20 at 03:08:13 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 20 at 03:08:13 2016-08-19
+[Worker 11] Taking job off queue at 03:08:13 2016-08-19
+[Worker 16] Starting at 03:08:13 2016-08-19
+[Worker 16] Taking job off queue at 03:08:13 2016-08-19
+[Worker 19] Running job at 03:08:13 2016-08-19
+[Worker 7] Running job at 03:08:13 2016-08-19
+[Job for client 7] Running command SUB,686,578 at 03:08:13 2016-08-19
+[Job for client 8] Running command SUB,738,478 at 03:08:13 2016-08-19
+[Job for client 8] Responded at 03:08:13 2016-08-19
+[Worker 7] Job finished at 03:08:13 2016-08-19
+[Worker 7] Taking job off queue at 03:08:13 2016-08-19
+[Job for client 7] Responded at 03:08:13 2016-08-19
+[Worker 19] Job finished at 03:08:13 2016-08-19
+[Worker 19] Taking job off queue at 03:08:13 2016-08-19
+[Worker 17] Running job at 03:08:13 2016-08-19
+[Job for client 9] Running command MUL,410,709 at 03:08:13 2016-08-19
+[Job for client 9] Responded at 03:08:13 2016-08-19
+[Worker 17] Job finished at 03:08:13 2016-08-19
+[Worker 17] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 30] Client handler done at 03:08:13 2016-08-19
+[Worker 9] Running job at 03:08:13 2016-08-19
+[Job for client 11] Running command SUB,586,759 at 03:08:13 2016-08-19
+[Job for client 11] Responded at 03:08:13 2016-08-19
+[Worker 9] Job finished at 03:08:13 2016-08-19
+[Worker 9] Taking job off queue at 03:08:13 2016-08-19
+[Worker 16] Running job at 03:08:13 2016-08-19
+[Job for client 10] Running command MUL,221,623 at 03:08:13 2016-08-19
+[Job for client 10] Responded at 03:08:13 2016-08-19
+[Worker 16] Job finished at 03:08:13 2016-08-19
+[Worker 16] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 31] Client handler done at 03:08:13 2016-08-19
+[Worker 2] Running job at 03:08:13 2016-08-19
+[Job for client 12] Running command ADD,26,399 at 03:08:13 2016-08-19
+[Job for client 12] Responded at 03:08:13 2016-08-19
+[Worker 2] Job finished at 03:08:13 2016-08-19
+[Worker 2] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 32] Client handler done at 03:08:13 2016-08-19
+[Worker 5] Running job at 03:08:13 2016-08-19
+[Worker 15] Running job at 03:08:13 2016-08-19
+[Job for client 14] Running command MUL,893,79 at 03:08:13 2016-08-19
+[Job for client 13] Running command ADD,564,912 at 03:08:13 2016-08-19
+[Job for client 14] Responded at 03:08:13 2016-08-19
+[Job for client 13] Responded at 03:08:13 2016-08-19
+[Worker 5] Job finished at 03:08:13 2016-08-19
+[Worker 15] Job finished at 03:08:13 2016-08-19
+[Worker 5] Taking job off queue at 03:08:13 2016-08-19
+[Worker 15] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 33] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 34] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 20 at 03:08:13 2016-08-19
+[Capitalize thread for client 35] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 36] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 37] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 38] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 39] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 40] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 41] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 42] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 43] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 44] Client handler done at 03:08:13 2016-08-19
+[Worker 8] Running job at 03:08:13 2016-08-19
+[Worker 7] Running job at 03:08:13 2016-08-19
+[Job for client 16] Running command MUL,861,259 at 03:08:13 2016-08-19
+[Job for client 15] Running command DIV,362,387 at 03:08:13 2016-08-19
+[Job for client 16] Responded at 03:08:13 2016-08-19
+[Job for client 15] Responded at 03:08:13 2016-08-19
+[Worker 8] Job finished at 03:08:13 2016-08-19
+[Worker 7] Job finished at 03:08:13 2016-08-19
+[Worker 7] Taking job off queue at 03:08:13 2016-08-19
+[Worker 8] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 46] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 45] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 30 at 03:08:13 2016-08-19
+[ThreadPool] Growing workers from 20 to 40 at 03:08:13 2016-08-19
+[Worker 20] Starting at 03:08:13 2016-08-19
+[Worker 21] Starting at 03:08:13 2016-08-19
+[Worker 21] Taking job off queue at 03:08:13 2016-08-19
+[Worker 23] Starting at 03:08:13 2016-08-19
+[Worker 20] Taking job off queue at 03:08:13 2016-08-19
+[Worker 22] Starting at 03:08:13 2016-08-19
+[Worker 27] Starting at 03:08:13 2016-08-19
+[Worker 26] Starting at 03:08:13 2016-08-19
+[Worker 23] Taking job off queue at 03:08:13 2016-08-19
+[Worker 25] Starting at 03:08:13 2016-08-19
+[Worker 30] Starting at 03:08:13 2016-08-19
+[Worker 31] Starting at 03:08:13 2016-08-19
+[Worker 32] Starting at 03:08:13 2016-08-19
+[Worker 33] Starting at 03:08:13 2016-08-19
+[Worker 34] Starting at 03:08:13 2016-08-19
+[Worker 35] Starting at 03:08:13 2016-08-19
+[Worker 36] Starting at 03:08:13 2016-08-19
+[Worker 37] Starting at 03:08:13 2016-08-19
+[ThreadPool] Total number of threads in pool: 40 at 03:08:13 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 40 at 03:08:13 2016-08-19
+[Worker 24] Starting at 03:08:13 2016-08-19
+[Worker 24] Taking job off queue at 03:08:13 2016-08-19
+[Worker 39] Starting at 03:08:13 2016-08-19
+[Worker 39] Taking job off queue at 03:08:13 2016-08-19
+[Worker 37] Taking job off queue at 03:08:13 2016-08-19
+[Worker 38] Starting at 03:08:13 2016-08-19
+[Worker 38] Taking job off queue at 03:08:13 2016-08-19
+[Worker 36] Taking job off queue at 03:08:13 2016-08-19
+[Worker 35] Taking job off queue at 03:08:13 2016-08-19
+[Worker 34] Taking job off queue at 03:08:13 2016-08-19
+[Worker 33] Taking job off queue at 03:08:13 2016-08-19
+[Worker 32] Taking job off queue at 03:08:13 2016-08-19
+[Worker 31] Taking job off queue at 03:08:13 2016-08-19
+[Worker 30] Taking job off queue at 03:08:13 2016-08-19
+[Worker 25] Taking job off queue at 03:08:13 2016-08-19
+[Worker 29] Starting at 03:08:13 2016-08-19
+[Worker 26] Taking job off queue at 03:08:13 2016-08-19
+[Worker 27] Taking job off queue at 03:08:13 2016-08-19
+[Worker 28] Starting at 03:08:13 2016-08-19
+[Worker 22] Taking job off queue at 03:08:13 2016-08-19
+[Worker 28] Taking job off queue at 03:08:13 2016-08-19
+[Worker 29] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 47] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 48] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 49] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 50] Client handler done at 03:08:13 2016-08-19
+[Worker 18] Running job at 03:08:13 2016-08-19
+[Job for client 17] Running command SUB,258,231 at 03:08:13 2016-08-19
+[Job for client 17] Responded at 03:08:13 2016-08-19
+[Worker 18] Job finished at 03:08:13 2016-08-19
+[Worker 18] Taking job off queue at 03:08:13 2016-08-19
+[Worker 17] Running job at 03:08:13 2016-08-19
+[Job for client 18] Running command DIV,301,702 at 03:08:13 2016-08-19
+[Job for client 18] Responded at 03:08:13 2016-08-19
+[Worker 17] Job finished at 03:08:13 2016-08-19
+[Worker 17] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 51] Client handler done at 03:08:13 2016-08-19
+[Worker 2] Running job at 03:08:13 2016-08-19
+[Job for client 19] Running command SUB,414,447 at 03:08:13 2016-08-19
+[Job for client 19] Responded at 03:08:13 2016-08-19
+[Worker 2] Job finished at 03:08:13 2016-08-19
+[Worker 2] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 52] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 53] Client handler done at 03:08:13 2016-08-19
+[Worker 35] Running job at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 33 at 03:08:13 2016-08-19
+[Job for client 20] Running command MUL,88,465 at 03:08:13 2016-08-19
+[Job for client 20] Responded at 03:08:13 2016-08-19
+[Worker 35] Job finished at 03:08:13 2016-08-19
+[Worker 35] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 54] Client handler done at 03:08:13 2016-08-19
+[Worker 27] Running job at 03:08:13 2016-08-19
+[Job for client 22] Running command MUL,685,741 at 03:08:13 2016-08-19
+[Job for client 22] Responded at 03:08:13 2016-08-19
+[Worker 27] Job finished at 03:08:13 2016-08-19
+[Worker 27] Taking job off queue at 03:08:13 2016-08-19
+[Worker 19] Running job at 03:08:13 2016-08-19
+[Job for client 21] Running command MUL,19,169 at 03:08:13 2016-08-19
+[Job for client 21] Responded at 03:08:13 2016-08-19
+[Worker 19] Job finished at 03:08:13 2016-08-19
+[Worker 19] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 55] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 56] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 57] Client handler done at 03:08:13 2016-08-19
+[Worker 3] Running job at 03:08:13 2016-08-19
+[Job for client 23] Running command SUB,60,488 at 03:08:13 2016-08-19
+[Job for client 23] Responded at 03:08:13 2016-08-19
+[Worker 3] Job finished at 03:08:13 2016-08-19
+[Worker 3] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 58] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 59] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 60] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 62] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 61] Client handler done at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 39 at 03:08:13 2016-08-19
+[Capitalize thread for client 63] Client handler done at 03:08:13 2016-08-19
+[Worker 17] Running job at 03:08:13 2016-08-19
+[Job for client 24] Running command ADD,225,969 at 03:08:13 2016-08-19
+[Job for client 24] Responded at 03:08:13 2016-08-19
+[Worker 17] Job finished at 03:08:13 2016-08-19
+[Worker 17] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 64] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 65] Client handler done at 03:08:13 2016-08-19
+[Worker 18] Running job at 03:08:13 2016-08-19
+[Job for client 25] Running command MUL,388,731 at 03:08:13 2016-08-19
+[Job for client 25] Responded at 03:08:13 2016-08-19
+[Worker 18] Job finished at 03:08:13 2016-08-19
+[Worker 18] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 66] Client handler done at 03:08:13 2016-08-19
+[Worker 23] Running job at 03:08:13 2016-08-19
+[Job for client 26] Running command DIV,309,281 at 03:08:13 2016-08-19
+[Job for client 26] Responded at 03:08:13 2016-08-19
+[Worker 23] Job finished at 03:08:13 2016-08-19
+[Worker 23] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 68] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 67] Client handler done at 03:08:13 2016-08-19
+[Worker 35] Running job at 03:08:13 2016-08-19
+[ThreadManager] # Jobs: 42 at 03:08:13 2016-08-19
+[Job for client 27] Running command ADD,285,515 at 03:08:13 2016-08-19
+[ThreadPool] count exceeds capacity -- using capacity instead at 03:08:13 2016-08-19
+[Job for client 27] Responded at 03:08:13 2016-08-19
+[ThreadPool] Growing workers from 40 to 50 at 03:08:13 2016-08-19
+[Worker 35] Job finished at 03:08:13 2016-08-19
+[Worker 35] Taking job off queue at 03:08:13 2016-08-19
+[Worker 40] Starting at 03:08:13 2016-08-19
+[Worker 41] Starting at 03:08:13 2016-08-19
+[Worker 42] Starting at 03:08:13 2016-08-19
+[Worker 43] Starting at 03:08:13 2016-08-19
+[Worker 44] Starting at 03:08:13 2016-08-19
+[Worker 45] Starting at 03:08:13 2016-08-19
+[Worker 46] Starting at 03:08:13 2016-08-19
+[Worker 47] Starting at 03:08:13 2016-08-19
+[ThreadPool] Total number of threads in pool: 50 at 03:08:13 2016-08-19
+[Worker 40] Taking job off queue at 03:08:13 2016-08-19
+[Worker 49] Starting at 03:08:13 2016-08-19
+[Worker 44] Taking job off queue at 03:08:13 2016-08-19
+[Worker 47] Taking job off queue at 03:08:13 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 80 at 03:08:13 2016-08-19
+[Worker 48] Starting at 03:08:13 2016-08-19
+[Worker 41] Taking job off queue at 03:08:13 2016-08-19
+[Worker 46] Taking job off queue at 03:08:13 2016-08-19
+[Worker 49] Taking job off queue at 03:08:13 2016-08-19
+[Worker 45] Taking job off queue at 03:08:13 2016-08-19
+[Worker 43] Taking job off queue at 03:08:13 2016-08-19
+[Worker 42] Taking job off queue at 03:08:13 2016-08-19
+[Worker 48] Taking job off queue at 03:08:13 2016-08-19
+[Worker 25] Running job at 03:08:13 2016-08-19
+[Job for client 28] Running command MUL,16,308 at 03:08:13 2016-08-19
+[Job for client 28] Responded at 03:08:13 2016-08-19
+[Worker 25] Job finished at 03:08:13 2016-08-19
+[Worker 25] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 69] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 70] Client handler done at 03:08:13 2016-08-19
+[Worker 7] Running job at 03:08:13 2016-08-19
+[Job for client 29] Running command MUL,785,754 at 03:08:13 2016-08-19
+[Job for client 29] Responded at 03:08:13 2016-08-19
+[Worker 7] Job finished at 03:08:13 2016-08-19
+[Worker 7] Taking job off queue at 03:08:13 2016-08-19
+[Capitalize thread for client 71] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 72] Client handler done at 03:08:13 2016-08-19
+[Capitalize thread for client 73] Client handler done at 03:08:13 2016-08-19
+[Worker 11] Running job at 03:08:14 2016-08-19
+[Worker 22] Running job at 03:08:14 2016-08-19
+[Job for client 30] Running command ADD,670,805 at 03:08:14 2016-08-19
+[Job for client 31] Running command ADD,146,835 at 03:08:14 2016-08-19
+[Job for client 30] Responded at 03:08:14 2016-08-19
+[Job for client 31] Responded at 03:08:14 2016-08-19
+[Worker 22] Job finished at 03:08:14 2016-08-19
+[Worker 22] Taking job off queue at 03:08:14 2016-08-19
+[Worker 11] Job finished at 03:08:14 2016-08-19
+[Worker 11] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 74] Client handler done at 03:08:14 2016-08-19
+[Worker 1] Running job at 03:08:14 2016-08-19
+[Job for client 32] Running command SUB,415,439 at 03:08:14 2016-08-19
+[Job for client 32] Responded at 03:08:14 2016-08-19
+[Worker 1] Job finished at 03:08:14 2016-08-19
+[Worker 1] Taking job off queue at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 42 at 03:08:14 2016-08-19
+[Worker 0] Running job at 03:08:14 2016-08-19
+[Job for client 33] Running command SUB,730,910 at 03:08:14 2016-08-19
+[Job for client 33] Responded at 03:08:14 2016-08-19
+[Worker 0] Job finished at 03:08:14 2016-08-19
+[Worker 0] Taking job off queue at 03:08:14 2016-08-19
+[Worker 21] Running job at 03:08:14 2016-08-19
+[Job for client 34] Running command MUL,457,30 at 03:08:14 2016-08-19
+[Job for client 34] Responded at 03:08:14 2016-08-19
+[Worker 21] Job finished at 03:08:14 2016-08-19
+[Worker 21] Taking job off queue at 03:08:14 2016-08-19
+[Worker 28] Running job at 03:08:14 2016-08-19
+[Worker 37] Running job at 03:08:14 2016-08-19
+[Job for client 35] Running command MUL,744,248 at 03:08:14 2016-08-19
+[Job for client 36] Running command MUL,423,661 at 03:08:14 2016-08-19
+[Job for client 35] Responded at 03:08:14 2016-08-19
+[Job for client 36] Responded at 03:08:14 2016-08-19
+[Worker 37] Job finished at 03:08:14 2016-08-19
+[Worker 37] Taking job off queue at 03:08:14 2016-08-19
+[Worker 28] Job finished at 03:08:14 2016-08-19
+[Worker 28] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 75] Client handler done at 03:08:14 2016-08-19
+[Worker 19] Running job at 03:08:14 2016-08-19
+[Job for client 37] Running command DIV,765,777 at 03:08:14 2016-08-19
+[Job for client 37] Responded at 03:08:14 2016-08-19
+[Worker 19] Job finished at 03:08:14 2016-08-19
+[Worker 19] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 76] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 77] Client handler done at 03:08:14 2016-08-19
+[Worker 4] Running job at 03:08:14 2016-08-19
+[Job for client 38] Running command DIV,528,734 at 03:08:14 2016-08-19
+[Job for client 38] Responded at 03:08:14 2016-08-19
+[Worker 4] Job finished at 03:08:14 2016-08-19
+[Worker 4] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 78] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 79] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 80] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 81] Client handler done at 03:08:14 2016-08-19
+[Worker 28] Running job at 03:08:14 2016-08-19
+[Job for client 39] Running command DIV,703,484 at 03:08:14 2016-08-19
+[Job for client 39] Responded at 03:08:14 2016-08-19
+[Worker 28] Job finished at 03:08:14 2016-08-19
+[Worker 28] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 82] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 83] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 84] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 85] Client handler done at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 46 at 03:08:14 2016-08-19
+[Capitalize thread for client 86] Client handler done at 03:08:14 2016-08-19
+[Worker 33] Running job at 03:08:14 2016-08-19
+[Job for client 40] Running command DIV,975,856 at 03:08:14 2016-08-19
+[Job for client 40] Responded at 03:08:14 2016-08-19
+[Worker 33] Job finished at 03:08:14 2016-08-19
+[Worker 33] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 87] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 88] Client handler done at 03:08:14 2016-08-19
+[Worker 20] Running job at 03:08:14 2016-08-19
+[Worker 26] Running job at 03:08:14 2016-08-19
+[Job for client 42] Running command MUL,815,264 at 03:08:14 2016-08-19
+[Job for client 41] Running command MUL,721,502 at 03:08:14 2016-08-19
+[Job for client 42] Responded at 03:08:14 2016-08-19
+[Job for client 41] Responded at 03:08:14 2016-08-19
+[Worker 20] Job finished at 03:08:14 2016-08-19
+[Worker 26] Job finished at 03:08:14 2016-08-19
+[Worker 20] Taking job off queue at 03:08:14 2016-08-19
+[Worker 26] Taking job off queue at 03:08:14 2016-08-19
+[Worker 30] Running job at 03:08:14 2016-08-19
+[Job for client 43] Running command ADD,666,523 at 03:08:14 2016-08-19
+[Job for client 43] Responded at 03:08:14 2016-08-19
+[Worker 30] Job finished at 03:08:14 2016-08-19
+[Worker 30] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 89] Client handler done at 03:08:14 2016-08-19
+[Worker 16] Running job at 03:08:14 2016-08-19
+[Job for client 44] Running command MUL,40,162 at 03:08:14 2016-08-19
+[Job for client 44] Responded at 03:08:14 2016-08-19
+[Worker 16] Job finished at 03:08:14 2016-08-19
+[Worker 16] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 90] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 91] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 92] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 93] Client handler done at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 49 at 03:08:14 2016-08-19
+[Worker 10] Running job at 03:08:14 2016-08-19
+[Job for client 45] Running command ADD,494,8 at 03:08:14 2016-08-19
+[Job for client 45] Responded at 03:08:14 2016-08-19
+[Worker 10] Job finished at 03:08:14 2016-08-19
+[Worker 10] Taking job off queue at 03:08:14 2016-08-19
+[Worker 40] Running job at 03:08:14 2016-08-19
+[Capitalize thread for client 94] Client handler done at 03:08:14 2016-08-19
+[Job for client 46] Running command DIV,15,788 at 03:08:14 2016-08-19
+[Job for client 46] Responded at 03:08:14 2016-08-19
+[Worker 40] Job finished at 03:08:14 2016-08-19
+[Worker 40] Taking job off queue at 03:08:14 2016-08-19
+[Worker 32] Running job at 03:08:14 2016-08-19
+[Job for client 47] Running command MUL,295,608 at 03:08:14 2016-08-19
+[Job for client 47] Responded at 03:08:14 2016-08-19
+[Worker 32] Job finished at 03:08:14 2016-08-19
+[Worker 32] Taking job off queue at 03:08:14 2016-08-19
+[Worker 24] Running job at 03:08:14 2016-08-19
+[Job for client 48] Running command SUB,22,478 at 03:08:14 2016-08-19
+[Job for client 48] Responded at 03:08:14 2016-08-19
+[Worker 24] Job finished at 03:08:14 2016-08-19
+[Worker 24] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 95] Client handler done at 03:08:14 2016-08-19
+[Worker 36] Running job at 03:08:14 2016-08-19
+[Job for client 49] Running command DIV,773,304 at 03:08:14 2016-08-19
+[Job for client 49] Responded at 03:08:14 2016-08-19
+[Worker 36] Job finished at 03:08:14 2016-08-19
+[Worker 36] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 96] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 97] Client handler done at 03:08:14 2016-08-19
+[Worker 25] Running job at 03:08:14 2016-08-19
+[Job for client 50] Running command MUL,574,130 at 03:08:14 2016-08-19
+[Job for client 50] Responded at 03:08:14 2016-08-19
+[Worker 25] Job finished at 03:08:14 2016-08-19
+[Worker 25] Taking job off queue at 03:08:14 2016-08-19
+[Worker 38] Running job at 03:08:14 2016-08-19
+[Job for client 51] Running command SUB,73,104 at 03:08:14 2016-08-19
+[Job for client 51] Responded at 03:08:14 2016-08-19
+[Worker 39] Running job at 03:08:14 2016-08-19
+[Job for client 52] Running command DIV,96,447 at 03:08:14 2016-08-19
+[Worker 38] Job finished at 03:08:14 2016-08-19
+[Worker 38] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 52] Responded at 03:08:14 2016-08-19
+[Worker 39] Job finished at 03:08:14 2016-08-19
+[Worker 39] Taking job off queue at 03:08:14 2016-08-19
+[Worker 6] Running job at 03:08:14 2016-08-19
+[Job for client 53] Running command DIV,617,889 at 03:08:14 2016-08-19
+[Job for client 53] Responded at 03:08:14 2016-08-19
+[Worker 6] Job finished at 03:08:14 2016-08-19
+[Worker 6] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 98] Client handler done at 03:08:14 2016-08-19
+[Worker 26] Running job at 03:08:14 2016-08-19
+[Job for client 54] Running command MUL,780,275 at 03:08:14 2016-08-19
+[Job for client 54] Responded at 03:08:14 2016-08-19
+[Worker 26] Job finished at 03:08:14 2016-08-19
+[Worker 26] Taking job off queue at 03:08:14 2016-08-19
+[Worker 22] Running job at 03:08:14 2016-08-19
+[Job for client 55] Running command MUL,988,348 at 03:08:14 2016-08-19
+[Job for client 55] Responded at 03:08:14 2016-08-19
+[Worker 22] Job finished at 03:08:14 2016-08-19
+[Worker 22] Taking job off queue at 03:08:14 2016-08-19
+[Worker 45] Running job at 03:08:14 2016-08-19
+[Job for client 56] Running command SUB,406,666 at 03:08:14 2016-08-19
+[Job for client 56] Responded at 03:08:14 2016-08-19
+[Worker 45] Job finished at 03:08:14 2016-08-19
+[Worker 45] Taking job off queue at 03:08:14 2016-08-19
+[Worker 34] Running job at 03:08:14 2016-08-19
+[Job for client 57] Running command MUL,563,562 at 03:08:14 2016-08-19
+[Job for client 57] Responded at 03:08:14 2016-08-19
+[Worker 34] Job finished at 03:08:14 2016-08-19
+[Worker 34] Taking job off queue at 03:08:14 2016-08-19
+[Worker 13] Running job at 03:08:14 2016-08-19
+[Job for client 58] Running command SUB,964,425 at 03:08:14 2016-08-19
+[Job for client 58] Responded at 03:08:14 2016-08-19
+[Worker 13] Job finished at 03:08:14 2016-08-19
+[Worker 13] Taking job off queue at 03:08:14 2016-08-19
+[Worker 5] Running job at 03:08:14 2016-08-19
+[Job for client 59] Running command ADD,774,719 at 03:08:14 2016-08-19
+[Job for client 59] Responded at 03:08:14 2016-08-19
+[Worker 5] Job finished at 03:08:14 2016-08-19
+[Worker 5] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 99] Client handler done at 03:08:14 2016-08-19
+[Worker 32] Running job at 03:08:14 2016-08-19
+[Job for client 60] Running command MUL,658,103 at 03:08:14 2016-08-19
+[Job for client 60] Responded at 03:08:14 2016-08-19
+[Worker 32] Job finished at 03:08:14 2016-08-19
+[Worker 32] Taking job off queue at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 38 at 03:08:14 2016-08-19
+[Worker 5] Running job at 03:08:14 2016-08-19
+[Job for client 62] Running command ADD,570,963 at 03:08:14 2016-08-19
+[Job for client 62] Responded at 03:08:14 2016-08-19
+[Worker 5] Job finished at 03:08:14 2016-08-19
+[Worker 5] Taking job off queue at 03:08:14 2016-08-19
+[Worker 29] Running job at 03:08:14 2016-08-19
+[Job for client 61] Running command ADD,39,62 at 03:08:14 2016-08-19
+[Job for client 61] Responded at 03:08:14 2016-08-19
+[Worker 29] Job finished at 03:08:14 2016-08-19
+[Worker 29] Taking job off queue at 03:08:14 2016-08-19
+[Worker 23] Running job at 03:08:14 2016-08-19
+[Job for client 63] Running command ADD,315,425 at 03:08:14 2016-08-19
+[Job for client 63] Responded at 03:08:14 2016-08-19
+[Worker 23] Job finished at 03:08:14 2016-08-19
+[Worker 23] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 100] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 101] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 102] Client handler done at 03:08:14 2016-08-19
+[Worker 3] Running job at 03:08:14 2016-08-19
+[Job for client 64] Running command SUB,577,794 at 03:08:14 2016-08-19
+[Job for client 64] Responded at 03:08:14 2016-08-19
+[Capitalize thread for client 103] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 104] Client handler done at 03:08:14 2016-08-19
+[Worker 3] Job finished at 03:08:14 2016-08-19
+[Worker 3] Taking job off queue at 03:08:14 2016-08-19
+[Worker 32] Running job at 03:08:14 2016-08-19
+[Job for client 65] Running command DIV,671,469 at 03:08:14 2016-08-19
+[Job for client 65] Responded at 03:08:14 2016-08-19
+[Worker 32] Job finished at 03:08:14 2016-08-19
+[Worker 32] Taking job off queue at 03:08:14 2016-08-19
+[Worker 12] Running job at 03:08:14 2016-08-19
+[Worker 49] Running job at 03:08:14 2016-08-19
+[Job for client 66] Running command ADD,565,395 at 03:08:14 2016-08-19
+[Job for client 68] Running command DIV,199,143 at 03:08:14 2016-08-19
+[Job for client 66] Responded at 03:08:14 2016-08-19
+[Worker 12] Job finished at 03:08:14 2016-08-19
+[Worker 12] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 68] Responded at 03:08:14 2016-08-19
+[Worker 49] Job finished at 03:08:14 2016-08-19
+[Worker 49] Taking job off queue at 03:08:14 2016-08-19
+[Worker 15] Running job at 03:08:14 2016-08-19
+[Job for client 67] Running command ADD,506,127 at 03:08:14 2016-08-19
+[Job for client 67] Responded at 03:08:14 2016-08-19
+[Worker 15] Job finished at 03:08:14 2016-08-19
+[Worker 15] Taking job off queue at 03:08:14 2016-08-19
+[Worker 47] Running job at 03:08:14 2016-08-19
+[Job for client 69] Running command DIV,755,200 at 03:08:14 2016-08-19
+[Capitalize thread for client 105] Client handler done at 03:08:14 2016-08-19
+[Job for client 69] Responded at 03:08:14 2016-08-19
+[Worker 47] Job finished at 03:08:14 2016-08-19
+[Worker 47] Taking job off queue at 03:08:14 2016-08-19
+[Worker 14] Running job at 03:08:14 2016-08-19
+[Job for client 70] Running command ADD,909,75 at 03:08:14 2016-08-19
+[Job for client 70] Responded at 03:08:14 2016-08-19
+[Worker 14] Job finished at 03:08:14 2016-08-19
+[Worker 14] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 107] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 106] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 108] Client handler done at 03:08:14 2016-08-19
+[Worker 9] Running job at 03:08:14 2016-08-19
+[Worker 31] Running job at 03:08:14 2016-08-19
+[Job for client 71] Running command SUB,85,176 at 03:08:14 2016-08-19
+[Job for client 72] Running command MUL,619,907 at 03:08:14 2016-08-19
+[Job for client 71] Responded at 03:08:14 2016-08-19
+[Worker 9] Job finished at 03:08:14 2016-08-19
+[Job for client 72] Responded at 03:08:14 2016-08-19
+[Worker 9] Taking job off queue at 03:08:14 2016-08-19
+[Worker 31] Job finished at 03:08:14 2016-08-19
+[Worker 31] Taking job off queue at 03:08:14 2016-08-19
+[Worker 46] Running job at 03:08:14 2016-08-19
+[Job for client 73] Running command ADD,77,738 at 03:08:14 2016-08-19
+[Job for client 73] Responded at 03:08:14 2016-08-19
+[Worker 46] Job finished at 03:08:14 2016-08-19
+[Worker 46] Taking job off queue at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 35 at 03:08:14 2016-08-19
+[Worker 7] Running job at 03:08:14 2016-08-19
+[Job for client 74] Running command ADD,429,979 at 03:08:14 2016-08-19
+[Job for client 74] Responded at 03:08:14 2016-08-19
+[Worker 7] Job finished at 03:08:14 2016-08-19
+[Worker 7] Taking job off queue at 03:08:14 2016-08-19
+[Worker 8] Running job at 03:08:14 2016-08-19
+[Job for client 75] Running command ADD,365,806 at 03:08:14 2016-08-19
+[Capitalize thread for client 109] Client handler done at 03:08:14 2016-08-19
+[Job for client 75] Responded at 03:08:14 2016-08-19
+[Worker 8] Job finished at 03:08:14 2016-08-19
+[Worker 8] Taking job off queue at 03:08:14 2016-08-19
+[Worker 24] Running job at 03:08:14 2016-08-19
+[Job for client 77] Running command MUL,508,602 at 03:08:14 2016-08-19
+[Job for client 77] Responded at 03:08:14 2016-08-19
+[Worker 24] Job finished at 03:08:14 2016-08-19
+[Worker 24] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 110] Client handler done at 03:08:14 2016-08-19
+[Worker 49] Running job at 03:08:14 2016-08-19
+[Job for client 76] Running command ADD,900,527 at 03:08:14 2016-08-19
+[Job for client 76] Responded at 03:08:14 2016-08-19
+[Worker 49] Job finished at 03:08:14 2016-08-19
+[Worker 49] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 111] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 112] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 113] Client handler done at 03:08:14 2016-08-19
+[Worker 2] Running job at 03:08:14 2016-08-19
+[Job for client 78] Running command DIV,823,814 at 03:08:14 2016-08-19
+[Job for client 78] Responded at 03:08:14 2016-08-19
+[Worker 2] Job finished at 03:08:14 2016-08-19
+[Capitalize thread for client 115] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 114] Client handler done at 03:08:14 2016-08-19
+[Worker 2] Taking job off queue at 03:08:14 2016-08-19
+[Worker 44] Running job at 03:08:14 2016-08-19
+[Job for client 79] Running command MUL,411,446 at 03:08:14 2016-08-19
+[Job for client 79] Responded at 03:08:14 2016-08-19
+[Worker 41] Running job at 03:08:14 2016-08-19
+[Job for client 80] Running command SUB,605,944 at 03:08:14 2016-08-19
+[Capitalize thread for client 116] Client handler done at 03:08:14 2016-08-19
+[Worker 44] Job finished at 03:08:14 2016-08-19
+[Worker 44] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 80] Responded at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 36 at 03:08:14 2016-08-19
+[Worker 41] Job finished at 03:08:14 2016-08-19
+[Worker 41] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 117] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 118] Client handler done at 03:08:14 2016-08-19
+[Worker 49] Running job at 03:08:14 2016-08-19
+[Job for client 81] Running command SUB,94,431 at 03:08:14 2016-08-19
+[Worker 48] Running job at 03:08:14 2016-08-19
+[Job for client 81] Responded at 03:08:14 2016-08-19
+[Job for client 83] Running command SUB,930,909 at 03:08:14 2016-08-19
+[Worker 49] Job finished at 03:08:14 2016-08-19
+[Worker 49] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 83] Responded at 03:08:14 2016-08-19
+[Worker 48] Job finished at 03:08:14 2016-08-19
+[Worker 48] Taking job off queue at 03:08:14 2016-08-19
+[Worker 46] Running job at 03:08:14 2016-08-19
+[Job for client 82] Running command ADD,139,634 at 03:08:14 2016-08-19
+[Job for client 82] Responded at 03:08:14 2016-08-19
+[Worker 46] Job finished at 03:08:14 2016-08-19
+[Worker 46] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 119] Client handler done at 03:08:14 2016-08-19
+[Worker 27] Running job at 03:08:14 2016-08-19
+[Job for client 84] Running command SUB,178,545 at 03:08:14 2016-08-19
+[Job for client 84] Responded at 03:08:14 2016-08-19
+[Worker 27] Job finished at 03:08:14 2016-08-19
+[Worker 27] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 120] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 121] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 122] Client handler done at 03:08:14 2016-08-19
+[Worker 16] Running job at 03:08:14 2016-08-19
+[Worker 25] Running job at 03:08:14 2016-08-19
+[Job for client 86] Running command MUL,242,567 at 03:08:14 2016-08-19
+[Job for client 86] Responded at 03:08:14 2016-08-19
+[Worker 25] Job finished at 03:08:14 2016-08-19
+[Job for client 85] Running command MUL,261,16 at 03:08:14 2016-08-19
+[Worker 25] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 85] Responded at 03:08:14 2016-08-19
+[Worker 16] Job finished at 03:08:14 2016-08-19
+[Worker 16] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 123] Client handler done at 03:08:14 2016-08-19
+[Worker 9] Running job at 03:08:14 2016-08-19
+[Job for client 87] Running command ADD,948,72 at 03:08:14 2016-08-19
+[Job for client 87] Responded at 03:08:14 2016-08-19
+[Worker 9] Job finished at 03:08:14 2016-08-19
+[Worker 9] Taking job off queue at 03:08:14 2016-08-19
+[Worker 34] Running job at 03:08:14 2016-08-19
+[Job for client 88] Running command DIV,884,234 at 03:08:14 2016-08-19
+[Capitalize thread for client 124] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 125] Client handler done at 03:08:14 2016-08-19
+[Job for client 88] Responded at 03:08:14 2016-08-19
+[Worker 34] Job finished at 03:08:14 2016-08-19
+[Worker 34] Taking job off queue at 03:08:14 2016-08-19
+[Worker 13] Running job at 03:08:14 2016-08-19
+[Job for client 89] Running command SUB,70,266 at 03:08:14 2016-08-19
+[Job for client 89] Responded at 03:08:14 2016-08-19
+[Worker 13] Job finished at 03:08:14 2016-08-19
+[Worker 13] Taking job off queue at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 36 at 03:08:14 2016-08-19
+[Capitalize thread for client 126] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 127] Client handler done at 03:08:14 2016-08-19
+[Worker 40] Running job at 03:08:14 2016-08-19
+[Job for client 90] Running command ADD,253,216 at 03:08:14 2016-08-19
+[Job for client 90] Responded at 03:08:14 2016-08-19
+[Worker 40] Job finished at 03:08:14 2016-08-19
+[Worker 40] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 128] Client handler done at 03:08:14 2016-08-19
+[Worker 17] Running job at 03:08:14 2016-08-19
+[Worker 3] Running job at 03:08:14 2016-08-19
+[Job for client 91] Running command SUB,420,855 at 03:08:14 2016-08-19
+[Job for client 92] Running command DIV,232,681 at 03:08:14 2016-08-19
+[Job for client 91] Responded at 03:08:14 2016-08-19
+[Job for client 92] Responded at 03:08:14 2016-08-19
+[Worker 3] Job finished at 03:08:14 2016-08-19
+[Worker 3] Taking job off queue at 03:08:14 2016-08-19
+[Worker 17] Job finished at 03:08:14 2016-08-19
+[Worker 17] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 129] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 130] Client handler done at 03:08:14 2016-08-19
+[Worker 4] Running job at 03:08:14 2016-08-19
+[Job for client 93] Running command ADD,616,285 at 03:08:14 2016-08-19
+[Job for client 93] Responded at 03:08:14 2016-08-19
+[Worker 4] Job finished at 03:08:14 2016-08-19
+[Worker 4] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 131] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 132] Client handler done at 03:08:14 2016-08-19
+[Worker 35] Running job at 03:08:14 2016-08-19
+[Job for client 94] Running command SUB,444,717 at 03:08:14 2016-08-19
+[Job for client 94] Responded at 03:08:14 2016-08-19
+[Worker 35] Job finished at 03:08:14 2016-08-19
+[Worker 35] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 133] Client handler done at 03:08:14 2016-08-19
+[Worker 42] Running job at 03:08:14 2016-08-19
+[Job for client 95] Running command SUB,509,710 at 03:08:14 2016-08-19
+[Capitalize thread for client 134] Client handler done at 03:08:14 2016-08-19
+[Job for client 95] Responded at 03:08:14 2016-08-19
+[Worker 42] Job finished at 03:08:14 2016-08-19
+[Worker 42] Taking job off queue at 03:08:14 2016-08-19
+[Worker 43] Running job at 03:08:14 2016-08-19
+[Capitalize thread for client 136] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 135] Client handler done at 03:08:14 2016-08-19
+[Job for client 96] Running command SUB,928,766 at 03:08:14 2016-08-19
+[Job for client 96] Responded at 03:08:14 2016-08-19
+[Worker 43] Job finished at 03:08:14 2016-08-19
+[Worker 43] Taking job off queue at 03:08:14 2016-08-19
+[Worker 19] Running job at 03:08:14 2016-08-19
+[Worker 31] Running job at 03:08:14 2016-08-19
+[Job for client 98] Running command SUB,931,642 at 03:08:14 2016-08-19
+[Job for client 97] Running command DIV,395,875 at 03:08:14 2016-08-19
+[Job for client 98] Responded at 03:08:14 2016-08-19
+[Worker 19] Job finished at 03:08:14 2016-08-19
+[Worker 19] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 97] Responded at 03:08:14 2016-08-19
+[Worker 31] Job finished at 03:08:14 2016-08-19
+[Worker 31] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 137] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 138] Client handler done at 03:08:14 2016-08-19
+[Worker 33] Running job at 03:08:14 2016-08-19
+[Job for client 99] Running command MUL,128,368 at 03:08:14 2016-08-19
+[Job for client 99] Responded at 03:08:14 2016-08-19
+[Worker 33] Job finished at 03:08:14 2016-08-19
+[Worker 33] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 139] Client handler done at 03:08:14 2016-08-19
+[Worker 18] Running job at 03:08:14 2016-08-19
+[Worker 37] Running job at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 40 at 03:08:14 2016-08-19
+[Job for client 101] Running command DIV,447,726 at 03:08:14 2016-08-19
+[Job for client 100] Running command DIV,174,557 at 03:08:14 2016-08-19
+[Job for client 101] Responded at 03:08:14 2016-08-19
+[Worker 37] Job finished at 03:08:14 2016-08-19
+[Worker 37] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 100] Responded at 03:08:14 2016-08-19
+[Worker 18] Job finished at 03:08:14 2016-08-19
+[Worker 18] Taking job off queue at 03:08:14 2016-08-19
+[Worker 22] Running job at 03:08:14 2016-08-19
+[Job for client 102] Running command MUL,698,425 at 03:08:14 2016-08-19
+[Job for client 102] Responded at 03:08:14 2016-08-19
+[Worker 22] Job finished at 03:08:14 2016-08-19
+[Worker 22] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 140] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 141] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 142] Client handler done at 03:08:14 2016-08-19
+[Worker 27] Running job at 03:08:14 2016-08-19
+[Worker 28] Running job at 03:08:14 2016-08-19
+[Job for client 104] Running command ADD,403,266 at 03:08:14 2016-08-19
+[Job for client 104] Responded at 03:08:14 2016-08-19
+[Worker 28] Job finished at 03:08:14 2016-08-19
+[Worker 28] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 103] Running command SUB,90,387 at 03:08:14 2016-08-19
+[Job for client 103] Responded at 03:08:14 2016-08-19
+[Worker 27] Job finished at 03:08:14 2016-08-19
+[Worker 27] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 143] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 145] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 144] Client handler done at 03:08:14 2016-08-19
+[Worker 11] Running job at 03:08:14 2016-08-19
+[Job for client 105] Running command MUL,934,693 at 03:08:14 2016-08-19
+[Job for client 105] Responded at 03:08:14 2016-08-19
+[Worker 11] Job finished at 03:08:14 2016-08-19
+[Worker 11] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 146] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 147] Client handler done at 03:08:14 2016-08-19
+[Worker 23] Running job at 03:08:14 2016-08-19
+[Job for client 106] Running command SUB,903,713 at 03:08:14 2016-08-19
+[Job for client 106] Responded at 03:08:14 2016-08-19
+[Worker 23] Job finished at 03:08:14 2016-08-19
+[Worker 23] Taking job off queue at 03:08:14 2016-08-19
+[Worker 30] Running job at 03:08:14 2016-08-19
+[Worker 42] Running job at 03:08:14 2016-08-19
+[Job for client 107] Running command ADD,532,289 at 03:08:14 2016-08-19
+[Job for client 108] Running command SUB,926,643 at 03:08:14 2016-08-19
+[Job for client 107] Responded at 03:08:14 2016-08-19
+[Worker 30] Job finished at 03:08:14 2016-08-19
+[Worker 30] Taking job off queue at 03:08:14 2016-08-19
+[Job for client 108] Responded at 03:08:14 2016-08-19
+[Worker 42] Job finished at 03:08:14 2016-08-19
+[Worker 42] Taking job off queue at 03:08:14 2016-08-19
+[Worker 39] Running job at 03:08:14 2016-08-19
+[Job for client 109] Running command MUL,849,691 at 03:08:14 2016-08-19
+[Job for client 109] Responded at 03:08:14 2016-08-19
+[Worker 39] Job finished at 03:08:14 2016-08-19
+[Worker 39] Taking job off queue at 03:08:14 2016-08-19
+[Worker 21] Running job at 03:08:14 2016-08-19
+[Job for client 110] Running command SUB,64,467 at 03:08:14 2016-08-19
+[Job for client 110] Responded at 03:08:14 2016-08-19
+[Worker 21] Job finished at 03:08:14 2016-08-19
+[Worker 21] Taking job off queue at 03:08:14 2016-08-19
+[Worker 32] Running job at 03:08:14 2016-08-19
+[Job for client 111] Running command MUL,10,425 at 03:08:14 2016-08-19
+[Job for client 111] Responded at 03:08:14 2016-08-19
+[Worker 32] Job finished at 03:08:14 2016-08-19
+[Worker 32] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 148] Client handler done at 03:08:14 2016-08-19
+[Worker 28] Running job at 03:08:14 2016-08-19
+[Job for client 112] Running command MUL,528,770 at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 36 at 03:08:14 2016-08-19
+[Job for client 112] Responded at 03:08:14 2016-08-19
+[Worker 28] Job finished at 03:08:14 2016-08-19
+[Worker 28] Taking job off queue at 03:08:14 2016-08-19
+[Worker 14] Running job at 03:08:14 2016-08-19
+[Job for client 113] Running command SUB,33,84 at 03:08:14 2016-08-19
+[Job for client 113] Responded at 03:08:14 2016-08-19
+[Worker 14] Job finished at 03:08:14 2016-08-19
+[Worker 14] Taking job off queue at 03:08:14 2016-08-19
+[Worker 10] Running job at 03:08:14 2016-08-19
+[Job for client 114] Running command SUB,958,778 at 03:08:14 2016-08-19
+[Job for client 114] Responded at 03:08:14 2016-08-19
+[Worker 10] Job finished at 03:08:14 2016-08-19
+[Worker 10] Taking job off queue at 03:08:14 2016-08-19
+[Worker 7] Running job at 03:08:14 2016-08-19
+[Job for client 115] Running command MUL,577,898 at 03:08:14 2016-08-19
+[Job for client 115] Responded at 03:08:14 2016-08-19
+[Worker 7] Job finished at 03:08:14 2016-08-19
+[Worker 7] Taking job off queue at 03:08:14 2016-08-19
+[Worker 6] Running job at 03:08:14 2016-08-19
+[Job for client 116] Running command MUL,619,310 at 03:08:14 2016-08-19
+[Job for client 116] Responded at 03:08:14 2016-08-19
+[Worker 6] Job finished at 03:08:14 2016-08-19
+[Worker 6] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 149] Client handler done at 03:08:14 2016-08-19
+[Worker 1] Running job at 03:08:14 2016-08-19
+[Job for client 117] Running command ADD,86,492 at 03:08:14 2016-08-19
+[Job for client 117] Responded at 03:08:14 2016-08-19
+[Worker 1] Job finished at 03:08:14 2016-08-19
+[Worker 1] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 150] Client handler done at 03:08:14 2016-08-19
+[Worker 1] Running job at 03:08:14 2016-08-19
+[Job for client 118] Running command MUL,149,609 at 03:08:14 2016-08-19
+[Job for client 118] Responded at 03:08:14 2016-08-19
+[Worker 1] Job finished at 03:08:14 2016-08-19
+[Worker 1] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 151] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 152] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 153] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 154] Client handler done at 03:08:14 2016-08-19
+[Capitalize thread for client 155] Client handler done at 03:08:14 2016-08-19
+[ThreadManager] # Jobs: 37 at 03:08:14 2016-08-19
+[Worker 47] Running job at 03:08:14 2016-08-19
+[Job for client 119] Running command DIV,668,519 at 03:08:14 2016-08-19
+[Job for client 119] Responded at 03:08:14 2016-08-19
+[Worker 47] Job finished at 03:08:14 2016-08-19
+[Capitalize thread for client 156] Client handler done at 03:08:14 2016-08-19
+[Worker 47] Taking job off queue at 03:08:14 2016-08-19
+[Worker 45] Running job at 03:08:14 2016-08-19
+[Job for client 120] Running command DIV,297,613 at 03:08:14 2016-08-19
+[Job for client 120] Responded at 03:08:14 2016-08-19
+[Worker 45] Job finished at 03:08:14 2016-08-19
+[Worker 45] Taking job off queue at 03:08:14 2016-08-19
+[Capitalize thread for client 157] Client handler done at 03:08:14 2016-08-19
+[Worker 34] Running job at 03:08:14 2016-08-19
+[Job for client 121] Running command SUB,394,558 at 03:08:14 2016-08-19
+[Job for client 121] Responded at 03:08:14 2016-08-19
+[Worker 34] Job finished at 03:08:14 2016-08-19
+[Worker 34] Taking job off queue at 03:08:14 2016-08-19
+[Worker 26] Running job at 03:08:14 2016-08-19
+[Worker 35] Running job at 03:08:14 2016-08-19
+[Job for client 122] Running command SUB,935,217 at 03:08:14 2016-08-19
+[Job for client 123] Running command ADD,860,805 at 03:08:14 2016-08-19
+[Job for client 122] Responded at 03:08:14 2016-08-19
+[Job for client 123] Responded at 03:08:14 2016-08-19
+[Worker 26] Job finished at 03:08:14 2016-08-19
+[Worker 35] Job finished at 03:08:14 2016-08-19
+[Worker 26] Taking job off queue at 03:08:14 2016-08-19
+[Worker 35] Taking job off queue at 03:08:14 2016-08-19
+[Worker 41] Running job at 03:08:14 2016-08-19
+[Job for client 125] Running command ADD,318,95 at 03:08:14 2016-08-19
+[Job for client 125] Responded at 03:08:14 2016-08-19
+[Worker 41] Job finished at 03:08:14 2016-08-19
+[Worker 41] Taking job off queue at 03:08:14 2016-08-19
+[Worker 18] Running job at 03:08:14 2016-08-19
+[Job for client 124] Running command DIV,498,737 at 03:08:14 2016-08-19
+[Job for client 124] Responded at 03:08:14 2016-08-19
+[Worker 18] Job finished at 03:08:14 2016-08-19
+[Worker 18] Taking job off queue at 03:08:14 2016-08-19
+[Worker 12] Running job at 03:08:14 2016-08-19
+[Job for client 126] Running command ADD,461,440 at 03:08:14 2016-08-19
+[Job for client 126] Responded at 03:08:14 2016-08-19
+[Worker 12] Job finished at 03:08:14 2016-08-19
+[Worker 12] Taking job off queue at 03:08:14 2016-08-19
+[Worker 36] Running job at 03:08:15 2016-08-19
+[Worker 29] Running job at 03:08:15 2016-08-19
+[Job for client 128] Running command SUB,153,881 at 03:08:15 2016-08-19
+[Job for client 127] Running command DIV,538,382 at 03:08:15 2016-08-19
+[Job for client 128] Responded at 03:08:15 2016-08-19
+[Worker 36] Job finished at 03:08:15 2016-08-19
+[Worker 36] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 127] Responded at 03:08:15 2016-08-19
+[Worker 29] Job finished at 03:08:15 2016-08-19
+[Worker 17] Running job at 03:08:15 2016-08-19
+[Worker 29] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 129] Running command DIV,472,525 at 03:08:15 2016-08-19
+[Job for client 129] Responded at 03:08:15 2016-08-19
+[Worker 17] Job finished at 03:08:15 2016-08-19
+[Worker 17] Taking job off queue at 03:08:15 2016-08-19
+[Worker 2] Running job at 03:08:15 2016-08-19
+[Job for client 130] Running command SUB,783,678 at 03:08:15 2016-08-19
+[Job for client 130] Responded at 03:08:15 2016-08-19
+[Worker 2] Job finished at 03:08:15 2016-08-19
+[Worker 2] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 158] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 159] Client handler done at 03:08:15 2016-08-19
+[Worker 47] Running job at 03:08:15 2016-08-19
+[Job for client 132] Running command MUL,887,426 at 03:08:15 2016-08-19
+[Worker 0] Running job at 03:08:15 2016-08-19
+[Job for client 131] Running command DIV,943,320 at 03:08:15 2016-08-19
+[Job for client 132] Responded at 03:08:15 2016-08-19
+[Worker 47] Job finished at 03:08:15 2016-08-19
+[Job for client 131] Responded at 03:08:15 2016-08-19
+[Worker 0] Job finished at 03:08:15 2016-08-19
+[Worker 47] Taking job off queue at 03:08:15 2016-08-19
+[Worker 0] Taking job off queue at 03:08:15 2016-08-19
+[Worker 15] Running job at 03:08:15 2016-08-19
+[Worker 18] Running job at 03:08:15 2016-08-19
+[Job for client 134] Running command DIV,236,593 at 03:08:15 2016-08-19
+[Job for client 133] Running command MUL,530,639 at 03:08:15 2016-08-19
+[Job for client 134] Responded at 03:08:15 2016-08-19
+[Job for client 133] Responded at 03:08:15 2016-08-19
+[Capitalize thread for client 160] Client handler done at 03:08:15 2016-08-19
+[Worker 18] Job finished at 03:08:15 2016-08-19
+[Worker 15] Job finished at 03:08:15 2016-08-19
+[Worker 18] Taking job off queue at 03:08:15 2016-08-19
+[Worker 15] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 26 at 03:08:15 2016-08-19
+[Worker 6] Running job at 03:08:15 2016-08-19
+[Job for client 135] Running command DIV,161,893 at 03:08:15 2016-08-19
+[Worker 49] Running job at 03:08:15 2016-08-19
+[Job for client 136] Running command SUB,316,990 at 03:08:15 2016-08-19
+[Job for client 136] Responded at 03:08:15 2016-08-19
+[Worker 49] Job finished at 03:08:15 2016-08-19
+[Worker 49] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 135] Responded at 03:08:15 2016-08-19
+[Worker 6] Job finished at 03:08:15 2016-08-19
+[Worker 6] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 162] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 161] Client handler done at 03:08:15 2016-08-19
+[Worker 3] Running job at 03:08:15 2016-08-19
+[Worker 2] Running job at 03:08:15 2016-08-19
+[Job for client 138] Running command SUB,611,753 at 03:08:15 2016-08-19
+[Job for client 137] Running command DIV,354,642 at 03:08:15 2016-08-19
+[Worker 6] Running job at 03:08:15 2016-08-19
+[Job for client 139] Running command DIV,141,386 at 03:08:15 2016-08-19
+[Job for client 139] Responded at 03:08:15 2016-08-19
+[Worker 6] Job finished at 03:08:15 2016-08-19
+[Job for client 137] Responded at 03:08:15 2016-08-19
+[Job for client 138] Responded at 03:08:15 2016-08-19
+[Worker 3] Job finished at 03:08:15 2016-08-19
+[Worker 3] Taking job off queue at 03:08:15 2016-08-19
+[Worker 2] Job finished at 03:08:15 2016-08-19
+[Worker 2] Taking job off queue at 03:08:15 2016-08-19
+[Worker 6] Taking job off queue at 03:08:15 2016-08-19
+[Worker 33] Running job at 03:08:15 2016-08-19
+[Job for client 140] Running command DIV,102,881 at 03:08:15 2016-08-19
+[Job for client 140] Responded at 03:08:15 2016-08-19
+[Worker 33] Job finished at 03:08:15 2016-08-19
+[Worker 33] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 163] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 164] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 165] Client handler done at 03:08:15 2016-08-19
+[Worker 38] Running job at 03:08:15 2016-08-19
+[Job for client 141] Running command SUB,508,893 at 03:08:15 2016-08-19
+[Job for client 141] Responded at 03:08:15 2016-08-19
+[Worker 38] Job finished at 03:08:15 2016-08-19
+[Worker 38] Taking job off queue at 03:08:15 2016-08-19
+[Worker 14] Running job at 03:08:15 2016-08-19
+[Worker 3] Running job at 03:08:15 2016-08-19
+[Job for client 143] Running command DIV,560,645 at 03:08:15 2016-08-19
+[Job for client 142] Running command SUB,725,862 at 03:08:15 2016-08-19
+[Job for client 143] Responded at 03:08:15 2016-08-19
+[Job for client 142] Responded at 03:08:15 2016-08-19
+[Worker 14] Job finished at 03:08:15 2016-08-19
+[Worker 3] Job finished at 03:08:15 2016-08-19
+[Worker 14] Taking job off queue at 03:08:15 2016-08-19
+[Worker 3] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 22 at 03:08:15 2016-08-19
+[Worker 1] Running job at 03:08:15 2016-08-19
+[Job for client 145] Running command ADD,693,594 at 03:08:15 2016-08-19
+[Job for client 145] Responded at 03:08:15 2016-08-19
+[Worker 1] Job finished at 03:08:15 2016-08-19
+[Worker 1] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 166] Client handler done at 03:08:15 2016-08-19
+[Worker 20] Running job at 03:08:15 2016-08-19
+[Job for client 144] Running command SUB,553,248 at 03:08:15 2016-08-19
+[Job for client 144] Responded at 03:08:15 2016-08-19
+[Worker 20] Job finished at 03:08:15 2016-08-19
+[Worker 20] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 167] Client handler done at 03:08:15 2016-08-19
+[Worker 16] Running job at 03:08:15 2016-08-19
+[Worker 8] Running job at 03:08:15 2016-08-19
+[Job for client 146] Running command SUB,665,574 at 03:08:15 2016-08-19
+[Job for client 147] Running command DIV,181,980 at 03:08:15 2016-08-19
+[Job for client 146] Responded at 03:08:15 2016-08-19
+[Job for client 147] Responded at 03:08:15 2016-08-19
+[Worker 16] Job finished at 03:08:15 2016-08-19
+[Worker 8] Job finished at 03:08:15 2016-08-19
+[Worker 16] Taking job off queue at 03:08:15 2016-08-19
+[Worker 8] Taking job off queue at 03:08:15 2016-08-19
+[Worker 24] Running job at 03:08:15 2016-08-19
+[Job for client 148] Running command ADD,536,744 at 03:08:15 2016-08-19
+[Job for client 148] Responded at 03:08:15 2016-08-19
+[Worker 24] Job finished at 03:08:15 2016-08-19
+[Worker 24] Taking job off queue at 03:08:15 2016-08-19
+[Worker 34] Running job at 03:08:15 2016-08-19
+[Job for client 149] Running command MUL,780,274 at 03:08:15 2016-08-19
+[Job for client 149] Responded at 03:08:15 2016-08-19
+[Worker 34] Job finished at 03:08:15 2016-08-19
+[Worker 34] Taking job off queue at 03:08:15 2016-08-19
+[Worker 16] Running job at 03:08:15 2016-08-19
+[Worker 17] Running job at 03:08:15 2016-08-19
+[Job for client 150] Running command DIV,754,315 at 03:08:15 2016-08-19
+[Job for client 151] Running command ADD,935,967 at 03:08:15 2016-08-19
+[Job for client 150] Responded at 03:08:15 2016-08-19
+[Worker 16] Job finished at 03:08:15 2016-08-19
+[Job for client 151] Responded at 03:08:15 2016-08-19
+[Worker 16] Taking job off queue at 03:08:15 2016-08-19
+[Worker 17] Job finished at 03:08:15 2016-08-19
+[Worker 17] Taking job off queue at 03:08:15 2016-08-19
+[Worker 27] Running job at 03:08:15 2016-08-19
+[Job for client 152] Running command SUB,493,255 at 03:08:15 2016-08-19
+[Job for client 152] Responded at 03:08:15 2016-08-19
+[Worker 27] Job finished at 03:08:15 2016-08-19
+[Worker 27] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 168] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 169] Client handler done at 03:08:15 2016-08-19
+[Worker 8] Running job at 03:08:15 2016-08-19
+[Job for client 153] Running command DIV,480,171 at 03:08:15 2016-08-19
+[Job for client 153] Responded at 03:08:15 2016-08-19
+[Worker 8] Job finished at 03:08:15 2016-08-19
+[Worker 8] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 170] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 171] Client handler done at 03:08:15 2016-08-19
+[Worker 37] Running job at 03:08:15 2016-08-19
+[Job for client 154] Running command ADD,522,704 at 03:08:15 2016-08-19
+[Job for client 154] Responded at 03:08:15 2016-08-19
+[Worker 37] Job finished at 03:08:15 2016-08-19
+[Worker 37] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 17 at 03:08:15 2016-08-19
+[Capitalize thread for client 172] Client handler done at 03:08:15 2016-08-19
+[Worker 44] Running job at 03:08:15 2016-08-19
+[Job for client 155] Running command MUL,369,482 at 03:08:15 2016-08-19
+[Job for client 155] Responded at 03:08:15 2016-08-19
+[Worker 44] Job finished at 03:08:15 2016-08-19
+[Worker 44] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 173] Client handler done at 03:08:15 2016-08-19
+[Worker 5] Running job at 03:08:15 2016-08-19
+[Job for client 156] Running command ADD,66,953 at 03:08:15 2016-08-19
+[Job for client 156] Responded at 03:08:15 2016-08-19
+[Worker 5] Job finished at 03:08:15 2016-08-19
+[Worker 5] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 174] Client handler done at 03:08:15 2016-08-19
+[Worker 46] Running job at 03:08:15 2016-08-19
+[Job for client 157] Running command ADD,103,705 at 03:08:15 2016-08-19
+[Job for client 157] Responded at 03:08:15 2016-08-19
+[Worker 46] Job finished at 03:08:15 2016-08-19
+[Worker 46] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 175] Client handler done at 03:08:15 2016-08-19
+[Worker 25] Running job at 03:08:15 2016-08-19
+[Job for client 158] Running command MUL,119,86 at 03:08:15 2016-08-19
+[Job for client 158] Responded at 03:08:15 2016-08-19
+[Worker 25] Job finished at 03:08:15 2016-08-19
+[Worker 25] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 176] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 177] Client handler done at 03:08:15 2016-08-19
+[Worker 40] Running job at 03:08:15 2016-08-19
+[Job for client 159] Running command MUL,964,149 at 03:08:15 2016-08-19
+[Job for client 159] Responded at 03:08:15 2016-08-19
+[Worker 40] Job finished at 03:08:15 2016-08-19
+[Worker 40] Taking job off queue at 03:08:15 2016-08-19
+[Worker 26] Running job at 03:08:15 2016-08-19
+[Worker 14] Running job at 03:08:15 2016-08-19
+[Job for client 161] Running command MUL,413,863 at 03:08:15 2016-08-19
+[Job for client 160] Running command SUB,56,846 at 03:08:15 2016-08-19
+[Job for client 160] Responded at 03:08:15 2016-08-19
+[Worker 14] Job finished at 03:08:15 2016-08-19
+[Worker 14] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 161] Responded at 03:08:15 2016-08-19
+[Worker 26] Job finished at 03:08:15 2016-08-19
+[Worker 26] Taking job off queue at 03:08:15 2016-08-19
+[Worker 11] Running job at 03:08:15 2016-08-19
+[Job for client 162] Running command DIV,841,404 at 03:08:15 2016-08-19
+[Job for client 162] Responded at 03:08:15 2016-08-19
+[Worker 11] Job finished at 03:08:15 2016-08-19
+[Worker 11] Taking job off queue at 03:08:15 2016-08-19
+[Worker 32] Running job at 03:08:15 2016-08-19
+[Job for client 163] Running command SUB,624,120 at 03:08:15 2016-08-19
+[Job for client 163] Responded at 03:08:15 2016-08-19
+[Worker 32] Job finished at 03:08:15 2016-08-19
+[Worker 32] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 178] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 179] Client handler done at 03:08:15 2016-08-19
+[Worker 13] Running job at 03:08:15 2016-08-19
+[Job for client 164] Running command ADD,328,995 at 03:08:15 2016-08-19
+[Job for client 164] Responded at 03:08:15 2016-08-19
+[Worker 13] Job finished at 03:08:15 2016-08-19
+[Worker 13] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 15 at 03:08:15 2016-08-19
+[Worker 10] Running job at 03:08:15 2016-08-19
+[Job for client 165] Running command ADD,189,688 at 03:08:15 2016-08-19
+[Job for client 165] Responded at 03:08:15 2016-08-19
+[Worker 10] Job finished at 03:08:15 2016-08-19
+[Worker 10] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 180] Client handler done at 03:08:15 2016-08-19
+[Worker 19] Running job at 03:08:15 2016-08-19
+[Job for client 166] Running command MUL,606,248 at 03:08:15 2016-08-19
+[Job for client 166] Responded at 03:08:15 2016-08-19
+[Worker 19] Job finished at 03:08:15 2016-08-19
+[Worker 19] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 181] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 182] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 183] Client handler done at 03:08:15 2016-08-19
+[Worker 38] Running job at 03:08:15 2016-08-19
+[Job for client 167] Running command DIV,94,592 at 03:08:15 2016-08-19
+[Job for client 167] Responded at 03:08:15 2016-08-19
+[Worker 38] Job finished at 03:08:15 2016-08-19
+[Worker 38] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 184] Client handler done at 03:08:15 2016-08-19
+[Worker 33] Running job at 03:08:15 2016-08-19
+[Worker 15] Running job at 03:08:15 2016-08-19
+[Job for client 168] Running command SUB,496,627 at 03:08:15 2016-08-19
+[Job for client 169] Running command MUL,244,622 at 03:08:15 2016-08-19
+[Job for client 168] Responded at 03:08:15 2016-08-19
+[Worker 33] Job finished at 03:08:15 2016-08-19
+[Worker 33] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 169] Responded at 03:08:15 2016-08-19
+[Worker 15] Job finished at 03:08:15 2016-08-19
+[Worker 15] Taking job off queue at 03:08:15 2016-08-19
+[Worker 30] Running job at 03:08:15 2016-08-19
+[Job for client 170] Running command SUB,476,445 at 03:08:15 2016-08-19
+[Job for client 170] Responded at 03:08:15 2016-08-19
+[Worker 30] Job finished at 03:08:15 2016-08-19
+[Worker 30] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 185] Client handler done at 03:08:15 2016-08-19
+[Worker 26] Running job at 03:08:15 2016-08-19
+[Job for client 171] Running command SUB,598,69 at 03:08:15 2016-08-19
+[Job for client 171] Responded at 03:08:15 2016-08-19
+[Worker 26] Job finished at 03:08:15 2016-08-19
+[Worker 26] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 14 at 03:08:15 2016-08-19
+[Worker 43] Running job at 03:08:15 2016-08-19
+[Job for client 172] Running command MUL,806,430 at 03:08:15 2016-08-19
+[Job for client 172] Responded at 03:08:15 2016-08-19
+[Worker 43] Job finished at 03:08:15 2016-08-19
+[Worker 43] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 186] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 187] Client handler done at 03:08:15 2016-08-19
+[Worker 5] Running job at 03:08:15 2016-08-19
+[Job for client 173] Running command SUB,835,886 at 03:08:15 2016-08-19
+[Job for client 173] Responded at 03:08:15 2016-08-19
+[Worker 5] Job finished at 03:08:15 2016-08-19
+[Worker 5] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 188] Client handler done at 03:08:15 2016-08-19
+[Worker 48] Running job at 03:08:15 2016-08-19
+[Job for client 174] Running command ADD,462,827 at 03:08:15 2016-08-19
+[Job for client 174] Responded at 03:08:15 2016-08-19
+[Worker 48] Job finished at 03:08:15 2016-08-19
+[Worker 48] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 189] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 190] Client handler done at 03:08:15 2016-08-19
+[Worker 9] Running job at 03:08:15 2016-08-19
+[Job for client 175] Running command DIV,155,310 at 03:08:15 2016-08-19
+[Job for client 175] Responded at 03:08:15 2016-08-19
+[Worker 9] Job finished at 03:08:15 2016-08-19
+[Worker 9] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 191] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 192] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 193] Client handler done at 03:08:15 2016-08-19
+[Worker 27] Running job at 03:08:15 2016-08-19
+[Job for client 176] Running command ADD,349,807 at 03:08:15 2016-08-19
+[Job for client 176] Responded at 03:08:15 2016-08-19
+[Worker 1] Running job at 03:08:15 2016-08-19
+[Job for client 177] Running command ADD,204,878 at 03:08:15 2016-08-19
+[Job for client 177] Responded at 03:08:15 2016-08-19
+[Worker 1] Job finished at 03:08:15 2016-08-19
+[Worker 1] Taking job off queue at 03:08:15 2016-08-19
+[Worker 27] Job finished at 03:08:15 2016-08-19
+[Worker 27] Taking job off queue at 03:08:15 2016-08-19
+[Worker 9] Running job at 03:08:15 2016-08-19
+[Job for client 178] Running command ADD,701,553 at 03:08:15 2016-08-19
+[Job for client 178] Responded at 03:08:15 2016-08-19
+[Worker 9] Job finished at 03:08:15 2016-08-19
+[Worker 9] Taking job off queue at 03:08:15 2016-08-19
+[Worker 14] Running job at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 15 at 03:08:15 2016-08-19
+[Job for client 179] Running command SUB,478,222 at 03:08:15 2016-08-19
+[Job for client 179] Responded at 03:08:15 2016-08-19
+[Worker 14] Job finished at 03:08:15 2016-08-19
+[Worker 14] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 194] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 195] Client handler done at 03:08:15 2016-08-19
+[Worker 36] Running job at 03:08:15 2016-08-19
+[Job for client 180] Running command ADD,620,891 at 03:08:15 2016-08-19
+[Job for client 180] Responded at 03:08:15 2016-08-19
+[Worker 36] Job finished at 03:08:15 2016-08-19
+[Worker 36] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 196] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 197] Client handler done at 03:08:15 2016-08-19
+[Worker 5] Running job at 03:08:15 2016-08-19
+[Job for client 181] Running command ADD,919,557 at 03:08:15 2016-08-19
+[Job for client 181] Responded at 03:08:15 2016-08-19
+[Worker 5] Job finished at 03:08:15 2016-08-19
+[Worker 5] Taking job off queue at 03:08:15 2016-08-19
+[Worker 35] Running job at 03:08:15 2016-08-19
+[Job for client 182] Running command MUL,535,83 at 03:08:15 2016-08-19
+[Job for client 182] Responded at 03:08:15 2016-08-19
+[Worker 35] Job finished at 03:08:15 2016-08-19
+[Worker 35] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 198] Client handler done at 03:08:15 2016-08-19
+[Worker 19] Running job at 03:08:15 2016-08-19
+[Job for client 183] Running command SUB,506,378 at 03:08:15 2016-08-19
+[Job for client 183] Responded at 03:08:15 2016-08-19
+[Worker 19] Job finished at 03:08:15 2016-08-19
+[Worker 19] Taking job off queue at 03:08:15 2016-08-19
+[Worker 31] Running job at 03:08:15 2016-08-19
+[Job for client 184] Running command ADD,573,68 at 03:08:15 2016-08-19
+[Worker 22] Running job at 03:08:15 2016-08-19
+[Job for client 185] Running command ADD,199,957 at 03:08:15 2016-08-19
+[Job for client 185] Responded at 03:08:15 2016-08-19
+[Worker 22] Job finished at 03:08:15 2016-08-19
+[Worker 22] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 184] Responded at 03:08:15 2016-08-19
+[Worker 31] Job finished at 03:08:15 2016-08-19
+[Worker 31] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 199] Client handler done at 03:08:15 2016-08-19
+[Worker 42] Running job at 03:08:15 2016-08-19
+[Job for client 186] Running command ADD,858,797 at 03:08:15 2016-08-19
+[Job for client 186] Responded at 03:08:15 2016-08-19
+[Worker 42] Job finished at 03:08:15 2016-08-19
+[Worker 42] Taking job off queue at 03:08:15 2016-08-19
+[Worker 30] Running job at 03:08:15 2016-08-19
+[Job for client 187] Running command MUL,991,609 at 03:08:15 2016-08-19
+[Job for client 187] Responded at 03:08:15 2016-08-19
+[Worker 30] Job finished at 03:08:15 2016-08-19
+[Worker 30] Taking job off queue at 03:08:15 2016-08-19
+[Worker 28] Running job at 03:08:15 2016-08-19
+[Job for client 188] Running command ADD,464,222 at 03:08:15 2016-08-19
+[Job for client 188] Responded at 03:08:15 2016-08-19
+[Worker 28] Job finished at 03:08:15 2016-08-19
+[Worker 28] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 200] Client handler done at 03:08:15 2016-08-19
+[Worker 0] Running job at 03:08:15 2016-08-19
+[Worker 27] Running job at 03:08:15 2016-08-19
+[Job for client 190] Running command SUB,232,917 at 03:08:15 2016-08-19
+[Job for client 189] Running command SUB,946,399 at 03:08:15 2016-08-19
+[Job for client 190] Responded at 03:08:15 2016-08-19
+[Worker 0] Job finished at 03:08:15 2016-08-19
+[Worker 0] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 189] Responded at 03:08:15 2016-08-19
+[Worker 27] Job finished at 03:08:15 2016-08-19
+[Worker 27] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 201] Client handler done at 03:08:15 2016-08-19
+[Worker 6] Running job at 03:08:15 2016-08-19
+[Job for client 191] Running command ADD,392,607 at 03:08:15 2016-08-19
+[Job for client 191] Responded at 03:08:15 2016-08-19
+[Worker 6] Job finished at 03:08:15 2016-08-19
+[Worker 6] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 202] Client handler done at 03:08:15 2016-08-19
+[Worker 4] Running job at 03:08:15 2016-08-19
+[Job for client 192] Running command DIV,8,681 at 03:08:15 2016-08-19
+[Job for client 192] Responded at 03:08:15 2016-08-19
+[Worker 4] Job finished at 03:08:15 2016-08-19
+[Worker 4] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 203] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 204] Client handler done at 03:08:15 2016-08-19
+[Worker 8] Running job at 03:08:15 2016-08-19
+[Job for client 193] Running command ADD,827,924 at 03:08:15 2016-08-19
+[Job for client 193] Responded at 03:08:15 2016-08-19
+[Worker 8] Job finished at 03:08:15 2016-08-19
+[Worker 8] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 11 at 03:08:15 2016-08-19
+[Capitalize thread for client 205] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 206] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 207] Client handler done at 03:08:15 2016-08-19
+[Worker 6] Running job at 03:08:15 2016-08-19
+[Worker 23] Running job at 03:08:15 2016-08-19
+[Job for client 194] Running command DIV,274,808 at 03:08:15 2016-08-19
+[Job for client 195] Running command DIV,588,444 at 03:08:15 2016-08-19
+[Job for client 194] Responded at 03:08:15 2016-08-19
+[Job for client 195] Responded at 03:08:15 2016-08-19
+[Worker 23] Job finished at 03:08:15 2016-08-19
+[Worker 6] Job finished at 03:08:15 2016-08-19
+[Worker 6] Taking job off queue at 03:08:15 2016-08-19
+[Worker 23] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 208] Client handler done at 03:08:15 2016-08-19
+[Worker 38] Running job at 03:08:15 2016-08-19
+[Job for client 196] Running command SUB,606,436 at 03:08:15 2016-08-19
+[Job for client 196] Responded at 03:08:15 2016-08-19
+[Worker 38] Job finished at 03:08:15 2016-08-19
+[Worker 38] Taking job off queue at 03:08:15 2016-08-19
+[Worker 45] Running job at 03:08:15 2016-08-19
+[Worker 41] Running job at 03:08:15 2016-08-19
+[Job for client 197] Running command MUL,515,763 at 03:08:15 2016-08-19
+[Job for client 198] Running command DIV,936,523 at 03:08:15 2016-08-19
+[Job for client 197] Responded at 03:08:15 2016-08-19
+[Job for client 198] Responded at 03:08:15 2016-08-19
+[Worker 41] Job finished at 03:08:15 2016-08-19
+[Worker 41] Taking job off queue at 03:08:15 2016-08-19
+[Worker 45] Job finished at 03:08:15 2016-08-19
+[Worker 45] Taking job off queue at 03:08:15 2016-08-19
+[Worker 27] Running job at 03:08:15 2016-08-19
+[Job for client 199] Running command ADD,759,284 at 03:08:15 2016-08-19
+[Job for client 199] Responded at 03:08:15 2016-08-19
+[Worker 27] Job finished at 03:08:15 2016-08-19
+[Worker 27] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 209] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 210] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 211] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 212] Client handler done at 03:08:15 2016-08-19
+[Worker 12] Running job at 03:08:15 2016-08-19
+[Worker 39] Running job at 03:08:15 2016-08-19
+[Job for client 200] Running command ADD,868,258 at 03:08:15 2016-08-19
+[Job for client 201] Running command DIV,648,52 at 03:08:15 2016-08-19
+[Job for client 201] Responded at 03:08:15 2016-08-19
+[Worker 12] Job finished at 03:08:15 2016-08-19
+[Worker 12] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 200] Responded at 03:08:15 2016-08-19
+[Worker 39] Job finished at 03:08:15 2016-08-19
+[Worker 39] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 213] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 214] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 215] Client handler done at 03:08:15 2016-08-19
+[Worker 39] Running job at 03:08:15 2016-08-19
+[Job for client 202] Running command DIV,727,490 at 03:08:15 2016-08-19
+[Job for client 202] Responded at 03:08:15 2016-08-19
+[Worker 39] Job finished at 03:08:15 2016-08-19
+[Worker 39] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 13 at 03:08:15 2016-08-19
+[Worker 49] Running job at 03:08:15 2016-08-19
+[Job for client 203] Running command SUB,435,804 at 03:08:15 2016-08-19
+[Job for client 203] Responded at 03:08:15 2016-08-19
+[Worker 49] Job finished at 03:08:15 2016-08-19
+[Worker 49] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 216] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 217] Client handler done at 03:08:15 2016-08-19
+[Worker 39] Running job at 03:08:15 2016-08-19
+[Worker 7] Running job at 03:08:15 2016-08-19
+[Job for client 204] Running command DIV,654,933 at 03:08:15 2016-08-19
+[Job for client 205] Running command SUB,930,97 at 03:08:15 2016-08-19
+[Job for client 205] Responded at 03:08:15 2016-08-19
+[Worker 7] Job finished at 03:08:15 2016-08-19
+[Worker 7] Taking job off queue at 03:08:15 2016-08-19
+[Job for client 204] Responded at 03:08:15 2016-08-19
+[Worker 39] Job finished at 03:08:15 2016-08-19
+[Worker 39] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 218] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 220] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 219] Client handler done at 03:08:15 2016-08-19
+[Worker 18] Running job at 03:08:15 2016-08-19
+[Job for client 206] Running command DIV,57,511 at 03:08:15 2016-08-19
+[Job for client 206] Responded at 03:08:15 2016-08-19
+[Worker 18] Job finished at 03:08:15 2016-08-19
+[Worker 18] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 221] Client handler done at 03:08:15 2016-08-19
+[Worker 21] Running job at 03:08:15 2016-08-19
+[Job for client 207] Running command DIV,156,23 at 03:08:15 2016-08-19
+[Job for client 207] Responded at 03:08:15 2016-08-19
+[Worker 21] Job finished at 03:08:15 2016-08-19
+[Worker 21] Taking job off queue at 03:08:15 2016-08-19
+[Worker 29] Running job at 03:08:15 2016-08-19
+[Job for client 208] Running command ADD,301,465 at 03:08:15 2016-08-19
+[Job for client 208] Responded at 03:08:15 2016-08-19
+[Worker 29] Job finished at 03:08:15 2016-08-19
+[Worker 29] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 222] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 223] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 224] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 225] Client handler done at 03:08:15 2016-08-19
+[Worker 7] Running job at 03:08:15 2016-08-19
+[Job for client 209] Running command MUL,682,132 at 03:08:15 2016-08-19
+[Job for client 209] Responded at 03:08:15 2016-08-19
+[Worker 7] Job finished at 03:08:15 2016-08-19
+[Worker 7] Taking job off queue at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 16 at 03:08:15 2016-08-19
+[Worker 9] Running job at 03:08:15 2016-08-19
+[Job for client 210] Running command SUB,48,313 at 03:08:15 2016-08-19
+[Job for client 210] Responded at 03:08:15 2016-08-19
+[Worker 9] Job finished at 03:08:15 2016-08-19
+[Worker 9] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 226] Client handler done at 03:08:15 2016-08-19
+[Worker 24] Running job at 03:08:15 2016-08-19
+[Job for client 211] Running command ADD,581,284 at 03:08:15 2016-08-19
+[Job for client 211] Responded at 03:08:15 2016-08-19
+[Worker 24] Job finished at 03:08:15 2016-08-19
+[Worker 24] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 227] Client handler done at 03:08:15 2016-08-19
+[Worker 28] Running job at 03:08:15 2016-08-19
+[Job for client 212] Running command DIV,863,836 at 03:08:15 2016-08-19
+[Job for client 212] Responded at 03:08:15 2016-08-19
+[Worker 28] Job finished at 03:08:15 2016-08-19
+[Worker 28] Taking job off queue at 03:08:15 2016-08-19
+[Worker 46] Running job at 03:08:15 2016-08-19
+[Worker 37] Running job at 03:08:15 2016-08-19
+[Job for client 213] Running command ADD,143,48 at 03:08:15 2016-08-19
+[Job for client 214] Running command SUB,815,764 at 03:08:15 2016-08-19
+[Job for client 213] Responded at 03:08:15 2016-08-19
+[Job for client 214] Responded at 03:08:15 2016-08-19
+[Worker 37] Job finished at 03:08:15 2016-08-19
+[Worker 37] Taking job off queue at 03:08:15 2016-08-19
+[Worker 46] Job finished at 03:08:15 2016-08-19
+[Worker 46] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 228] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 229] Client handler done at 03:08:15 2016-08-19
+[Worker 37] Running job at 03:08:15 2016-08-19
+[Job for client 215] Running command MUL,35,878 at 03:08:15 2016-08-19
+[Job for client 215] Responded at 03:08:15 2016-08-19
+[Worker 37] Job finished at 03:08:15 2016-08-19
+[Worker 37] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 230] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 231] Client handler done at 03:08:15 2016-08-19
+[Worker 16] Running job at 03:08:15 2016-08-19
+[Job for client 216] Running command SUB,755,41 at 03:08:15 2016-08-19
+[Job for client 216] Responded at 03:08:15 2016-08-19
+[Worker 16] Job finished at 03:08:15 2016-08-19
+[Worker 16] Taking job off queue at 03:08:15 2016-08-19
+[Capitalize thread for client 232] Client handler done at 03:08:15 2016-08-19
+[Capitalize thread for client 233] Client handler done at 03:08:15 2016-08-19
+[ThreadManager] # Jobs: 17 at 03:08:15 2016-08-19
+[Worker 17] Running job at 03:08:15 2016-08-19
+[Job for client 217] Running command MUL,707,807 at 03:08:15 2016-08-19
+[Job for client 217] Responded at 03:08:15 2016-08-19
+[Worker 17] Job finished at 03:08:15 2016-08-19
+[Worker 17] Taking job off queue at 03:08:15 2016-08-19
+[Worker 40] Running job at 03:08:15 2016-08-19
+[Job for client 219] Running command SUB,268,638 at 03:08:15 2016-08-19
+[Job for client 219] Responded at 03:08:15 2016-08-19
+[Worker 40] Job finished at 03:08:15 2016-08-19
+[Worker 40] Taking job off queue at 03:08:15 2016-08-19
+[Worker 10] Running job at 03:08:15 2016-08-19
+[Job for client 218] Running command DIV,847,567 at 03:08:15 2016-08-19
+[Job for client 218] Responded at 03:08:15 2016-08-19
+[Worker 10] Job finished at 03:08:15 2016-08-19
+[Worker 10] Taking job off queue at 03:08:15 2016-08-19
+[Worker 13] Running job at 03:08:15 2016-08-19
+[Job for client 220] Running command MUL,338,531 at 03:08:15 2016-08-19
+[Job for client 220] Responded at 03:08:15 2016-08-19
+[Worker 13] Job finished at 03:08:15 2016-08-19
+[Worker 13] Taking job off queue at 03:08:15 2016-08-19
+[Worker 29] Running job at 03:08:16 2016-08-19
+[Job for client 221] Running command SUB,399,942 at 03:08:16 2016-08-19
+[Job for client 221] Responded at 03:08:16 2016-08-19
+[Worker 29] Job finished at 03:08:16 2016-08-19
+[Worker 25] Running job at 03:08:16 2016-08-19
+[Worker 29] Taking job off queue at 03:08:16 2016-08-19
+[Job for client 222] Running command MUL,999,433 at 03:08:16 2016-08-19
+[Job for client 222] Responded at 03:08:16 2016-08-19
+[Worker 25] Job finished at 03:08:16 2016-08-19
+[Worker 25] Taking job off queue at 03:08:16 2016-08-19
+[Worker 44] Running job at 03:08:16 2016-08-19
+[Job for client 223] Running command SUB,854,925 at 03:08:16 2016-08-19
+[Worker 20] Running job at 03:08:16 2016-08-19
+[Job for client 223] Responded at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Worker 44] Job finished at 03:08:16 2016-08-19
+[Worker 44] Taking job off queue at 03:08:16 2016-08-19
+[Job for client 225] Running command ADD,402,489 at 03:08:16 2016-08-19
+[Worker 11] Running job at 03:08:16 2016-08-19
+[Job for client 225] Responded at 03:08:16 2016-08-19
+[Job for client 224] Running command ADD,158,487 at 03:08:16 2016-08-19
+[Job for client 224] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Worker 20] Job finished at 03:08:16 2016-08-19
+[Worker 20] Taking job off queue at 03:08:16 2016-08-19
+[Job for client 226] Running command MUL,148,45 at 03:08:16 2016-08-19
+[Job for client 226] Responded at 03:08:16 2016-08-19
+[Worker 11] Job finished at 03:08:16 2016-08-19
+[Worker 11] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 234] Client handler done at 03:08:16 2016-08-19
+[Worker 2] Running job at 03:08:16 2016-08-19
+[Job for client 227] Running command SUB,236,767 at 03:08:16 2016-08-19
+[Job for client 227] Responded at 03:08:16 2016-08-19
+[Worker 2] Job finished at 03:08:16 2016-08-19
+[Worker 2] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 235] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 236] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 237] Client handler done at 03:08:16 2016-08-19
+[Worker 27] Running job at 03:08:16 2016-08-19
+[Job for client 228] Running command SUB,450,296 at 03:08:16 2016-08-19
+[Job for client 228] Responded at 03:08:16 2016-08-19
+[Worker 27] Job finished at 03:08:16 2016-08-19
+[Worker 27] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 238] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 239] Client handler done at 03:08:16 2016-08-19
+[ThreadManager] # Jobs: 11 at 03:08:16 2016-08-19
+[Worker 43] Running job at 03:08:16 2016-08-19
+[Job for client 229] Running command MUL,753,366 at 03:08:16 2016-08-19
+[Job for client 229] Responded at 03:08:16 2016-08-19
+[Worker 43] Job finished at 03:08:16 2016-08-19
+[Worker 43] Taking job off queue at 03:08:16 2016-08-19
+[Worker 40] Running job at 03:08:16 2016-08-19
+[Job for client 230] Running command DIV,234,726 at 03:08:16 2016-08-19
+[Job for client 230] Responded at 03:08:16 2016-08-19
+[Worker 40] Job finished at 03:08:16 2016-08-19
+[Worker 40] Taking job off queue at 03:08:16 2016-08-19
+[Worker 3] Running job at 03:08:16 2016-08-19
+[Job for client 231] Running command DIV,520,110 at 03:08:16 2016-08-19
+[Job for client 231] Responded at 03:08:16 2016-08-19
+[Worker 3] Job finished at 03:08:16 2016-08-19
+[Worker 3] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 240] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 241] Client handler done at 03:08:16 2016-08-19
+[Worker 22] Running job at 03:08:16 2016-08-19
+[Job for client 232] Running command MUL,542,238 at 03:08:16 2016-08-19
+[Job for client 232] Responded at 03:08:16 2016-08-19
+[Worker 22] Job finished at 03:08:16 2016-08-19
+[Worker 22] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 242] Client handler done at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Job for client 233] Running command ADD,870,402 at 03:08:16 2016-08-19
+[Job for client 233] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Worker 34] Running job at 03:08:16 2016-08-19
+[Job for client 234] Running command DIV,619,116 at 03:08:16 2016-08-19
+[Job for client 234] Responded at 03:08:16 2016-08-19
+[Worker 34] Job finished at 03:08:16 2016-08-19
+[Worker 34] Taking job off queue at 03:08:16 2016-08-19
+[Worker 48] Running job at 03:08:16 2016-08-19
+[Job for client 235] Running command MUL,531,254 at 03:08:16 2016-08-19
+[Worker 43] Running job at 03:08:16 2016-08-19
+[Job for client 235] Responded at 03:08:16 2016-08-19
+[Job for client 236] Running command SUB,320,595 at 03:08:16 2016-08-19
+[Worker 48] Job finished at 03:08:16 2016-08-19
+[Job for client 236] Responded at 03:08:16 2016-08-19
+[Worker 48] Taking job off queue at 03:08:16 2016-08-19
+[Worker 43] Job finished at 03:08:16 2016-08-19
+[Worker 43] Taking job off queue at 03:08:16 2016-08-19
+[Worker 46] Running job at 03:08:16 2016-08-19
+[Job for client 237] Running command MUL,469,290 at 03:08:16 2016-08-19
+[Job for client 237] Responded at 03:08:16 2016-08-19
+[Worker 46] Job finished at 03:08:16 2016-08-19
+[Worker 46] Taking job off queue at 03:08:16 2016-08-19
+[Worker 8] Running job at 03:08:16 2016-08-19
+[Job for client 238] Running command SUB,785,533 at 03:08:16 2016-08-19
+[Job for client 238] Responded at 03:08:16 2016-08-19
+[Worker 8] Job finished at 03:08:16 2016-08-19
+[Worker 8] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 243] Client handler done at 03:08:16 2016-08-19
+[Worker 13] Running job at 03:08:16 2016-08-19
+[Worker 30] Running job at 03:08:16 2016-08-19
+[ThreadManager] # Jobs: 5 at 03:08:16 2016-08-19
+[Job for client 239] Running command DIV,440,886 at 03:08:16 2016-08-19
+[Job for client 240] Running command MUL,352,235 at 03:08:16 2016-08-19
+[Job for client 239] Responded at 03:08:16 2016-08-19
+[Worker 30] Job finished at 03:08:16 2016-08-19
+[Worker 30] Taking job off queue at 03:08:16 2016-08-19
+[ThreadPool] Shrinking workers from 50 to 5 at 03:08:16 2016-08-19
+[Job for client 240] Responded at 03:08:16 2016-08-19
+[Worker 13] Job finished at 03:08:16 2016-08-19
+[Worker 13] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 244] Client handler done at 03:08:16 2016-08-19
+[Worker 5] Running job at 03:08:16 2016-08-19
+[Job for client 241] Running command MUL,52,111 at 03:08:16 2016-08-19
+[Job for client 241] Responded at 03:08:16 2016-08-19
+[Worker 5] Job finished at 03:08:16 2016-08-19
+[Worker 5] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 245] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 246] Client handler done at 03:08:16 2016-08-19
+[Worker 4] Running job at 03:08:16 2016-08-19
+[Worker 33] Running job at 03:08:16 2016-08-19
+[Job for client 243] Running command DIV,402,411 at 03:08:16 2016-08-19
+[Job for client 242] Running command DIV,98,200 at 03:08:16 2016-08-19
+[Job for client 242] Responded at 03:08:16 2016-08-19
+[Worker 33] Job finished at 03:08:16 2016-08-19
+[Worker 33] Done! at 03:08:16 2016-08-19
+[Job for client 243] Responded at 03:08:16 2016-08-19
+[Worker 4] Job finished at 03:08:16 2016-08-19
+[Worker 4] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 247] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 248] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 249] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 250] Client handler done at 03:08:16 2016-08-19
+[Worker 42] Running job at 03:08:16 2016-08-19
+[Job for client 244] Running command ADD,345,942 at 03:08:16 2016-08-19
+[Job for client 244] Responded at 03:08:16 2016-08-19
+[Worker 42] Job finished at 03:08:16 2016-08-19
+[Worker 42] Done! at 03:08:16 2016-08-19
+[Worker 48] Running job at 03:08:16 2016-08-19
+[Job for client 245] Running command ADD,378,393 at 03:08:16 2016-08-19
+[Job for client 245] Responded at 03:08:16 2016-08-19
+[Worker 48] Job finished at 03:08:16 2016-08-19
+[Worker 48] Taking job off queue at 03:08:16 2016-08-19
+[Worker 19] Running job at 03:08:16 2016-08-19
+[Job for client 246] Running command DIV,226,610 at 03:08:16 2016-08-19
+[Job for client 246] Responded at 03:08:16 2016-08-19
+[Worker 19] Job finished at 03:08:16 2016-08-19
+[Worker 19] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 251] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 252] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 253] Client handler done at 03:08:16 2016-08-19
+[Worker 1] Running job at 03:08:16 2016-08-19
+[Job for client 247] Running command MUL,892,157 at 03:08:16 2016-08-19
+[Job for client 247] Responded at 03:08:16 2016-08-19
+[Worker 1] Job finished at 03:08:16 2016-08-19
+[Worker 1] Done! at 03:08:16 2016-08-19
+[Worker 26] Running job at 03:08:16 2016-08-19
+[Job for client 248] Running command SUB,975,392 at 03:08:16 2016-08-19
+[Job for client 248] Responded at 03:08:16 2016-08-19
+[Worker 26] Job finished at 03:08:16 2016-08-19
+[Worker 26] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 254] Client handler done at 03:08:16 2016-08-19
+[Worker 36] Running job at 03:08:16 2016-08-19
+[Worker 35] Running job at 03:08:16 2016-08-19
+[Job for client 249] Running command MUL,385,655 at 03:08:16 2016-08-19
+[Job for client 250] Running command MUL,569,652 at 03:08:16 2016-08-19
+[Job for client 250] Responded at 03:08:16 2016-08-19
+[Job for client 249] Responded at 03:08:16 2016-08-19
+[Worker 35] Job finished at 03:08:16 2016-08-19
+[Worker 36] Job finished at 03:08:16 2016-08-19
+[Worker 35] Done! at 03:08:16 2016-08-19
+[Worker 36] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 255] Client handler done at 03:08:16 2016-08-19
+[Worker 46] Running job at 03:08:16 2016-08-19
+[Job for client 251] Running command ADD,69,675 at 03:08:16 2016-08-19
+[Job for client 251] Responded at 03:08:16 2016-08-19
+[Worker 14] Running job at 03:08:16 2016-08-19
+[Worker 46] Job finished at 03:08:16 2016-08-19
+[Job for client 252] Running command ADD,589,373 at 03:08:16 2016-08-19
+[Worker 46] Taking job off queue at 03:08:16 2016-08-19
+[Job for client 252] Responded at 03:08:16 2016-08-19
+[Worker 14] Job finished at 03:08:16 2016-08-19
+[Worker 14] Done! at 03:08:16 2016-08-19
+[Worker 27] Running job at 03:08:16 2016-08-19
+[Job for client 253] Running command ADD,988,344 at 03:08:16 2016-08-19
+[Job for client 253] Responded at 03:08:16 2016-08-19
+[Worker 27] Job finished at 03:08:16 2016-08-19
+[Worker 27] Done! at 03:08:16 2016-08-19
+[Worker 6] Running job at 03:08:16 2016-08-19
+[Job for client 254] Running command SUB,549,220 at 03:08:16 2016-08-19
+[Job for client 254] Responded at 03:08:16 2016-08-19
+[Worker 6] Job finished at 03:08:16 2016-08-19
+[Worker 6] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 257] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 256] Client handler done at 03:08:16 2016-08-19
+[Worker 32] Running job at 03:08:16 2016-08-19
+[Job for client 255] Running command MUL,873,515 at 03:08:16 2016-08-19
+[Job for client 255] Responded at 03:08:16 2016-08-19
+[Worker 32] Job finished at 03:08:16 2016-08-19
+[Worker 32] Done! at 03:08:16 2016-08-19
+[Worker 30] Running job at 03:08:16 2016-08-19
+[Job for client 257] Running command SUB,539,625 at 03:08:16 2016-08-19
+[Job for client 257] Responded at 03:08:16 2016-08-19
+[Worker 30] Job finished at 03:08:16 2016-08-19
+[Worker 30] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 259] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 258] Client handler done at 03:08:16 2016-08-19
+[Worker 22] Running job at 03:08:16 2016-08-19
+[Job for client 256] Running command MUL,306,472 at 03:08:16 2016-08-19
+[Job for client 256] Responded at 03:08:16 2016-08-19
+[Worker 22] Job finished at 03:08:16 2016-08-19
+[Worker 22] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 260] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 261] Client handler done at 03:08:16 2016-08-19
+[Worker 37] Running job at 03:08:16 2016-08-19
+[Job for client 259] Running command DIV,32,304 at 03:08:16 2016-08-19
+[Job for client 259] Responded at 03:08:16 2016-08-19
+[Worker 37] Job finished at 03:08:16 2016-08-19
+[Worker 37] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 262] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 263] Client handler done at 03:08:16 2016-08-19
+[Worker 31] Running job at 03:08:16 2016-08-19
+[Job for client 258] Running command DIV,145,353 at 03:08:16 2016-08-19
+[Job for client 258] Responded at 03:08:16 2016-08-19
+[Worker 31] Job finished at 03:08:16 2016-08-19
+[Worker 31] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 264] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 265] Client handler done at 03:08:16 2016-08-19
+[Worker 41] Running job at 03:08:16 2016-08-19
+[Job for client 260] Running command SUB,950,421 at 03:08:16 2016-08-19
+[Job for client 260] Responded at 03:08:16 2016-08-19
+[Worker 41] Job finished at 03:08:16 2016-08-19
+[Worker 41] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 266] Client handler done at 03:08:16 2016-08-19
+[Worker 15] Running job at 03:08:16 2016-08-19
+[Job for client 261] Running command DIV,283,532 at 03:08:16 2016-08-19
+[Job for client 261] Responded at 03:08:16 2016-08-19
+[Worker 15] Job finished at 03:08:16 2016-08-19
+[Worker 15] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 267] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 268] Client handler done at 03:08:16 2016-08-19
+[Worker 12] Running job at 03:08:16 2016-08-19
+[Job for client 262] Running command DIV,304,347 at 03:08:16 2016-08-19
+[Job for client 262] Responded at 03:08:16 2016-08-19
+[Worker 12] Job finished at 03:08:16 2016-08-19
+[Worker 12] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 269] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 270] Client handler done at 03:08:16 2016-08-19
+[Worker 45] Running job at 03:08:16 2016-08-19
+[Job for client 263] Running command MUL,456,922 at 03:08:16 2016-08-19
+[Job for client 263] Responded at 03:08:16 2016-08-19
+[Worker 45] Job finished at 03:08:16 2016-08-19
+[Worker 45] Taking job off queue at 03:08:16 2016-08-19
+[Worker 0] Running job at 03:08:16 2016-08-19
+[Worker 13] Running job at 03:08:16 2016-08-19
+[Job for client 265] Running command ADD,437,954 at 03:08:16 2016-08-19
+[Job for client 265] Responded at 03:08:16 2016-08-19
+[Worker 13] Job finished at 03:08:16 2016-08-19
+[Worker 13] Done! at 03:08:16 2016-08-19
+[Job for client 264] Running command SUB,393,987 at 03:08:16 2016-08-19
+[Job for client 264] Responded at 03:08:16 2016-08-19
+[Worker 0] Job finished at 03:08:16 2016-08-19
+[Worker 0] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 271] Client handler done at 03:08:16 2016-08-19
+[Worker 34] Running job at 03:08:16 2016-08-19
+[Worker 29] Running job at 03:08:16 2016-08-19
+[Job for client 266] Running command DIV,967,727 at 03:08:16 2016-08-19
+[Job for client 267] Running command MUL,971,764 at 03:08:16 2016-08-19
+[Job for client 266] Responded at 03:08:16 2016-08-19
+[Worker 34] Job finished at 03:08:16 2016-08-19
+[Worker 34] Done! at 03:08:16 2016-08-19
+[Job for client 267] Responded at 03:08:16 2016-08-19
+[Worker 29] Job finished at 03:08:16 2016-08-19
+[Worker 29] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 272] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 273] Client handler done at 03:08:16 2016-08-19
+[Worker 20] Running job at 03:08:16 2016-08-19
+[Job for client 268] Running command MUL,396,444 at 03:08:16 2016-08-19
+[Job for client 268] Responded at 03:08:16 2016-08-19
+[Worker 20] Job finished at 03:08:16 2016-08-19
+[Worker 20] Done! at 03:08:16 2016-08-19
+[Worker 25] Running job at 03:08:16 2016-08-19
+[Job for client 269] Running command MUL,546,949 at 03:08:16 2016-08-19
+[Job for client 269] Responded at 03:08:16 2016-08-19
+[Worker 25] Job finished at 03:08:16 2016-08-19
+[Worker 25] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 274] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 275] Client handler done at 03:08:16 2016-08-19
+[Worker 21] Running job at 03:08:16 2016-08-19
+[Job for client 270] Running command ADD,571,321 at 03:08:16 2016-08-19
+[Job for client 270] Responded at 03:08:16 2016-08-19
+[Worker 21] Job finished at 03:08:16 2016-08-19
+[Worker 21] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 276] Client handler done at 03:08:16 2016-08-19
+[Worker 38] Running job at 03:08:16 2016-08-19
+[Job for client 271] Running command SUB,215,357 at 03:08:16 2016-08-19
+[Job for client 271] Responded at 03:08:16 2016-08-19
+[Worker 38] Job finished at 03:08:16 2016-08-19
+[Worker 38] Done! at 03:08:16 2016-08-19
+[Worker 16] Running job at 03:08:16 2016-08-19
+[Worker 2] Running job at 03:08:16 2016-08-19
+[Job for client 272] Running command SUB,457,626 at 03:08:16 2016-08-19
+[Job for client 273] Running command MUL,391,876 at 03:08:16 2016-08-19
+[Job for client 272] Responded at 03:08:16 2016-08-19
+[Job for client 273] Responded at 03:08:16 2016-08-19
+[Worker 16] Job finished at 03:08:16 2016-08-19
+[Worker 2] Job finished at 03:08:16 2016-08-19
+[Worker 16] Done! at 03:08:16 2016-08-19
+[Worker 2] Done! at 03:08:16 2016-08-19
+[Worker 18] Running job at 03:08:16 2016-08-19
+[Job for client 274] Running command MUL,29,194 at 03:08:16 2016-08-19
+[Job for client 274] Responded at 03:08:16 2016-08-19
+[Worker 18] Job finished at 03:08:16 2016-08-19
+[Worker 18] Done! at 03:08:16 2016-08-19
+[Worker 28] Running job at 03:08:16 2016-08-19
+[Job for client 275] Running command DIV,360,215 at 03:08:16 2016-08-19
+[Job for client 275] Responded at 03:08:16 2016-08-19
+[Worker 28] Job finished at 03:08:16 2016-08-19
+[Worker 28] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 277] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 278] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 279] Client handler done at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Capitalize thread for client 280] Client handler done at 03:08:16 2016-08-19
+[Job for client 276] Running command MUL,95,510 at 03:08:16 2016-08-19
+[Job for client 276] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Worker 9] Running job at 03:08:16 2016-08-19
+[Job for client 277] Running command DIV,952,739 at 03:08:16 2016-08-19
+[Job for client 277] Responded at 03:08:16 2016-08-19
+[Worker 9] Job finished at 03:08:16 2016-08-19
+[Worker 9] Done! at 03:08:16 2016-08-19
+[Worker 40] Running job at 03:08:16 2016-08-19
+[Job for client 278] Running command SUB,996,530 at 03:08:16 2016-08-19
+[Job for client 278] Responded at 03:08:16 2016-08-19
+[Worker 40] Job finished at 03:08:16 2016-08-19
+[Worker 40] Done! at 03:08:16 2016-08-19
+[Worker 23] Running job at 03:08:16 2016-08-19
+[Job for client 279] Running command SUB,395,308 at 03:08:16 2016-08-19
+[Job for client 279] Responded at 03:08:16 2016-08-19
+[Worker 23] Job finished at 03:08:16 2016-08-19
+[Worker 23] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 281] Client handler done at 03:08:16 2016-08-19
+[Worker 39] Running job at 03:08:16 2016-08-19
+[Job for client 280] Running command DIV,111,918 at 03:08:16 2016-08-19
+[Job for client 280] Responded at 03:08:16 2016-08-19
+[Worker 39] Job finished at 03:08:16 2016-08-19
+[Worker 39] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 282] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 283] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 284] Client handler done at 03:08:16 2016-08-19
+[Worker 10] Running job at 03:08:16 2016-08-19
+[Job for client 281] Running command MUL,713,422 at 03:08:16 2016-08-19
+[Job for client 281] Responded at 03:08:16 2016-08-19
+[Worker 10] Job finished at 03:08:16 2016-08-19
+[Worker 10] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 285] Client handler done at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Job for client 282] Running command MUL,548,895 at 03:08:16 2016-08-19
+[Job for client 282] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 286] Client handler done at 03:08:16 2016-08-19
+[Worker 49] Running job at 03:08:16 2016-08-19
+[Job for client 283] Running command SUB,859,586 at 03:08:16 2016-08-19
+[Job for client 283] Responded at 03:08:16 2016-08-19
+[Worker 49] Job finished at 03:08:16 2016-08-19
+[Worker 49] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 287] Client handler done at 03:08:16 2016-08-19
+[Worker 17] Running job at 03:08:16 2016-08-19
+[Job for client 284] Running command MUL,669,119 at 03:08:16 2016-08-19
+[Job for client 284] Responded at 03:08:16 2016-08-19
+[Worker 17] Job finished at 03:08:16 2016-08-19
+[Worker 17] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 288] Client handler done at 03:08:16 2016-08-19
+[Worker 49] Running job at 03:08:16 2016-08-19
+[Worker 45] Running job at 03:08:16 2016-08-19
+[Job for client 286] Running command SUB,584,852 at 03:08:16 2016-08-19
+[Job for client 286] Responded at 03:08:16 2016-08-19
+[Worker 45] Job finished at 03:08:16 2016-08-19
+[Job for client 285] Running command ADD,758,451 at 03:08:16 2016-08-19
+[Job for client 285] Responded at 03:08:16 2016-08-19
+[Worker 49] Job finished at 03:08:16 2016-08-19
+[Worker 49] Taking job off queue at 03:08:16 2016-08-19
+[Worker 45] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 289] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 290] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 291] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 292] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 293] Client handler done at 03:08:16 2016-08-19
+[Worker 7] Running job at 03:08:16 2016-08-19
+[Job for client 287] Running command SUB,913,933 at 03:08:16 2016-08-19
+[Job for client 287] Responded at 03:08:16 2016-08-19
+[Worker 7] Job finished at 03:08:16 2016-08-19
+[Worker 7] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 294] Client handler done at 03:08:16 2016-08-19
+[Worker 43] Running job at 03:08:16 2016-08-19
+[Job for client 288] Running command ADD,342,477 at 03:08:16 2016-08-19
+[Job for client 288] Responded at 03:08:16 2016-08-19
+[Worker 43] Job finished at 03:08:16 2016-08-19
+[Worker 43] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 295] Client handler done at 03:08:16 2016-08-19
+[Worker 24] Running job at 03:08:16 2016-08-19
+[Job for client 289] Running command ADD,873,473 at 03:08:16 2016-08-19
+[Job for client 289] Responded at 03:08:16 2016-08-19
+[Worker 24] Job finished at 03:08:16 2016-08-19
+[Worker 24] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 296] Client handler done at 03:08:16 2016-08-19
+[Worker 11] Running job at 03:08:16 2016-08-19
+[Job for client 290] Running command DIV,727,646 at 03:08:16 2016-08-19
+[Job for client 290] Responded at 03:08:16 2016-08-19
+[Worker 11] Job finished at 03:08:16 2016-08-19
+[Worker 11] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 297] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 298] Client handler done at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Job for client 291] Running command MUL,86,301 at 03:08:16 2016-08-19
+[Job for client 291] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Capitalize thread for client 299] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 300] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 301] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 302] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 303] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 304] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 305] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 306] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 307] Client handler done at 03:08:16 2016-08-19
+[Worker 48] Running job at 03:08:16 2016-08-19
+[Job for client 292] Running command ADD,271,27 at 03:08:16 2016-08-19
+[Job for client 292] Responded at 03:08:16 2016-08-19
+[Worker 48] Job finished at 03:08:16 2016-08-19
+[Worker 48] Taking job off queue at 03:08:16 2016-08-19
+[Worker 47] Running job at 03:08:16 2016-08-19
+[Job for client 293] Running command ADD,822,233 at 03:08:16 2016-08-19
+[Job for client 293] Responded at 03:08:16 2016-08-19
+[Worker 47] Job finished at 03:08:16 2016-08-19
+[Worker 47] Taking job off queue at 03:08:16 2016-08-19
+[Worker 3] Running job at 03:08:16 2016-08-19
+[Job for client 294] Running command SUB,863,416 at 03:08:16 2016-08-19
+[Job for client 294] Responded at 03:08:16 2016-08-19
+[Worker 3] Job finished at 03:08:16 2016-08-19
+[Worker 3] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 308] Client handler done at 03:08:16 2016-08-19
+[Worker 44] Running job at 03:08:16 2016-08-19
+[Job for client 295] Running command MUL,703,611 at 03:08:16 2016-08-19
+[Job for client 295] Responded at 03:08:16 2016-08-19
+[Worker 44] Job finished at 03:08:16 2016-08-19
+[Worker 44] Done! at 03:08:16 2016-08-19
+[Capitalize thread for client 309] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 310] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 311] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 312] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 313] Client handler done at 03:08:16 2016-08-19
+[Capitalize thread for client 314] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 315] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 316] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 317] Client handler done at 03:08:17 2016-08-19
+[Worker 48] Running job at 03:08:17 2016-08-19
+[Job for client 296] Running command MUL,436,230 at 03:08:17 2016-08-19
+[Job for client 296] Responded at 03:08:17 2016-08-19
+[Worker 48] Job finished at 03:08:17 2016-08-19
+[Worker 48] Taking job off queue at 03:08:17 2016-08-19
+[Worker 48] Running job at 03:08:17 2016-08-19
+[Job for client 297] Running command ADD,252,136 at 03:08:17 2016-08-19
+[Job for client 297] Responded at 03:08:17 2016-08-19
+[Worker 48] Job finished at 03:08:17 2016-08-19
+[Worker 48] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 318] Client handler done at 03:08:17 2016-08-19
+[Worker 8] Running job at 03:08:17 2016-08-19
+[Job for client 298] Running command ADD,385,199 at 03:08:17 2016-08-19
+[Job for client 298] Responded at 03:08:17 2016-08-19
+[Worker 8] Job finished at 03:08:17 2016-08-19
+[Worker 8] Done! at 03:08:17 2016-08-19
+[ThreadPool] Total number of threads in pool: 5 at 03:08:17 2016-08-19
+[Capitalize thread for client 319] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 320] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 321] Client handler done at 03:08:17 2016-08-19
+[Worker 46] Running job at 03:08:17 2016-08-19
+[Job for client 299] Running command SUB,112,597 at 03:08:17 2016-08-19
+[Job for client 299] Responded at 03:08:17 2016-08-19
+[Worker 46] Job finished at 03:08:17 2016-08-19
+[Worker 46] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 322] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 323] Client handler done at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 24 at 03:08:17 2016-08-19
+[ThreadPool] Growing workers from 5 to 10 at 03:08:17 2016-08-19
+[Worker 0] Starting at 03:08:17 2016-08-19
+[Worker 1] Starting at 03:08:17 2016-08-19
+[Worker 2] Starting at 03:08:17 2016-08-19
+[Worker 3] Starting at 03:08:17 2016-08-19
+[Worker 2] Taking job off queue at 03:08:17 2016-08-19
+[Worker 1] Taking job off queue at 03:08:17 2016-08-19
+[Worker 0] Taking job off queue at 03:08:17 2016-08-19
+[ThreadPool] Total number of threads in pool: 10 at 03:08:17 2016-08-19
+[Worker 3] Taking job off queue at 03:08:17 2016-08-19
+[Worker 4] Starting at 03:08:17 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 10 at 03:08:17 2016-08-19
+[Worker 4] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 324] Client handler done at 03:08:17 2016-08-19
+[Worker 4] Running job at 03:08:17 2016-08-19
+[Job for client 300] Running command MUL,150,595 at 03:08:17 2016-08-19
+[Job for client 300] Responded at 03:08:17 2016-08-19
+[Worker 4] Job finished at 03:08:17 2016-08-19
+[Worker 4] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 325] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 326] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 327] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 328] Client handler done at 03:08:17 2016-08-19
+[Worker 47] Running job at 03:08:17 2016-08-19
+[Job for client 301] Running command MUL,850,718 at 03:08:17 2016-08-19
+[Job for client 301] Responded at 03:08:17 2016-08-19
+[Worker 47] Job finished at 03:08:17 2016-08-19
+[Worker 47] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 329] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 330] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 331] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 332] Client handler done at 03:08:17 2016-08-19
+[Worker 4] Running job at 03:08:17 2016-08-19
+[Job for client 302] Running command MUL,157,511 at 03:08:17 2016-08-19
+[Job for client 302] Responded at 03:08:17 2016-08-19
+[Worker 4] Job finished at 03:08:17 2016-08-19
+[Worker 4] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 333] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 334] Client handler done at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 32 at 03:08:17 2016-08-19
+[ThreadPool] Growing workers from 10 to 20 at 03:08:17 2016-08-19
+[Worker 5] Starting at 03:08:17 2016-08-19
+[Capitalize thread for client 335] Client handler done at 03:08:17 2016-08-19
+[Worker 6] Starting at 03:08:17 2016-08-19
+[Worker 7] Starting at 03:08:17 2016-08-19
+[Worker 8] Starting at 03:08:17 2016-08-19
+[Worker 5] Taking job off queue at 03:08:17 2016-08-19
+[Worker 6] Taking job off queue at 03:08:17 2016-08-19
+[Worker 8] Taking job off queue at 03:08:17 2016-08-19
+[Worker 7] Taking job off queue at 03:08:17 2016-08-19
+[Worker 12] Starting at 03:08:17 2016-08-19
+[Worker 9] Starting at 03:08:17 2016-08-19
+[Worker 10] Starting at 03:08:17 2016-08-19
+[Worker 14] Starting at 03:08:17 2016-08-19
+[Worker 9] Taking job off queue at 03:08:17 2016-08-19
+[Worker 12] Taking job off queue at 03:08:17 2016-08-19
+[ThreadPool] Total number of threads in pool: 20 at 03:08:17 2016-08-19
+[Worker 13] Starting at 03:08:17 2016-08-19
+[Worker 11] Starting at 03:08:17 2016-08-19
+[Worker 13] Taking job off queue at 03:08:17 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 20 at 03:08:17 2016-08-19
+[Worker 14] Taking job off queue at 03:08:17 2016-08-19
+[Worker 10] Taking job off queue at 03:08:17 2016-08-19
+[Worker 11] Taking job off queue at 03:08:17 2016-08-19
+[Worker 49] Running job at 03:08:17 2016-08-19
+[Job for client 303] Running command MUL,96,290 at 03:08:17 2016-08-19
+[Job for client 303] Responded at 03:08:17 2016-08-19
+[Worker 49] Job finished at 03:08:17 2016-08-19
+[Worker 49] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 336] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 337] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 338] Client handler done at 03:08:17 2016-08-19
+[Worker 1] Running job at 03:08:17 2016-08-19
+[Job for client 304] Running command SUB,605,32 at 03:08:17 2016-08-19
+[Job for client 304] Responded at 03:08:17 2016-08-19
+[Worker 1] Job finished at 03:08:17 2016-08-19
+[Worker 1] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 339] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 340] Client handler done at 03:08:17 2016-08-19
+[Worker 48] Running job at 03:08:17 2016-08-19
+[Job for client 305] Running command ADD,533,6 at 03:08:17 2016-08-19
+[Job for client 305] Responded at 03:08:17 2016-08-19
+[Worker 48] Job finished at 03:08:17 2016-08-19
+[Worker 48] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 341] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 342] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 343] Client handler done at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 38 at 03:08:17 2016-08-19
+[Worker 3] Running job at 03:08:17 2016-08-19
+[ThreadPool] Growing workers from 20 to 40 at 03:08:17 2016-08-19
+[Job for client 306] Running command SUB,105,269 at 03:08:17 2016-08-19
+[Job for client 306] Responded at 03:08:17 2016-08-19
+[Worker 3] Job finished at 03:08:17 2016-08-19
+[Worker 15] Starting at 03:08:17 2016-08-19
+[Worker 3] Taking job off queue at 03:08:17 2016-08-19
+[Worker 16] Starting at 03:08:17 2016-08-19
+[Worker 17] Starting at 03:08:17 2016-08-19
+[Worker 18] Starting at 03:08:17 2016-08-19
+[Worker 19] Starting at 03:08:17 2016-08-19
+[Worker 16] Taking job off queue at 03:08:17 2016-08-19
+[Worker 21] Starting at 03:08:17 2016-08-19
+[Worker 15] Taking job off queue at 03:08:17 2016-08-19
+[Worker 20] Starting at 03:08:17 2016-08-19
+[Worker 23] Starting at 03:08:17 2016-08-19
+[Worker 21] Taking job off queue at 03:08:17 2016-08-19
+[Worker 22] Starting at 03:08:17 2016-08-19
+[Worker 27] Starting at 03:08:17 2016-08-19
+[Worker 19] Taking job off queue at 03:08:17 2016-08-19
+[Worker 18] Taking job off queue at 03:08:17 2016-08-19
+[Worker 17] Taking job off queue at 03:08:17 2016-08-19
+[Worker 30] Starting at 03:08:17 2016-08-19
+[Worker 31] Starting at 03:08:17 2016-08-19
+[Worker 29] Starting at 03:08:17 2016-08-19
+[Worker 28] Starting at 03:08:17 2016-08-19
+[Worker 23] Taking job off queue at 03:08:17 2016-08-19
+[ThreadPool] Total number of threads in pool: 40 at 03:08:17 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 40 at 03:08:17 2016-08-19
+[Worker 26] Starting at 03:08:17 2016-08-19
+[Worker 27] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 344] Client handler done at 03:08:17 2016-08-19
+[Worker 25] Starting at 03:08:17 2016-08-19
+[Worker 20] Taking job off queue at 03:08:17 2016-08-19
+[Worker 24] Starting at 03:08:17 2016-08-19
+[Worker 25] Taking job off queue at 03:08:17 2016-08-19
+[Worker 26] Taking job off queue at 03:08:17 2016-08-19
+[Worker 28] Taking job off queue at 03:08:17 2016-08-19
+[Worker 29] Taking job off queue at 03:08:17 2016-08-19
+[Worker 31] Taking job off queue at 03:08:17 2016-08-19
+[Worker 30] Taking job off queue at 03:08:17 2016-08-19
+[Worker 22] Taking job off queue at 03:08:17 2016-08-19
+[Worker 34] Starting at 03:08:17 2016-08-19
+[Worker 33] Starting at 03:08:17 2016-08-19
+[Worker 34] Taking job off queue at 03:08:17 2016-08-19
+[Worker 32] Starting at 03:08:17 2016-08-19
+[Worker 33] Taking job off queue at 03:08:17 2016-08-19
+[Worker 24] Taking job off queue at 03:08:17 2016-08-19
+[Worker 32] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 345] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 346] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 348] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 347] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 349] Client handler done at 03:08:17 2016-08-19
+[Worker 2] Running job at 03:08:17 2016-08-19
+[Job for client 307] Running command ADD,938,18 at 03:08:17 2016-08-19
+[Job for client 307] Responded at 03:08:17 2016-08-19
+[Worker 2] Job finished at 03:08:17 2016-08-19
+[Worker 2] Taking job off queue at 03:08:17 2016-08-19
+[Worker 26] Running job at 03:08:17 2016-08-19
+[Job for client 308] Running command DIV,925,264 at 03:08:17 2016-08-19
+[Job for client 308] Responded at 03:08:17 2016-08-19
+[Worker 26] Job finished at 03:08:17 2016-08-19
+[Worker 26] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 350] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 351] Client handler done at 03:08:17 2016-08-19
+[Worker 49] Running job at 03:08:17 2016-08-19
+[Job for client 309] Running command ADD,625,311 at 03:08:17 2016-08-19
+[Worker 25] Running job at 03:08:17 2016-08-19
+[Job for client 310] Running command SUB,137,402 at 03:08:17 2016-08-19
+[Job for client 309] Responded at 03:08:17 2016-08-19
+[Worker 49] Job finished at 03:08:17 2016-08-19
+[Job for client 310] Responded at 03:08:17 2016-08-19
+[Worker 49] Taking job off queue at 03:08:17 2016-08-19
+[Worker 25] Job finished at 03:08:17 2016-08-19
+[Worker 25] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 352] Client handler done at 03:08:17 2016-08-19
+[Worker 24] Running job at 03:08:17 2016-08-19
+[Job for client 311] Running command ADD,165,311 at 03:08:17 2016-08-19
+[Job for client 311] Responded at 03:08:17 2016-08-19
+[Worker 24] Job finished at 03:08:17 2016-08-19
+[Worker 24] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 353] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 354] Client handler done at 03:08:17 2016-08-19
+[Worker 6] Running job at 03:08:17 2016-08-19
+[Job for client 312] Running command ADD,421,815 at 03:08:17 2016-08-19
+[Job for client 312] Responded at 03:08:17 2016-08-19
+[Worker 6] Job finished at 03:08:17 2016-08-19
+[Worker 6] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 355] Client handler done at 03:08:17 2016-08-19
+[Worker 45] Running job at 03:08:17 2016-08-19
+[Job for client 313] Running command MUL,788,994 at 03:08:17 2016-08-19
+[Job for client 313] Responded at 03:08:17 2016-08-19
+[Worker 45] Job finished at 03:08:17 2016-08-19
+[Worker 45] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 356] Client handler done at 03:08:17 2016-08-19
+[Worker 31] Running job at 03:08:17 2016-08-19
+[Job for client 314] Running command DIV,88,502 at 03:08:17 2016-08-19
+[Job for client 314] Responded at 03:08:17 2016-08-19
+[Worker 31] Job finished at 03:08:17 2016-08-19
+[Worker 31] Taking job off queue at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 42 at 03:08:17 2016-08-19
+[ThreadPool] count exceeds capacity -- using capacity instead at 03:08:17 2016-08-19
+[ThreadPool] Growing workers from 40 to 50 at 03:08:17 2016-08-19
+[Worker 35] Starting at 03:08:17 2016-08-19
+[Worker 35] Taking job off queue at 03:08:17 2016-08-19
+[Worker 36] Starting at 03:08:17 2016-08-19
+[Worker 36] Taking job off queue at 03:08:17 2016-08-19
+[Worker 37] Starting at 03:08:17 2016-08-19
+[Worker 37] Taking job off queue at 03:08:17 2016-08-19
+[Worker 38] Starting at 03:08:17 2016-08-19
+[Worker 40] Starting at 03:08:17 2016-08-19
+[Worker 40] Taking job off queue at 03:08:17 2016-08-19
+[Worker 39] Starting at 03:08:17 2016-08-19
+[Worker 39] Taking job off queue at 03:08:17 2016-08-19
+[Worker 41] Starting at 03:08:17 2016-08-19
+[Worker 41] Taking job off queue at 03:08:17 2016-08-19
+[Worker 38] Taking job off queue at 03:08:17 2016-08-19
+[Worker 44] Starting at 03:08:17 2016-08-19
+[Worker 43] Starting at 03:08:17 2016-08-19
+[ThreadPool] Total number of threads in pool: 50 at 03:08:17 2016-08-19
+[Worker 42] Starting at 03:08:17 2016-08-19
+[ThreadManager] queue size is greater than t2 -- doubling workers: 80 at 03:08:17 2016-08-19
+[Worker 43] Taking job off queue at 03:08:17 2016-08-19
+[Worker 44] Taking job off queue at 03:08:17 2016-08-19
+[Worker 42] Taking job off queue at 03:08:17 2016-08-19
+[Worker 18] Running job at 03:08:17 2016-08-19
+[Job for client 315] Running command MUL,641,378 at 03:08:17 2016-08-19
+[Job for client 315] Responded at 03:08:17 2016-08-19
+[Worker 18] Job finished at 03:08:17 2016-08-19
+[Worker 18] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 357] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 358] Client handler done at 03:08:17 2016-08-19
+[Worker 5] Running job at 03:08:17 2016-08-19
+[Job for client 316] Running command DIV,642,710 at 03:08:17 2016-08-19
+[Job for client 316] Responded at 03:08:17 2016-08-19
+[Worker 5] Job finished at 03:08:17 2016-08-19
+[Worker 5] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 359] Client handler done at 03:08:17 2016-08-19
+[Worker 3] Running job at 03:08:17 2016-08-19
+[Job for client 317] Running command ADD,277,626 at 03:08:17 2016-08-19
+[Job for client 317] Responded at 03:08:17 2016-08-19
+[Worker 3] Job finished at 03:08:17 2016-08-19
+[Worker 3] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 360] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 361] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 362] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 363] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 364] Client handler done at 03:08:17 2016-08-19
+[Worker 13] Running job at 03:08:17 2016-08-19
+[Job for client 318] Running command ADD,308,340 at 03:08:17 2016-08-19
+[Capitalize thread for client 365] Client handler done at 03:08:17 2016-08-19
+[Job for client 318] Responded at 03:08:17 2016-08-19
+[Worker 13] Job finished at 03:08:17 2016-08-19
+[Worker 13] Taking job off queue at 03:08:17 2016-08-19
+[Worker 38] Running job at 03:08:17 2016-08-19
+[Job for client 319] Running command ADD,850,643 at 03:08:17 2016-08-19
+[Job for client 319] Responded at 03:08:17 2016-08-19
+[Worker 38] Job finished at 03:08:17 2016-08-19
+[Worker 38] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 366] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 367] Client handler done at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 48 at 03:08:17 2016-08-19
+[Capitalize thread for client 368] Client handler done at 03:08:17 2016-08-19
+[Worker 43] Running job at 03:08:17 2016-08-19
+[Job for client 320] Running command ADD,550,64 at 03:08:17 2016-08-19
+[Job for client 320] Responded at 03:08:17 2016-08-19
+[Worker 43] Job finished at 03:08:17 2016-08-19
+[Worker 43] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 369] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 370] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 371] Too busy -- had to kill client at 03:08:17 2016-08-19
+[Capitalize thread for client 371] Client handler done at 03:08:17 2016-08-19
+[Worker 28] Running job at 03:08:17 2016-08-19
+[Job for client 321] Running command SUB,135,901 at 03:08:17 2016-08-19
+[Job for client 321] Responded at 03:08:17 2016-08-19
+[Worker 28] Job finished at 03:08:17 2016-08-19
+[Worker 28] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 372] Client handler done at 03:08:17 2016-08-19
+[Worker 42] Running job at 03:08:17 2016-08-19
+[Job for client 322] Running command ADD,286,889 at 03:08:17 2016-08-19
+[Job for client 322] Responded at 03:08:17 2016-08-19
+[Worker 42] Job finished at 03:08:17 2016-08-19
+[Worker 42] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 373] Client handler done at 03:08:17 2016-08-19
+[Worker 39] Running job at 03:08:17 2016-08-19
+[Job for client 323] Running command MUL,928,263 at 03:08:17 2016-08-19
+[Job for client 323] Responded at 03:08:17 2016-08-19
+[Worker 39] Job finished at 03:08:17 2016-08-19
+[Worker 39] Taking job off queue at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 49 at 03:08:17 2016-08-19
+[Capitalize thread for client 375] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 374] Too busy -- had to kill client at 03:08:17 2016-08-19
+[Capitalize thread for client 374] Client handler done at 03:08:17 2016-08-19
+[Worker 12] Running job at 03:08:17 2016-08-19
+[Job for client 324] Running command MUL,132,138 at 03:08:17 2016-08-19
+[Job for client 324] Responded at 03:08:17 2016-08-19
+[Worker 12] Job finished at 03:08:17 2016-08-19
+[Worker 12] Taking job off queue at 03:08:17 2016-08-19
+[Worker 16] Running job at 03:08:17 2016-08-19
+[Job for client 325] Running command MUL,643,850 at 03:08:17 2016-08-19
+[Job for client 325] Responded at 03:08:17 2016-08-19
+[Worker 16] Job finished at 03:08:17 2016-08-19
+[Worker 16] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 376] Client handler done at 03:08:17 2016-08-19
+[Worker 33] Running job at 03:08:17 2016-08-19
+[Job for client 326] Running command DIV,347,424 at 03:08:17 2016-08-19
+[Job for client 326] Responded at 03:08:17 2016-08-19
+[Worker 33] Job finished at 03:08:17 2016-08-19
+[Worker 33] Taking job off queue at 03:08:17 2016-08-19
+[Worker 12] Running job at 03:08:17 2016-08-19
+[Job for client 327] Running command SUB,985,511 at 03:08:17 2016-08-19
+[Job for client 327] Responded at 03:08:17 2016-08-19
+[Worker 12] Job finished at 03:08:17 2016-08-19
+[Worker 12] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 377] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 378] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 379] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 380] Too busy -- had to kill client at 03:08:17 2016-08-19
+[Capitalize thread for client 380] Client handler done at 03:08:17 2016-08-19
+[Worker 40] Running job at 03:08:17 2016-08-19
+[Job for client 328] Running command MUL,248,673 at 03:08:17 2016-08-19
+[Job for client 328] Responded at 03:08:17 2016-08-19
+[Worker 40] Job finished at 03:08:17 2016-08-19
+[Worker 40] Taking job off queue at 03:08:17 2016-08-19
+[Worker 8] Running job at 03:08:17 2016-08-19
+[Job for client 329] Running command DIV,762,897 at 03:08:17 2016-08-19
+[Job for client 329] Responded at 03:08:17 2016-08-19
+[Worker 8] Job finished at 03:08:17 2016-08-19
+[Worker 8] Taking job off queue at 03:08:17 2016-08-19
+[Worker 7] Running job at 03:08:17 2016-08-19
+[Job for client 330] Running command ADD,71,295 at 03:08:17 2016-08-19
+[Job for client 330] Responded at 03:08:17 2016-08-19
+[Worker 7] Job finished at 03:08:17 2016-08-19
+[Worker 7] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 381] Client handler done at 03:08:17 2016-08-19
+[Worker 49] Running job at 03:08:17 2016-08-19
+[Job for client 331] Running command ADD,34,362 at 03:08:17 2016-08-19
+[Job for client 331] Responded at 03:08:17 2016-08-19
+[Worker 49] Job finished at 03:08:17 2016-08-19
+[Worker 49] Taking job off queue at 03:08:17 2016-08-19
+[Worker 19] Running job at 03:08:17 2016-08-19
+[Job for client 332] Running command SUB,393,436 at 03:08:17 2016-08-19
+[Job for client 332] Responded at 03:08:17 2016-08-19
+[Worker 19] Job finished at 03:08:17 2016-08-19
+[Worker 19] Taking job off queue at 03:08:17 2016-08-19
+[Worker 48] Running job at 03:08:17 2016-08-19
+[Job for client 333] Running command SUB,204,938 at 03:08:17 2016-08-19
+[Job for client 333] Responded at 03:08:17 2016-08-19
+[Worker 48] Job finished at 03:08:17 2016-08-19
+[Worker 48] Taking job off queue at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 45 at 03:08:17 2016-08-19
+[Worker 16] Running job at 03:08:17 2016-08-19
+[Worker 43] Running job at 03:08:17 2016-08-19
+[Job for client 334] Running command SUB,503,308 at 03:08:17 2016-08-19
+[Job for client 335] Running command ADD,637,767 at 03:08:17 2016-08-19
+[Job for client 334] Responded at 03:08:17 2016-08-19
+[Worker 43] Job finished at 03:08:17 2016-08-19
+[Job for client 335] Responded at 03:08:17 2016-08-19
+[Worker 43] Taking job off queue at 03:08:17 2016-08-19
+[Worker 16] Job finished at 03:08:17 2016-08-19
+[Worker 16] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 382] Client handler done at 03:08:17 2016-08-19
+[Worker 38] Running job at 03:08:17 2016-08-19
+[Job for client 336] Running command MUL,229,11 at 03:08:17 2016-08-19
+[Job for client 336] Responded at 03:08:17 2016-08-19
+[Worker 38] Job finished at 03:08:17 2016-08-19
+[Worker 38] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 383] Client handler done at 03:08:17 2016-08-19
+[Worker 0] Running job at 03:08:17 2016-08-19
+[Job for client 337] Running command ADD,409,986 at 03:08:17 2016-08-19
+[Job for client 337] Responded at 03:08:17 2016-08-19
+[Worker 0] Job finished at 03:08:17 2016-08-19
+[Worker 0] Taking job off queue at 03:08:17 2016-08-19
+[Worker 25] Running job at 03:08:17 2016-08-19
+[Worker 46] Running job at 03:08:17 2016-08-19
+[Job for client 339] Running command ADD,121,994 at 03:08:17 2016-08-19
+[Job for client 339] Responded at 03:08:17 2016-08-19
+[Worker 46] Job finished at 03:08:17 2016-08-19
+[Worker 46] Taking job off queue at 03:08:17 2016-08-19
+[Job for client 338] Running command DIV,549,771 at 03:08:17 2016-08-19
+[Job for client 338] Responded at 03:08:17 2016-08-19
+[Worker 25] Job finished at 03:08:17 2016-08-19
+[Worker 25] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 384] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 385] Client handler done at 03:08:17 2016-08-19
+[Worker 30] Running job at 03:08:17 2016-08-19
+[Job for client 340] Running command DIV,547,607 at 03:08:17 2016-08-19
+[Job for client 340] Responded at 03:08:17 2016-08-19
+[Worker 30] Job finished at 03:08:17 2016-08-19
+[Worker 30] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 386] Client handler done at 03:08:17 2016-08-19
+[Worker 47] Running job at 03:08:17 2016-08-19
+[Job for client 341] Running command MUL,533,267 at 03:08:17 2016-08-19
+[Job for client 341] Responded at 03:08:17 2016-08-19
+[Worker 47] Job finished at 03:08:17 2016-08-19
+[Worker 47] Taking job off queue at 03:08:17 2016-08-19
+[Worker 37] Running job at 03:08:17 2016-08-19
+[Job for client 342] Running command MUL,375,45 at 03:08:17 2016-08-19
+[Job for client 342] Responded at 03:08:17 2016-08-19
+[Worker 37] Job finished at 03:08:17 2016-08-19
+[Worker 37] Taking job off queue at 03:08:17 2016-08-19
+[Worker 1] Running job at 03:08:17 2016-08-19
+[Job for client 343] Running command SUB,193,818 at 03:08:17 2016-08-19
+[Job for client 343] Responded at 03:08:17 2016-08-19
+[Worker 1] Job finished at 03:08:17 2016-08-19
+[Worker 1] Taking job off queue at 03:08:17 2016-08-19
+[Worker 37] Running job at 03:08:17 2016-08-19
+[Job for client 344] Running command SUB,530,48 at 03:08:17 2016-08-19
+[Job for client 344] Responded at 03:08:17 2016-08-19
+[Worker 37] Job finished at 03:08:17 2016-08-19
+[Worker 37] Taking job off queue at 03:08:17 2016-08-19
+[Capitalize thread for client 387] Client handler done at 03:08:17 2016-08-19
+[Capitalize thread for client 388] Client handler done at 03:08:17 2016-08-19
+[ThreadManager] # Jobs: 41 at 03:08:17 2016-08-19
+[Worker 33] Running job at 03:08:17 2016-08-19
+[Job for client 345] Running command DIV,623,415 at 03:08:17 2016-08-19
+[Job for client 345] Responded at 03:08:17 2016-08-19
+[Worker 33] Job finished at 03:08:17 2016-08-19
+[Worker 33] Taking job off queue at 03:08:17 2016-08-19
+[Worker 20] Running job at 03:08:17 2016-08-19
+[Job for client 347] Running command ADD,947,196 at 03:08:17 2016-08-19
+[Job for client 347] Responded at 03:08:17 2016-08-19
+[Worker 20] Job finished at 03:08:17 2016-08-19
+[Worker 20] Taking job off queue at 03:08:17 2016-08-19
+[Worker 37] Running job at 03:08:17 2016-08-19
+[Job for client 346] Running command MUL,334,477 at 03:08:17 2016-08-19
+[Job for client 346] Responded at 03:08:17 2016-08-19
+[Worker 37] Job finished at 03:08:17 2016-08-19
+[Worker 37] Taking job off queue at 03:08:17 2016-08-19
+[Worker 49] Running job at 03:08:17 2016-08-19
+[Job for client 348] Running command SUB,330,239 at 03:08:17 2016-08-19
+[Job for client 348] Responded at 03:08:17 2016-08-19
+[Worker 49] Job finished at 03:08:17 2016-08-19
+[Worker 49] Taking job off queue at 03:08:17 2016-08-19
+[Worker 4] Running job at 03:08:17 2016-08-19
+[Job for client 349] Running command DIV,5,777 at 03:08:17 2016-08-19
+[Job for client 349] Responded at 03:08:17 2016-08-19
+[Worker 4] Job finished at 03:08:17 2016-08-19
+[Worker 4] Taking job off queue at 03:08:17 2016-08-19
+[Worker 34] Running job at 03:08:17 2016-08-19
+[Job for client 350] Running command SUB,325,696 at 03:08:17 2016-08-19
+[Job for client 350] Responded at 03:08:17 2016-08-19
+[Worker 34] Job finished at 03:08:17 2016-08-19
+[Worker 34] Taking job off queue at 03:08:17 2016-08-19
+[Worker 17] Running job at 03:08:18 2016-08-19
+[Job for client 351] Running command DIV,956,471 at 03:08:18 2016-08-19
+[Job for client 351] Responded at 03:08:18 2016-08-19
+[Worker 17] Job finished at 03:08:18 2016-08-19
+[Worker 17] Taking job off queue at 03:08:18 2016-08-19
+[ThreadManager] # Jobs: 34 at 03:08:18 2016-08-19
+[Worker 22] Running job at 03:08:18 2016-08-19
+[Job for client 353] Running command ADD,227,753 at 03:08:18 2016-08-19
+[Worker 29] Running job at 03:08:18 2016-08-19
+[Job for client 352] Running command ADD,780,941 at 03:08:18 2016-08-19
+[Job for client 353] Responded at 03:08:18 2016-08-19
+[Job for client 352] Responded at 03:08:18 2016-08-19
+[Worker 29] Job finished at 03:08:18 2016-08-19
+[Worker 22] Job finished at 03:08:18 2016-08-19
+[Worker 29] Taking job off queue at 03:08:18 2016-08-19
+[Worker 22] Taking job off queue at 03:08:18 2016-08-19
+[Worker 44] Running job at 03:08:18 2016-08-19
+[Job for client 354] Running command DIV,777,734 at 03:08:18 2016-08-19
+[Job for client 354] Responded at 03:08:18 2016-08-19
+[Worker 44] Job finished at 03:08:18 2016-08-19
+[Worker 44] Taking job off queue at 03:08:18 2016-08-19
+[Worker 14] Running job at 03:08:18 2016-08-19
+[Job for client 355] Running command DIV,50,60 at 03:08:18 2016-08-19
+[Worker 35] Running job at 03:08:18 2016-08-19
+[Job for client 355] Responded at 03:08:18 2016-08-19
+[Job for client 356] Running command MUL,808,436 at 03:08:18 2016-08-19
+[Worker 14] Job finished at 03:08:18 2016-08-19
+[Job for client 356] Responded at 03:08:18 2016-08-19
+[Worker 14] Taking job off queue at 03:08:18 2016-08-19
+[Worker 35] Job finished at 03:08:18 2016-08-19
+[Worker 35] Taking job off queue at 03:08:18 2016-08-19
+[Worker 41] Running job at 03:08:18 2016-08-19
+[Worker 36] Running job at 03:08:18 2016-08-19
+[Worker 7] Running job at 03:08:18 2016-08-19
+[Job for client 357] Running command ADD,654,281 at 03:08:18 2016-08-19
+[Job for client 359] Running command DIV,487,344 at 03:08:18 2016-08-19
+[Job for client 357] Responded at 03:08:18 2016-08-19
+[Worker 36] Job finished at 03:08:18 2016-08-19
+[Job for client 358] Running command MUL,260,967 at 03:08:18 2016-08-19
+[Worker 36] Taking job off queue at 03:08:18 2016-08-19
+[Job for client 358] Responded at 03:08:18 2016-08-19
+[Worker 26] Running job at 03:08:18 2016-08-19
+[Job for client 359] Responded at 03:08:18 2016-08-19
+[Job for client 360] Running command SUB,319,785 at 03:08:18 2016-08-19
+[Worker 7] Job finished at 03:08:18 2016-08-19
+[Worker 7] Taking job off queue at 03:08:18 2016-08-19
+[Worker 41] Job finished at 03:08:18 2016-08-19
+[Worker 41] Taking job off queue at 03:08:18 2016-08-19
+[Job for client 360] Responded at 03:08:18 2016-08-19
+[Worker 26] Job finished at 03:08:18 2016-08-19
+[Worker 26] Taking job off queue at 03:08:18 2016-08-19
+[Worker 42] Running job at 03:08:18 2016-08-19
+[Job for client 361] Running command SUB,528,177 at 03:08:18 2016-08-19
+[Job for client 361] Responded at 03:08:18 2016-08-19
+[Worker 42] Job finished at 03:08:18 2016-08-19
+[Worker 42] Taking job off queue at 03:08:18 2016-08-19
+[Worker 42] Running job at 03:08:18 2016-08-19
+[Worker 45] Running job at 03:08:18 2016-08-19
+[Job for client 363] Running command DIV,703,889 at 03:08:18 2016-08-19
+[Job for client 362] Running command MUL,264,788 at 03:08:18 2016-08-19
+[Job for client 363] Responded at 03:08:18 2016-08-19
+[Job for client 362] Responded at 03:08:18 2016-08-19
+[Worker 42] Job finished at 03:08:18 2016-08-19
+[Worker 45] Job finished at 03:08:18 2016-08-19
+[Worker 42] Taking job off queue at 03:08:18 2016-08-19
+[Worker 45] Taking job off queue at 03:08:18 2016-08-19
+[ThreadManager] # Jobs: 22 at 03:08:18 2016-08-19
+[Worker 11] Running job at 03:08:18 2016-08-19
+[Job for client 364] Running command ADD,397,460 at 03:08:18 2016-08-19
+[Job for client 364] Responded at 03:08:18 2016-08-19
+[Worker 11] Job finished at 03:08:18 2016-08-19
+[Worker 11] Taking job off queue at 03:08:18 2016-08-19
+[Worker 15] Running job at 03:08:18 2016-08-19
+[Job for client 365] Running command MUL,950,771 at 03:08:18 2016-08-19
+[Job for client 365] Responded at 03:08:18 2016-08-19
+[Worker 15] Job finished at 03:08:18 2016-08-19
+[Worker 15] Taking job off queue at 03:08:18 2016-08-19
+[Worker 9] Running job at 03:08:18 2016-08-19
+[Worker 25] Running job at 03:08:18 2016-08-19
+[Job for client 367] Running command DIV,268,889 at 03:08:18 2016-08-19
+[Job for client 366] Running command DIV,587,427 at 03:08:18 2016-08-19
+[Job for client 367] Responded at 03:08:18 2016-08-19
+[Job for client 366] Responded at 03:08:18 2016-08-19
+[Worker 25] Job finished at 03:08:18 2016-08-19
+[Worker 9] Job finished at 03:08:18 2016-08-19
+[Worker 25] Taking job off queue at 03:08:18 2016-08-19
+[Worker 9] Taking job off queue at 03:08:18 2016-08-19
+[Worker 27] Running job at 03:08:18 2016-08-19
+[Job for client 368] Running command ADD,329,661 at 03:08:18 2016-08-19
+[Worker 16] Running job at 03:08:18 2016-08-19
+[Worker 18] Running job at 03:08:18 2016-08-19
+[Worker 0] Running job at 03:08:18 2016-08-19
+[Job for client 370] Running command SUB,32,233 at 03:08:18 2016-08-19
+[Job for client 372] Running command DIV,713,175 at 03:08:18 2016-08-19
+[Job for client 370] Responded at 03:08:18 2016-08-19
+[Worker 18] Job finished at 03:08:18 2016-08-19
+[Job for client 368] Responded at 03:08:18 2016-08-19
+[Worker 18] Taking job off queue at 03:08:18 2016-08-19
+[Job for client 372] Responded at 03:08:18 2016-08-19
+[Job for client 369] Running command DIV,46,876 at 03:08:18 2016-08-19
+[Worker 16] Job finished at 03:08:18 2016-08-19
+[Worker 16] Taking job off queue at 03:08:18 2016-08-19
+[Worker 27] Job finished at 03:08:18 2016-08-19
+[Job for client 369] Responded at 03:08:18 2016-08-19
+[Worker 27] Taking job off queue at 03:08:18 2016-08-19
+[Worker 0] Job finished at 03:08:18 2016-08-19
+[Worker 0] Taking job off queue at 03:08:18 2016-08-19
+[Worker 10] Running job at 03:08:18 2016-08-19
+[ThreadManager] # Jobs: 14 at 03:08:18 2016-08-19
+[Job for client 373] Running command DIV,857,632 at 03:08:18 2016-08-19
+[Job for client 373] Responded at 03:08:18 2016-08-19
+[Worker 10] Job finished at 03:08:18 2016-08-19
+[Worker 10] Taking job off queue at 03:08:18 2016-08-19
+[Worker 24] Running job at 03:08:18 2016-08-19
+[Job for client 375] Running command MUL,98,224 at 03:08:18 2016-08-19
+[Worker 31] Running job at 03:08:18 2016-08-19
+[Job for client 376] Running command DIV,771,787 at 03:08:18 2016-08-19
+[Job for client 375] Responded at 03:08:18 2016-08-19
+[Job for client 376] Responded at 03:08:18 2016-08-19
+[Worker 24] Job finished at 03:08:18 2016-08-19
+[Worker 31] Job finished at 03:08:18 2016-08-19
+[Worker 24] Taking job off queue at 03:08:18 2016-08-19
+[Worker 31] Taking job off queue at 03:08:18 2016-08-19
+[Worker 2] Running job at 03:08:18 2016-08-19
+[Job for client 378] Running command DIV,80,715 at 03:08:18 2016-08-19
+[Worker 47] Running job at 03:08:18 2016-08-19
+[Job for client 378] Responded at 03:08:18 2016-08-19
+[Job for client 377] Running command MUL,98,825 at 03:08:18 2016-08-19
+[Worker 2] Job finished at 03:08:18 2016-08-19
+[Worker 2] Taking job off queue at 03:08:18 2016-08-19
+[Job for client 377] Responded at 03:08:18 2016-08-19
+[Worker 47] Job finished at 03:08:18 2016-08-19
+[Worker 47] Taking job off queue at 03:08:18 2016-08-19
+[Worker 32] Running job at 03:08:18 2016-08-19
+[Job for client 379] Running command SUB,345,334 at 03:08:18 2016-08-19
+[Job for client 379] Responded at 03:08:18 2016-08-19
+[Worker 32] Job finished at 03:08:18 2016-08-19
+[Worker 32] Taking job off queue at 03:08:18 2016-08-19
+[Worker 3] Running job at 03:08:18 2016-08-19
+[Job for client 381] Running command MUL,586,556 at 03:08:18 2016-08-19
+[Job for client 381] Responded at 03:08:18 2016-08-19
+[Worker 3] Job finished at 03:08:18 2016-08-19
+[Worker 3] Taking job off queue at 03:08:18 2016-08-19
+[Worker 8] Running job at 03:08:18 2016-08-19
+[Worker 21] Running job at 03:08:18 2016-08-19
+[Job for client 383] Running command SUB,614,534 at 03:08:18 2016-08-19
+[Job for client 382] Running command SUB,966,757 at 03:08:18 2016-08-19
+[Job for client 382] Responded at 03:08:18 2016-08-19
+[Worker 21] Job finished at 03:08:18 2016-08-19
+[Worker 21] Taking job off queue at 03:08:18 2016-08-19
+[Worker 25] Running job at 03:08:18 2016-08-19
+[Job for client 384] Running command ADD,296,216 at 03:08:18 2016-08-19
+[Job for client 383] Responded at 03:08:18 2016-08-19
+[Worker 8] Job finished at 03:08:18 2016-08-19
+[Worker 8] Taking job off queue at 03:08:18 2016-08-19
+[Job for client 384] Responded at 03:08:18 2016-08-19
+[Worker 25] Job finished at 03:08:18 2016-08-19
+[Worker 25] Taking job off queue at 03:08:18 2016-08-19
+[Worker 19] Running job at 03:08:18 2016-08-19
+[Job for client 385] Running command SUB,766,136 at 03:08:18 2016-08-19
+[Job for client 385] Responded at 03:08:18 2016-08-19
+[Worker 19] Job finished at 03:08:18 2016-08-19
+[Worker 19] Taking job off queue at 03:08:18 2016-08-19
+[Worker 6] Running job at 03:08:18 2016-08-19
+[Job for client 386] Running command ADD,506,464 at 03:08:18 2016-08-19
+[Job for client 386] Responded at 03:08:18 2016-08-19
+[Worker 6] Job finished at 03:08:18 2016-08-19
+[Worker 6] Taking job off queue at 03:08:18 2016-08-19
+[Worker 27] Running job at 03:08:18 2016-08-19
+[Job for client 387] Running command DIV,653,407 at 03:08:18 2016-08-19
+[Job for client 387] Responded at 03:08:18 2016-08-19
+[Worker 27] Job finished at 03:08:18 2016-08-19
+[Worker 27] Taking job off queue at 03:08:18 2016-08-19
+[ThreadManager] # Jobs: 1 at 03:08:18 2016-08-19
+[ThreadPool] Shrinking workers from 50 to 5 at 03:08:18 2016-08-19
+[Worker 20] Running job at 03:08:18 2016-08-19
+[Job for client 388] Running command DIV,839,958 at 03:08:18 2016-08-19
+[Job for client 388] Responded at 03:08:18 2016-08-19
+[Worker 20] Job finished at 03:08:18 2016-08-19
+[Worker 20] Done! at 03:08:18 2016-08-19

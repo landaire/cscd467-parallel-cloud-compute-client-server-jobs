@@ -1,0 +1,1947 @@
+[Main] Creating 389 clients at 03:08:12 2016-08-19
+[Client 86] DIV,235,618 at 03:08:13 2016-08-19
+[Client 86] Hello message: Hello, you are client #0. at 03:08:13 2016-08-19
+[Client 86] 235 / 618 = 0 at 03:08:13 2016-08-19
+[Client 86] Closing socket at 03:08:13 2016-08-19
+[Client 86] done at 03:08:13 2016-08-19
+[Client 96] SUB,410,627 at 03:08:13 2016-08-19
+[Client 96] Hello message: Hello, you are client #1. at 03:08:13 2016-08-19
+[Client 96] 410 - 627 = -217 at 03:08:13 2016-08-19
+[Client 96] Closing socket at 03:08:13 2016-08-19
+[Client 96] done at 03:08:13 2016-08-19
+[Client 250] MUL,454,935 at 03:08:13 2016-08-19
+[Client 250] Hello message: Hello, you are client #2. at 03:08:13 2016-08-19
+[Client 250] 454 * 935 = 424490 at 03:08:13 2016-08-19
+[Client 250] Closing socket at 03:08:13 2016-08-19
+[Client 250] done at 03:08:13 2016-08-19
+[Client 39] DIV,604,199 at 03:08:13 2016-08-19
+[Client 39] Hello message: Hello, you are client #3. at 03:08:13 2016-08-19
+[Client 39] 604 / 199 = 3 at 03:08:13 2016-08-19
+[Client 39] Closing socket at 03:08:13 2016-08-19
+[Client 39] done at 03:08:13 2016-08-19
+[Client 213] ADD,423,769 at 03:08:13 2016-08-19
+[Client 213] Hello message: Hello, you are client #4. at 03:08:13 2016-08-19
+[Client 213] 423 + 769 = 1192 at 03:08:13 2016-08-19
+[Client 213] Closing socket at 03:08:13 2016-08-19
+[Client 213] done at 03:08:13 2016-08-19
+[Client 47] SUB,270,477 at 03:08:13 2016-08-19
+[Client 47] Hello message: Hello, you are client #5. at 03:08:13 2016-08-19
+[Client 2] SUB,395,187 at 03:08:13 2016-08-19
+[Client 2] Hello message: Hello, you are client #6. at 03:08:13 2016-08-19
+[Client 251] SUB,686,578 at 03:08:13 2016-08-19
+[Client 336] SUB,738,478 at 03:08:13 2016-08-19
+[Client 81] MUL,410,709 at 03:08:13 2016-08-19
+[Client 251] Hello message: Hello, you are client #7. at 03:08:13 2016-08-19
+[Client 336] Hello message: Hello, you are client #8. at 03:08:13 2016-08-19
+[Client 81] Hello message: Hello, you are client #9. at 03:08:13 2016-08-19
+[Client 291] SUB,586,759 at 03:08:13 2016-08-19
+[Client 159] MUL,221,623 at 03:08:13 2016-08-19
+[Client 291] Hello message: Hello, you are client #11. at 03:08:13 2016-08-19
+[Client 159] Hello message: Hello, you are client #10. at 03:08:13 2016-08-19
+[Client 374] ADD,26,399 at 03:08:13 2016-08-19
+[Client 374] Hello message: Hello, you are client #12. at 03:08:13 2016-08-19
+[Client 56] ADD,564,912 at 03:08:13 2016-08-19
+[Client 56] Hello message: Hello, you are client #13. at 03:08:13 2016-08-19
+[Client 199] MUL,893,79 at 03:08:13 2016-08-19
+[Client 199] Hello message: Hello, you are client #14. at 03:08:13 2016-08-19
+[Client 125] DIV,362,387 at 03:08:13 2016-08-19
+[Client 125] Hello message: Hello, you are client #15. at 03:08:13 2016-08-19
+[Client 11] MUL,861,259 at 03:08:13 2016-08-19
+[Client 273] SUB,258,231 at 03:08:13 2016-08-19
+[Client 273] Hello message: Hello, you are client #17. at 03:08:13 2016-08-19
+[Client 11] Hello message: Hello, you are client #16. at 03:08:13 2016-08-19
+[Client 236] DIV,301,702 at 03:08:13 2016-08-19
+[Client 236] Hello message: Hello, you are client #18. at 03:08:13 2016-08-19
+[Client 47] 270 - 477 = -207 at 03:08:13 2016-08-19
+[Client 47] Closing socket at 03:08:13 2016-08-19
+[Client 47] done at 03:08:13 2016-08-19
+[Client 10] SUB,414,447 at 03:08:13 2016-08-19
+[Client 10] Hello message: Hello, you are client #19. at 03:08:13 2016-08-19
+[Client 299] MUL,88,465 at 03:08:13 2016-08-19
+[Client 299] Hello message: Hello, you are client #20. at 03:08:13 2016-08-19
+[Client 150] MUL,685,741 at 03:08:13 2016-08-19
+[Client 150] Hello message: Hello, you are client #22. at 03:08:13 2016-08-19
+[Client 279] MUL,19,169 at 03:08:13 2016-08-19
+[Client 279] Hello message: Hello, you are client #21. at 03:08:13 2016-08-19
+[Client 333] SUB,60,488 at 03:08:13 2016-08-19
+[Client 333] Hello message: Hello, you are client #23. at 03:08:13 2016-08-19
+[Client 24] ADD,225,969 at 03:08:13 2016-08-19
+[Client 24] Hello message: Hello, you are client #24. at 03:08:13 2016-08-19
+[Client 168] MUL,388,731 at 03:08:13 2016-08-19
+[Client 168] Hello message: Hello, you are client #25. at 03:08:13 2016-08-19
+[Client 2] 395 - 187 = 208 at 03:08:13 2016-08-19
+[Client 2] Closing socket at 03:08:13 2016-08-19
+[Client 2] done at 03:08:13 2016-08-19
+[Client 264] DIV,309,281 at 03:08:13 2016-08-19
+[Client 264] Hello message: Hello, you are client #26. at 03:08:13 2016-08-19
+[Client 388] ADD,285,515 at 03:08:13 2016-08-19
+[Client 388] Hello message: Hello, you are client #27. at 03:08:13 2016-08-19
+[Client 45] MUL,16,308 at 03:08:13 2016-08-19
+[Client 45] Hello message: Hello, you are client #28. at 03:08:13 2016-08-19
+[Client 44] MUL,785,754 at 03:08:13 2016-08-19
+[Client 44] Hello message: Hello, you are client #29. at 03:08:13 2016-08-19
+[Client 251] 686 - 578 = 108 at 03:08:13 2016-08-19
+[Client 336] 738 - 478 = 260 at 03:08:13 2016-08-19
+[Client 251] Closing socket at 03:08:13 2016-08-19
+[Client 251] done at 03:08:13 2016-08-19
+[Client 336] Closing socket at 03:08:13 2016-08-19
+[Client 336] done at 03:08:13 2016-08-19
+[Client 81] 410 * 709 = 290690 at 03:08:13 2016-08-19
+[Client 81] Closing socket at 03:08:13 2016-08-19
+[Client 81] done at 03:08:13 2016-08-19
+[Client 32] ADD,670,805 at 03:08:13 2016-08-19
+[Client 32] Hello message: Hello, you are client #30. at 03:08:13 2016-08-19
+[Client 291] 586 - 759 = -173 at 03:08:13 2016-08-19
+[Client 291] Closing socket at 03:08:13 2016-08-19
+[Client 291] done at 03:08:13 2016-08-19
+[Client 159] 221 * 623 = 137683 at 03:08:13 2016-08-19
+[Client 159] Closing socket at 03:08:13 2016-08-19
+[Client 159] done at 03:08:13 2016-08-19
+[Client 70] ADD,146,835 at 03:08:13 2016-08-19
+[Client 70] Hello message: Hello, you are client #31. at 03:08:13 2016-08-19
+[Client 374] 26 + 399 = 425 at 03:08:13 2016-08-19
+[Client 374] Closing socket at 03:08:13 2016-08-19
+[Client 322] SUB,415,439 at 03:08:13 2016-08-19
+[Client 374] done at 03:08:13 2016-08-19
+[Client 322] Hello message: Hello, you are client #32. at 03:08:13 2016-08-19
+[Client 199] 893 * 79 = 70547 at 03:08:13 2016-08-19
+[Client 56] 564 + 912 = 1476 at 03:08:13 2016-08-19
+[Client 199] Closing socket at 03:08:13 2016-08-19
+[Client 199] done at 03:08:13 2016-08-19
+[Client 56] Closing socket at 03:08:13 2016-08-19
+[Client 56] done at 03:08:13 2016-08-19
+[Client 313] SUB,730,910 at 03:08:13 2016-08-19
+[Client 313] Hello message: Hello, you are client #33. at 03:08:13 2016-08-19
+[Client 289] MUL,457,30 at 03:08:13 2016-08-19
+[Client 289] Hello message: Hello, you are client #34. at 03:08:13 2016-08-19
+[Client 111] MUL,744,248 at 03:08:13 2016-08-19
+[Client 111] Hello message: Hello, you are client #35. at 03:08:13 2016-08-19
+[Client 283] MUL,423,661 at 03:08:13 2016-08-19
+[Client 176] DIV,765,777 at 03:08:13 2016-08-19
+[Client 283] Hello message: Hello, you are client #36. at 03:08:13 2016-08-19
+[Client 176] Hello message: Hello, you are client #37. at 03:08:13 2016-08-19
+[Client 28] DIV,703,484 at 03:08:13 2016-08-19
+[Client 343] DIV,528,734 at 03:08:13 2016-08-19
+[Client 343] Hello message: Hello, you are client #38. at 03:08:13 2016-08-19
+[Client 282] DIV,975,856 at 03:08:13 2016-08-19
+[Client 353] MUL,721,502 at 03:08:13 2016-08-19
+[Client 28] Hello message: Hello, you are client #39. at 03:08:13 2016-08-19
+[Client 282] Hello message: Hello, you are client #40. at 03:08:13 2016-08-19
+[Client 353] Hello message: Hello, you are client #41. at 03:08:13 2016-08-19
+[Client 74] MUL,815,264 at 03:08:13 2016-08-19
+[Client 74] Hello message: Hello, you are client #42. at 03:08:13 2016-08-19
+[Client 25] ADD,666,523 at 03:08:13 2016-08-19
+[Client 25] Hello message: Hello, you are client #43. at 03:08:13 2016-08-19
+[Client 188] MUL,40,162 at 03:08:13 2016-08-19
+[Client 188] Hello message: Hello, you are client #44. at 03:08:13 2016-08-19
+[Client 11] 861 * 259 = 222999 at 03:08:13 2016-08-19
+[Client 125] 362 / 387 = 0 at 03:08:13 2016-08-19
+[Client 125] Closing socket at 03:08:13 2016-08-19
+[Client 341] ADD,494,8 at 03:08:13 2016-08-19
+[Client 248] DIV,15,788 at 03:08:13 2016-08-19
+[Client 11] Closing socket at 03:08:13 2016-08-19
+[Client 11] done at 03:08:13 2016-08-19
+[Client 125] done at 03:08:13 2016-08-19
+[Client 341] Hello message: Hello, you are client #45. at 03:08:13 2016-08-19
+[Client 248] Hello message: Hello, you are client #46. at 03:08:13 2016-08-19
+[Client 57] MUL,295,608 at 03:08:13 2016-08-19
+[Client 57] Hello message: Hello, you are client #47. at 03:08:13 2016-08-19
+[Client 196] SUB,22,478 at 03:08:13 2016-08-19
+[Client 196] Hello message: Hello, you are client #48. at 03:08:13 2016-08-19
+[Client 285] DIV,773,304 at 03:08:13 2016-08-19
+[Client 285] Hello message: Hello, you are client #49. at 03:08:13 2016-08-19
+[Client 329] MUL,574,130 at 03:08:13 2016-08-19
+[Client 329] Hello message: Hello, you are client #50. at 03:08:13 2016-08-19
+[Client 273] 258 - 231 = 27 at 03:08:13 2016-08-19
+[Client 300] SUB,73,104 at 03:08:13 2016-08-19
+[Client 273] Closing socket at 03:08:13 2016-08-19
+[Client 273] done at 03:08:13 2016-08-19
+[Client 236] 301 / 702 = 0 at 03:08:13 2016-08-19
+[Client 236] Closing socket at 03:08:13 2016-08-19
+[Client 236] done at 03:08:13 2016-08-19
+[Client 300] Hello message: Hello, you are client #51. at 03:08:13 2016-08-19
+[Client 10] 414 - 447 = -33 at 03:08:13 2016-08-19
+[Client 258] DIV,96,447 at 03:08:13 2016-08-19
+[Client 258] Hello message: Hello, you are client #52. at 03:08:13 2016-08-19
+[Client 10] Closing socket at 03:08:13 2016-08-19
+[Client 10] done at 03:08:13 2016-08-19
+[Client 240] DIV,617,889 at 03:08:13 2016-08-19
+[Client 240] Hello message: Hello, you are client #53. at 03:08:13 2016-08-19
+[Client 58] MUL,780,275 at 03:08:13 2016-08-19
+[Client 299] 88 * 465 = 40920 at 03:08:13 2016-08-19
+[Client 299] Closing socket at 03:08:13 2016-08-19
+[Client 299] done at 03:08:13 2016-08-19
+[Client 58] Hello message: Hello, you are client #54. at 03:08:13 2016-08-19
+[Client 150] 685 * 741 = 507585 at 03:08:13 2016-08-19
+[Client 150] Closing socket at 03:08:13 2016-08-19
+[Client 150] done at 03:08:13 2016-08-19
+[Client 279] 19 * 169 = 3211 at 03:08:13 2016-08-19
+[Client 279] Closing socket at 03:08:13 2016-08-19
+[Client 279] done at 03:08:13 2016-08-19
+[Client 314] MUL,988,348 at 03:08:13 2016-08-19
+[Client 314] Hello message: Hello, you are client #55. at 03:08:13 2016-08-19
+[Client 377] SUB,406,666 at 03:08:13 2016-08-19
+[Client 122] MUL,563,562 at 03:08:13 2016-08-19
+[Client 377] Hello message: Hello, you are client #56. at 03:08:13 2016-08-19
+[Client 122] Hello message: Hello, you are client #57. at 03:08:13 2016-08-19
+[Client 333] 60 - 488 = -428 at 03:08:13 2016-08-19
+[Client 333] Closing socket at 03:08:13 2016-08-19
+[Client 333] done at 03:08:13 2016-08-19
+[Client 221] SUB,964,425 at 03:08:13 2016-08-19
+[Client 221] Hello message: Hello, you are client #58. at 03:08:13 2016-08-19
+[Client 266] ADD,774,719 at 03:08:13 2016-08-19
+[Client 266] Hello message: Hello, you are client #59. at 03:08:13 2016-08-19
+[Client 99] ADD,39,62 at 03:08:13 2016-08-19
+[Client 37] ADD,570,963 at 03:08:13 2016-08-19
+[Client 85] MUL,658,103 at 03:08:13 2016-08-19
+[Client 85] Hello message: Hello, you are client #60. at 03:08:13 2016-08-19
+[Client 37] Hello message: Hello, you are client #62. at 03:08:13 2016-08-19
+[Client 99] Hello message: Hello, you are client #61. at 03:08:13 2016-08-19
+[Client 68] ADD,315,425 at 03:08:13 2016-08-19
+[Client 68] Hello message: Hello, you are client #63. at 03:08:13 2016-08-19
+[Client 24] 225 + 969 = 1194 at 03:08:13 2016-08-19
+[Client 24] Closing socket at 03:08:13 2016-08-19
+[Client 24] done at 03:08:13 2016-08-19
+[Client 344] SUB,577,794 at 03:08:13 2016-08-19
+[Client 311] DIV,671,469 at 03:08:13 2016-08-19
+[Client 344] Hello message: Hello, you are client #64. at 03:08:13 2016-08-19
+[Client 311] Hello message: Hello, you are client #65. at 03:08:13 2016-08-19
+[Client 168] 388 * 731 = 283628 at 03:08:13 2016-08-19
+[Client 168] Closing socket at 03:08:13 2016-08-19
+[Client 168] done at 03:08:13 2016-08-19
+[Client 107] ADD,565,395 at 03:08:13 2016-08-19
+[Client 107] Hello message: Hello, you are client #66. at 03:08:13 2016-08-19
+[Client 264] 309 / 281 = 1 at 03:08:13 2016-08-19
+[Client 264] Closing socket at 03:08:13 2016-08-19
+[Client 264] done at 03:08:13 2016-08-19
+[Client 364] DIV,199,143 at 03:08:13 2016-08-19
+[Client 306] ADD,506,127 at 03:08:13 2016-08-19
+[Client 364] Hello message: Hello, you are client #68. at 03:08:13 2016-08-19
+[Client 306] Hello message: Hello, you are client #67. at 03:08:13 2016-08-19
+[Client 388] 285 + 515 = 800 at 03:08:13 2016-08-19
+[Client 388] Closing socket at 03:08:13 2016-08-19
+[Client 388] done at 03:08:13 2016-08-19
+[Client 337] DIV,755,200 at 03:08:13 2016-08-19
+[Client 126] ADD,909,75 at 03:08:13 2016-08-19
+[Client 45] 16 * 308 = 4928 at 03:08:13 2016-08-19
+[Client 45] Closing socket at 03:08:13 2016-08-19
+[Client 45] done at 03:08:13 2016-08-19
+[Client 337] Hello message: Hello, you are client #69. at 03:08:13 2016-08-19
+[Client 126] Hello message: Hello, you are client #70. at 03:08:13 2016-08-19
+[Client 44] 785 * 754 = 591890 at 03:08:13 2016-08-19
+[Client 44] Closing socket at 03:08:13 2016-08-19
+[Client 44] done at 03:08:13 2016-08-19
+[Client 269] SUB,85,176 at 03:08:13 2016-08-19
+[Client 269] Hello message: Hello, you are client #71. at 03:08:13 2016-08-19
+[Client 301] MUL,619,907 at 03:08:13 2016-08-19
+[Client 301] Hello message: Hello, you are client #72. at 03:08:13 2016-08-19
+[Client 294] ADD,77,738 at 03:08:13 2016-08-19
+[Client 294] Hello message: Hello, you are client #73. at 03:08:13 2016-08-19
+[Client 348] ADD,429,979 at 03:08:14 2016-08-19
+[Client 32] 670 + 805 = 1475 at 03:08:14 2016-08-19
+[Client 32] Closing socket at 03:08:14 2016-08-19
+[Client 32] done at 03:08:14 2016-08-19
+[Client 70] 146 + 835 = 981 at 03:08:14 2016-08-19
+[Client 70] Closing socket at 03:08:14 2016-08-19
+[Client 348] Hello message: Hello, you are client #74. at 03:08:14 2016-08-19
+[Client 70] done at 03:08:14 2016-08-19
+[Client 322] 415 - 439 = -24 at 03:08:14 2016-08-19
+[Client 322] Closing socket at 03:08:14 2016-08-19
+[Client 322] done at 03:08:14 2016-08-19
+[Client 313] 730 - 910 = -180 at 03:08:14 2016-08-19
+[Client 313] Closing socket at 03:08:14 2016-08-19
+[Client 313] done at 03:08:14 2016-08-19
+[Client 289] 457 * 30 = 13710 at 03:08:14 2016-08-19
+[Client 289] Closing socket at 03:08:14 2016-08-19
+[Client 289] done at 03:08:14 2016-08-19
+[Client 111] 744 * 248 = 184512 at 03:08:14 2016-08-19
+[Client 111] Closing socket at 03:08:14 2016-08-19
+[Client 283] 423 * 661 = 279603 at 03:08:14 2016-08-19
+[Client 283] Closing socket at 03:08:14 2016-08-19
+[Client 111] done at 03:08:14 2016-08-19
+[Client 283] done at 03:08:14 2016-08-19
+[Client 160] ADD,365,806 at 03:08:14 2016-08-19
+[Client 160] Hello message: Hello, you are client #75. at 03:08:14 2016-08-19
+[Client 21] MUL,508,602 at 03:08:14 2016-08-19
+[Client 178] ADD,900,527 at 03:08:14 2016-08-19
+[Client 176] 765 / 777 = 0 at 03:08:14 2016-08-19
+[Client 176] Closing socket at 03:08:14 2016-08-19
+[Client 176] done at 03:08:14 2016-08-19
+[Client 178] Hello message: Hello, you are client #76. at 03:08:14 2016-08-19
+[Client 21] Hello message: Hello, you are client #77. at 03:08:14 2016-08-19
+[Client 343] 528 / 734 = 0 at 03:08:14 2016-08-19
+[Client 343] Closing socket at 03:08:14 2016-08-19
+[Client 343] done at 03:08:14 2016-08-19
+[Client 233] DIV,823,814 at 03:08:14 2016-08-19
+[Client 233] Hello message: Hello, you are client #78. at 03:08:14 2016-08-19
+[Client 200] MUL,411,446 at 03:08:14 2016-08-19
+[Client 200] Hello message: Hello, you are client #79. at 03:08:14 2016-08-19
+[Client 0] SUB,605,944 at 03:08:14 2016-08-19
+[Client 0] Hello message: Hello, you are client #80. at 03:08:14 2016-08-19
+[Client 65] SUB,94,431 at 03:08:14 2016-08-19
+[Client 65] Hello message: Hello, you are client #81. at 03:08:14 2016-08-19
+[Client 28] 703 / 484 = 1 at 03:08:14 2016-08-19
+[Client 28] Closing socket at 03:08:14 2016-08-19
+[Client 28] done at 03:08:14 2016-08-19
+[Client 380] ADD,139,634 at 03:08:14 2016-08-19
+[Client 5] SUB,930,909 at 03:08:14 2016-08-19
+[Client 380] Hello message: Hello, you are client #82. at 03:08:14 2016-08-19
+[Client 5] Hello message: Hello, you are client #83. at 03:08:14 2016-08-19
+[Client 141] SUB,178,545 at 03:08:14 2016-08-19
+[Client 141] Hello message: Hello, you are client #84. at 03:08:14 2016-08-19
+[Client 246] MUL,261,16 at 03:08:14 2016-08-19
+[Client 246] Hello message: Hello, you are client #85. at 03:08:14 2016-08-19
+[Client 207] MUL,242,567 at 03:08:14 2016-08-19
+[Client 207] Hello message: Hello, you are client #86. at 03:08:14 2016-08-19
+[Client 282] 975 / 856 = 1 at 03:08:14 2016-08-19
+[Client 282] Closing socket at 03:08:14 2016-08-19
+[Client 282] done at 03:08:14 2016-08-19
+[Client 143] ADD,948,72 at 03:08:14 2016-08-19
+[Client 143] Hello message: Hello, you are client #87. at 03:08:14 2016-08-19
+[Client 103] DIV,884,234 at 03:08:14 2016-08-19
+[Client 103] Hello message: Hello, you are client #88. at 03:08:14 2016-08-19
+[Client 74] 815 * 264 = 215160 at 03:08:14 2016-08-19
+[Client 353] 721 * 502 = 361942 at 03:08:14 2016-08-19
+[Client 74] Closing socket at 03:08:14 2016-08-19
+[Client 353] Closing socket at 03:08:14 2016-08-19
+[Client 74] done at 03:08:14 2016-08-19
+[Client 353] done at 03:08:14 2016-08-19
+[Client 25] 666 + 523 = 1189 at 03:08:14 2016-08-19
+[Client 25] Closing socket at 03:08:14 2016-08-19
+[Client 25] done at 03:08:14 2016-08-19
+[Client 153] SUB,70,266 at 03:08:14 2016-08-19
+[Client 153] Hello message: Hello, you are client #89. at 03:08:14 2016-08-19
+[Client 144] ADD,253,216 at 03:08:14 2016-08-19
+[Client 188] 40 * 162 = 6480 at 03:08:14 2016-08-19
+[Client 188] Closing socket at 03:08:14 2016-08-19
+[Client 188] done at 03:08:14 2016-08-19
+[Client 144] Hello message: Hello, you are client #90. at 03:08:14 2016-08-19
+[Client 366] SUB,420,855 at 03:08:14 2016-08-19
+[Client 366] Hello message: Hello, you are client #91. at 03:08:14 2016-08-19
+[Client 97] DIV,232,681 at 03:08:14 2016-08-19
+[Client 97] Hello message: Hello, you are client #92. at 03:08:14 2016-08-19
+[Client 66] ADD,616,285 at 03:08:14 2016-08-19
+[Client 66] Hello message: Hello, you are client #93. at 03:08:14 2016-08-19
+[Client 7] SUB,444,717 at 03:08:14 2016-08-19
+[Client 7] Hello message: Hello, you are client #94. at 03:08:14 2016-08-19
+[Client 341] 494 + 8 = 502 at 03:08:14 2016-08-19
+[Client 341] Closing socket at 03:08:14 2016-08-19
+[Client 341] done at 03:08:14 2016-08-19
+[Client 248] 15 / 788 = 0 at 03:08:14 2016-08-19
+[Client 248] Closing socket at 03:08:14 2016-08-19
+[Client 248] done at 03:08:14 2016-08-19
+[Client 57] 295 * 608 = 179360 at 03:08:14 2016-08-19
+[Client 57] Closing socket at 03:08:14 2016-08-19
+[Client 57] done at 03:08:14 2016-08-19
+[Client 382] SUB,509,710 at 03:08:14 2016-08-19
+[Client 196] 22 - 478 = -456 at 03:08:14 2016-08-19
+[Client 196] Closing socket at 03:08:14 2016-08-19
+[Client 382] Hello message: Hello, you are client #95. at 03:08:14 2016-08-19
+[Client 196] done at 03:08:14 2016-08-19
+[Client 285] 773 / 304 = 2 at 03:08:14 2016-08-19
+[Client 285] Closing socket at 03:08:14 2016-08-19
+[Client 285] done at 03:08:14 2016-08-19
+[Client 335] SUB,928,766 at 03:08:14 2016-08-19
+[Client 14] DIV,395,875 at 03:08:14 2016-08-19
+[Client 335] Hello message: Hello, you are client #96. at 03:08:14 2016-08-19
+[Client 14] Hello message: Hello, you are client #97. at 03:08:14 2016-08-19
+[Client 329] 574 * 130 = 74620 at 03:08:14 2016-08-19
+[Client 329] Closing socket at 03:08:14 2016-08-19
+[Client 329] done at 03:08:14 2016-08-19
+[Client 300] 73 - 104 = -31 at 03:08:14 2016-08-19
+[Client 300] Closing socket at 03:08:14 2016-08-19
+[Client 300] done at 03:08:14 2016-08-19
+[Client 258] 96 / 447 = 0 at 03:08:14 2016-08-19
+[Client 258] Closing socket at 03:08:14 2016-08-19
+[Client 258] done at 03:08:14 2016-08-19
+[Client 240] 617 / 889 = 0 at 03:08:14 2016-08-19
+[Client 224] SUB,931,642 at 03:08:14 2016-08-19
+[Client 240] Closing socket at 03:08:14 2016-08-19
+[Client 224] Hello message: Hello, you are client #98. at 03:08:14 2016-08-19
+[Client 240] done at 03:08:14 2016-08-19
+[Client 58] 780 * 275 = 214500 at 03:08:14 2016-08-19
+[Client 58] Closing socket at 03:08:14 2016-08-19
+[Client 58] done at 03:08:14 2016-08-19
+[Client 314] 988 * 348 = 343824 at 03:08:14 2016-08-19
+[Client 314] Closing socket at 03:08:14 2016-08-19
+[Client 314] done at 03:08:14 2016-08-19
+[Client 377] 406 - 666 = -260 at 03:08:14 2016-08-19
+[Client 377] Closing socket at 03:08:14 2016-08-19
+[Client 377] done at 03:08:14 2016-08-19
+[Client 122] 563 * 562 = 316406 at 03:08:14 2016-08-19
+[Client 122] Closing socket at 03:08:14 2016-08-19
+[Client 122] done at 03:08:14 2016-08-19
+[Client 221] 964 - 425 = 539 at 03:08:14 2016-08-19
+[Client 221] Closing socket at 03:08:14 2016-08-19
+[Client 221] done at 03:08:14 2016-08-19
+[Client 266] 774 + 719 = 1493 at 03:08:14 2016-08-19
+[Client 266] Closing socket at 03:08:14 2016-08-19
+[Client 266] done at 03:08:14 2016-08-19
+[Client 320] MUL,128,368 at 03:08:14 2016-08-19
+[Client 320] Hello message: Hello, you are client #99. at 03:08:14 2016-08-19
+[Client 85] 658 * 103 = 67774 at 03:08:14 2016-08-19
+[Client 85] Closing socket at 03:08:14 2016-08-19
+[Client 85] done at 03:08:14 2016-08-19
+[Client 37] 570 + 963 = 1533 at 03:08:14 2016-08-19
+[Client 37] Closing socket at 03:08:14 2016-08-19
+[Client 37] done at 03:08:14 2016-08-19
+[Client 99] 39 + 62 = 101 at 03:08:14 2016-08-19
+[Client 99] Closing socket at 03:08:14 2016-08-19
+[Client 99] done at 03:08:14 2016-08-19
+[Client 68] 315 + 425 = 740 at 03:08:14 2016-08-19
+[Client 68] Closing socket at 03:08:14 2016-08-19
+[Client 68] done at 03:08:14 2016-08-19
+[Client 102] DIV,174,557 at 03:08:14 2016-08-19
+[Client 102] Hello message: Hello, you are client #100. at 03:08:14 2016-08-19
+[Client 227] DIV,447,726 at 03:08:14 2016-08-19
+[Client 227] Hello message: Hello, you are client #101. at 03:08:14 2016-08-19
+[Client 20] MUL,698,425 at 03:08:14 2016-08-19
+[Client 20] Hello message: Hello, you are client #102. at 03:08:14 2016-08-19
+[Client 49] SUB,90,387 at 03:08:14 2016-08-19
+[Client 29] ADD,403,266 at 03:08:14 2016-08-19
+[Client 344] 577 - 794 = -217 at 03:08:14 2016-08-19
+[Client 49] Hello message: Hello, you are client #103. at 03:08:14 2016-08-19
+[Client 344] Closing socket at 03:08:14 2016-08-19
+[Client 29] Hello message: Hello, you are client #104. at 03:08:14 2016-08-19
+[Client 344] done at 03:08:14 2016-08-19
+[Client 311] 671 / 469 = 1 at 03:08:14 2016-08-19
+[Client 311] Closing socket at 03:08:14 2016-08-19
+[Client 311] done at 03:08:14 2016-08-19
+[Client 107] 565 + 395 = 960 at 03:08:14 2016-08-19
+[Client 364] 199 / 143 = 1 at 03:08:14 2016-08-19
+[Client 107] Closing socket at 03:08:14 2016-08-19
+[Client 364] Closing socket at 03:08:14 2016-08-19
+[Client 107] done at 03:08:14 2016-08-19
+[Client 364] done at 03:08:14 2016-08-19
+[Client 306] 506 + 127 = 633 at 03:08:14 2016-08-19
+[Client 306] Closing socket at 03:08:14 2016-08-19
+[Client 306] done at 03:08:14 2016-08-19
+[Client 27] MUL,934,693 at 03:08:14 2016-08-19
+[Client 27] Hello message: Hello, you are client #105. at 03:08:14 2016-08-19
+[Client 337] 755 / 200 = 3 at 03:08:14 2016-08-19
+[Client 337] Closing socket at 03:08:14 2016-08-19
+[Client 337] done at 03:08:14 2016-08-19
+[Client 126] 909 + 75 = 984 at 03:08:14 2016-08-19
+[Client 126] Closing socket at 03:08:14 2016-08-19
+[Client 126] done at 03:08:14 2016-08-19
+[Client 187] SUB,903,713 at 03:08:14 2016-08-19
+[Client 378] ADD,532,289 at 03:08:14 2016-08-19
+[Client 378] Hello message: Hello, you are client #107. at 03:08:14 2016-08-19
+[Client 187] Hello message: Hello, you are client #106. at 03:08:14 2016-08-19
+[Client 323] SUB,926,643 at 03:08:14 2016-08-19
+[Client 323] Hello message: Hello, you are client #108. at 03:08:14 2016-08-19
+[Client 269] 85 - 176 = -91 at 03:08:14 2016-08-19
+[Client 269] Closing socket at 03:08:14 2016-08-19
+[Client 301] 619 * 907 = 561433 at 03:08:14 2016-08-19
+[Client 269] done at 03:08:14 2016-08-19
+[Client 301] Closing socket at 03:08:14 2016-08-19
+[Client 301] done at 03:08:14 2016-08-19
+[Client 294] 77 + 738 = 815 at 03:08:14 2016-08-19
+[Client 294] Closing socket at 03:08:14 2016-08-19
+[Client 294] done at 03:08:14 2016-08-19
+[Client 348] 429 + 979 = 1408 at 03:08:14 2016-08-19
+[Client 348] Closing socket at 03:08:14 2016-08-19
+[Client 348] done at 03:08:14 2016-08-19
+[Client 60] MUL,849,691 at 03:08:14 2016-08-19
+[Client 60] Hello message: Hello, you are client #109. at 03:08:14 2016-08-19
+[Client 160] 365 + 806 = 1171 at 03:08:14 2016-08-19
+[Client 160] Closing socket at 03:08:14 2016-08-19
+[Client 160] done at 03:08:14 2016-08-19
+[Client 179] SUB,64,467 at 03:08:14 2016-08-19
+[Client 21] 508 * 602 = 305816 at 03:08:14 2016-08-19
+[Client 21] Closing socket at 03:08:14 2016-08-19
+[Client 179] Hello message: Hello, you are client #110. at 03:08:14 2016-08-19
+[Client 21] done at 03:08:14 2016-08-19
+[Client 178] 900 + 527 = 1427 at 03:08:14 2016-08-19
+[Client 178] Closing socket at 03:08:14 2016-08-19
+[Client 178] done at 03:08:14 2016-08-19
+[Client 174] MUL,10,425 at 03:08:14 2016-08-19
+[Client 174] Hello message: Hello, you are client #111. at 03:08:14 2016-08-19
+[Client 38] SUB,33,84 at 03:08:14 2016-08-19
+[Client 30] MUL,528,770 at 03:08:14 2016-08-19
+[Client 30] Hello message: Hello, you are client #112. at 03:08:14 2016-08-19
+[Client 38] Hello message: Hello, you are client #113. at 03:08:14 2016-08-19
+[Client 34] SUB,958,778 at 03:08:14 2016-08-19
+[Client 90] MUL,577,898 at 03:08:14 2016-08-19
+[Client 233] 823 / 814 = 1 at 03:08:14 2016-08-19
+[Client 233] Closing socket at 03:08:14 2016-08-19
+[Client 34] Hello message: Hello, you are client #114. at 03:08:14 2016-08-19
+[Client 233] done at 03:08:14 2016-08-19
+[Client 90] Hello message: Hello, you are client #115. at 03:08:14 2016-08-19
+[Client 157] MUL,619,310 at 03:08:14 2016-08-19
+[Client 200] 411 * 446 = 183306 at 03:08:14 2016-08-19
+[Client 200] Closing socket at 03:08:14 2016-08-19
+[Client 200] done at 03:08:14 2016-08-19
+[Client 157] Hello message: Hello, you are client #116. at 03:08:14 2016-08-19
+[Client 0] 605 - 944 = -339 at 03:08:14 2016-08-19
+[Client 0] Closing socket at 03:08:14 2016-08-19
+[Client 0] done at 03:08:14 2016-08-19
+[Client 307] ADD,86,492 at 03:08:14 2016-08-19
+[Client 307] Hello message: Hello, you are client #117. at 03:08:14 2016-08-19
+[Client 12] MUL,149,609 at 03:08:14 2016-08-19
+[Client 12] Hello message: Hello, you are client #118. at 03:08:14 2016-08-19
+[Client 65] 94 - 431 = -337 at 03:08:14 2016-08-19
+[Client 65] Closing socket at 03:08:14 2016-08-19
+[Client 65] done at 03:08:14 2016-08-19
+[Client 5] 930 - 909 = 21 at 03:08:14 2016-08-19
+[Client 5] Closing socket at 03:08:14 2016-08-19
+[Client 5] done at 03:08:14 2016-08-19
+[Client 312] DIV,668,519 at 03:08:14 2016-08-19
+[Client 380] 139 + 634 = 773 at 03:08:14 2016-08-19
+[Client 380] Closing socket at 03:08:14 2016-08-19
+[Client 312] Hello message: Hello, you are client #119. at 03:08:14 2016-08-19
+[Client 380] done at 03:08:14 2016-08-19
+[Client 141] 178 - 545 = -367 at 03:08:14 2016-08-19
+[Client 141] Closing socket at 03:08:14 2016-08-19
+[Client 141] done at 03:08:14 2016-08-19
+[Client 321] DIV,297,613 at 03:08:14 2016-08-19
+[Client 321] Hello message: Hello, you are client #120. at 03:08:14 2016-08-19
+[Client 345] SUB,394,558 at 03:08:14 2016-08-19
+[Client 345] Hello message: Hello, you are client #121. at 03:08:14 2016-08-19
+[Client 296] SUB,935,217 at 03:08:14 2016-08-19
+[Client 296] Hello message: Hello, you are client #122. at 03:08:14 2016-08-19
+[Client 207] 242 * 567 = 137214 at 03:08:14 2016-08-19
+[Client 207] Closing socket at 03:08:14 2016-08-19
+[Client 207] done at 03:08:14 2016-08-19
+[Client 124] ADD,860,805 at 03:08:14 2016-08-19
+[Client 246] 261 * 16 = 4176 at 03:08:14 2016-08-19
+[Client 246] Closing socket at 03:08:14 2016-08-19
+[Client 246] done at 03:08:14 2016-08-19
+[Client 124] Hello message: Hello, you are client #123. at 03:08:14 2016-08-19
+[Client 143] 948 + 72 = 1020 at 03:08:14 2016-08-19
+[Client 143] Closing socket at 03:08:14 2016-08-19
+[Client 75] ADD,318,95 at 03:08:14 2016-08-19
+[Client 119] DIV,498,737 at 03:08:14 2016-08-19
+[Client 143] done at 03:08:14 2016-08-19
+[Client 103] 884 / 234 = 3 at 03:08:14 2016-08-19
+[Client 103] Closing socket at 03:08:14 2016-08-19
+[Client 103] done at 03:08:14 2016-08-19
+[Client 119] Hello message: Hello, you are client #124. at 03:08:14 2016-08-19
+[Client 75] Hello message: Hello, you are client #125. at 03:08:14 2016-08-19
+[Client 153] 70 - 266 = -196 at 03:08:14 2016-08-19
+[Client 153] Closing socket at 03:08:14 2016-08-19
+[Client 153] done at 03:08:14 2016-08-19
+[Client 365] ADD,461,440 at 03:08:14 2016-08-19
+[Client 339] DIV,538,382 at 03:08:14 2016-08-19
+[Client 339] Hello message: Hello, you are client #127. at 03:08:14 2016-08-19
+[Client 365] Hello message: Hello, you are client #126. at 03:08:14 2016-08-19
+[Client 101] SUB,153,881 at 03:08:14 2016-08-19
+[Client 144] 253 + 216 = 469 at 03:08:14 2016-08-19
+[Client 144] Closing socket at 03:08:14 2016-08-19
+[Client 144] done at 03:08:14 2016-08-19
+[Client 101] Hello message: Hello, you are client #128. at 03:08:14 2016-08-19
+[Client 97] 232 / 681 = 0 at 03:08:14 2016-08-19
+[Client 92] DIV,472,525 at 03:08:14 2016-08-19
+[Client 366] 420 - 855 = -435 at 03:08:14 2016-08-19
+[Client 97] Closing socket at 03:08:14 2016-08-19
+[Client 366] Closing socket at 03:08:14 2016-08-19
+[Client 97] done at 03:08:14 2016-08-19
+[Client 366] done at 03:08:14 2016-08-19
+[Client 92] Hello message: Hello, you are client #129. at 03:08:14 2016-08-19
+[Client 290] SUB,783,678 at 03:08:14 2016-08-19
+[Client 290] Hello message: Hello, you are client #130. at 03:08:14 2016-08-19
+[Client 214] DIV,943,320 at 03:08:14 2016-08-19
+[Client 239] MUL,887,426 at 03:08:14 2016-08-19
+[Client 214] Hello message: Hello, you are client #131. at 03:08:14 2016-08-19
+[Client 66] 616 + 285 = 901 at 03:08:14 2016-08-19
+[Client 66] Closing socket at 03:08:14 2016-08-19
+[Client 239] Hello message: Hello, you are client #132. at 03:08:14 2016-08-19
+[Client 66] done at 03:08:14 2016-08-19
+[Client 7] 444 - 717 = -273 at 03:08:14 2016-08-19
+[Client 267] MUL,530,639 at 03:08:14 2016-08-19
+[Client 7] Closing socket at 03:08:14 2016-08-19
+[Client 7] done at 03:08:14 2016-08-19
+[Client 267] Hello message: Hello, you are client #133. at 03:08:14 2016-08-19
+[Client 225] DIV,236,593 at 03:08:14 2016-08-19
+[Client 225] Hello message: Hello, you are client #134. at 03:08:14 2016-08-19
+[Client 382] 509 - 710 = -201 at 03:08:14 2016-08-19
+[Client 382] Closing socket at 03:08:14 2016-08-19
+[Client 382] done at 03:08:14 2016-08-19
+[Client 270] DIV,161,893 at 03:08:14 2016-08-19
+[Client 151] SUB,316,990 at 03:08:14 2016-08-19
+[Client 270] Hello message: Hello, you are client #135. at 03:08:14 2016-08-19
+[Client 151] Hello message: Hello, you are client #136. at 03:08:14 2016-08-19
+[Client 335] 928 - 766 = 162 at 03:08:14 2016-08-19
+[Client 335] Closing socket at 03:08:14 2016-08-19
+[Client 335] done at 03:08:14 2016-08-19
+[Client 224] 931 - 642 = 289 at 03:08:14 2016-08-19
+[Client 224] Closing socket at 03:08:14 2016-08-19
+[Client 224] done at 03:08:14 2016-08-19
+[Client 14] 395 / 875 = 0 at 03:08:14 2016-08-19
+[Client 14] Closing socket at 03:08:14 2016-08-19
+[Client 14] done at 03:08:14 2016-08-19
+[Client 154] DIV,354,642 at 03:08:14 2016-08-19
+[Client 154] Hello message: Hello, you are client #137. at 03:08:14 2016-08-19
+[Client 16] SUB,611,753 at 03:08:14 2016-08-19
+[Client 16] Hello message: Hello, you are client #138. at 03:08:14 2016-08-19
+[Client 320] 128 * 368 = 47104 at 03:08:14 2016-08-19
+[Client 272] DIV,141,386 at 03:08:14 2016-08-19
+[Client 320] Closing socket at 03:08:14 2016-08-19
+[Client 320] done at 03:08:14 2016-08-19
+[Client 272] Hello message: Hello, you are client #139. at 03:08:14 2016-08-19
+[Client 227] 447 / 726 = 0 at 03:08:14 2016-08-19
+[Client 227] Closing socket at 03:08:14 2016-08-19
+[Client 227] done at 03:08:14 2016-08-19
+[Client 102] 174 / 557 = 0 at 03:08:14 2016-08-19
+[Client 102] Closing socket at 03:08:14 2016-08-19
+[Client 102] done at 03:08:14 2016-08-19
+[Client 20] 698 * 425 = 296650 at 03:08:14 2016-08-19
+[Client 20] Closing socket at 03:08:14 2016-08-19
+[Client 20] done at 03:08:14 2016-08-19
+[Client 362] DIV,102,881 at 03:08:14 2016-08-19
+[Client 362] Hello message: Hello, you are client #140. at 03:08:14 2016-08-19
+[Client 308] SUB,508,893 at 03:08:14 2016-08-19
+[Client 308] Hello message: Hello, you are client #141. at 03:08:14 2016-08-19
+[Client 304] SUB,725,862 at 03:08:14 2016-08-19
+[Client 304] Hello message: Hello, you are client #142. at 03:08:14 2016-08-19
+[Client 29] 403 + 266 = 669 at 03:08:14 2016-08-19
+[Client 29] Closing socket at 03:08:14 2016-08-19
+[Client 376] DIV,560,645 at 03:08:14 2016-08-19
+[Client 49] 90 - 387 = -297 at 03:08:14 2016-08-19
+[Client 49] Closing socket at 03:08:14 2016-08-19
+[Client 49] done at 03:08:14 2016-08-19
+[Client 29] done at 03:08:14 2016-08-19
+[Client 376] Hello message: Hello, you are client #143. at 03:08:14 2016-08-19
+[Client 112] ADD,693,594 at 03:08:14 2016-08-19
+[Client 386] SUB,553,248 at 03:08:14 2016-08-19
+[Client 112] Hello message: Hello, you are client #145. at 03:08:14 2016-08-19
+[Client 386] Hello message: Hello, you are client #144. at 03:08:14 2016-08-19
+[Client 27] 934 * 693 = 647262 at 03:08:14 2016-08-19
+[Client 27] Closing socket at 03:08:14 2016-08-19
+[Client 27] done at 03:08:14 2016-08-19
+[Client 83] SUB,665,574 at 03:08:14 2016-08-19
+[Client 83] Hello message: Hello, you are client #146. at 03:08:14 2016-08-19
+[Client 211] DIV,181,980 at 03:08:14 2016-08-19
+[Client 211] Hello message: Hello, you are client #147. at 03:08:14 2016-08-19
+[Client 187] 903 - 713 = 190 at 03:08:14 2016-08-19
+[Client 187] Closing socket at 03:08:14 2016-08-19
+[Client 187] done at 03:08:14 2016-08-19
+[Client 378] 532 + 289 = 821 at 03:08:14 2016-08-19
+[Client 378] Closing socket at 03:08:14 2016-08-19
+[Client 323] 926 - 643 = 283 at 03:08:14 2016-08-19
+[Client 378] done at 03:08:14 2016-08-19
+[Client 323] Closing socket at 03:08:14 2016-08-19
+[Client 323] done at 03:08:14 2016-08-19
+[Client 60] 849 * 691 = 586659 at 03:08:14 2016-08-19
+[Client 60] Closing socket at 03:08:14 2016-08-19
+[Client 60] done at 03:08:14 2016-08-19
+[Client 179] 64 - 467 = -403 at 03:08:14 2016-08-19
+[Client 179] Closing socket at 03:08:14 2016-08-19
+[Client 179] done at 03:08:14 2016-08-19
+[Client 132] ADD,536,744 at 03:08:14 2016-08-19
+[Client 174] 10 * 425 = 4250 at 03:08:14 2016-08-19
+[Client 174] Closing socket at 03:08:14 2016-08-19
+[Client 132] Hello message: Hello, you are client #148. at 03:08:14 2016-08-19
+[Client 174] done at 03:08:14 2016-08-19
+[Client 30] 528 * 770 = 406560 at 03:08:14 2016-08-19
+[Client 30] Closing socket at 03:08:14 2016-08-19
+[Client 30] done at 03:08:14 2016-08-19
+[Client 38] 33 - 84 = -51 at 03:08:14 2016-08-19
+[Client 38] Closing socket at 03:08:14 2016-08-19
+[Client 38] done at 03:08:14 2016-08-19
+[Client 34] 958 - 778 = 180 at 03:08:14 2016-08-19
+[Client 34] Closing socket at 03:08:14 2016-08-19
+[Client 34] done at 03:08:14 2016-08-19
+[Client 90] 577 * 898 = 518146 at 03:08:14 2016-08-19
+[Client 90] Closing socket at 03:08:14 2016-08-19
+[Client 90] done at 03:08:14 2016-08-19
+[Client 157] 619 * 310 = 191890 at 03:08:14 2016-08-19
+[Client 157] Closing socket at 03:08:14 2016-08-19
+[Client 157] done at 03:08:14 2016-08-19
+[Client 340] MUL,780,274 at 03:08:14 2016-08-19
+[Client 340] Hello message: Hello, you are client #149. at 03:08:14 2016-08-19
+[Client 307] 86 + 492 = 578 at 03:08:14 2016-08-19
+[Client 307] Closing socket at 03:08:14 2016-08-19
+[Client 307] done at 03:08:14 2016-08-19
+[Client 1] DIV,754,315 at 03:08:14 2016-08-19
+[Client 1] Hello message: Hello, you are client #150. at 03:08:14 2016-08-19
+[Client 12] 149 * 609 = 90741 at 03:08:14 2016-08-19
+[Client 12] Closing socket at 03:08:14 2016-08-19
+[Client 368] ADD,935,967 at 03:08:14 2016-08-19
+[Client 12] done at 03:08:14 2016-08-19
+[Client 368] Hello message: Hello, you are client #151. at 03:08:14 2016-08-19
+[Client 118] SUB,493,255 at 03:08:14 2016-08-19
+[Client 118] Hello message: Hello, you are client #152. at 03:08:14 2016-08-19
+[Client 277] DIV,480,171 at 03:08:14 2016-08-19
+[Client 277] Hello message: Hello, you are client #153. at 03:08:14 2016-08-19
+[Client 309] ADD,522,704 at 03:08:14 2016-08-19
+[Client 138] MUL,369,482 at 03:08:14 2016-08-19
+[Client 309] Hello message: Hello, you are client #154. at 03:08:14 2016-08-19
+[Client 138] Hello message: Hello, you are client #155. at 03:08:14 2016-08-19
+[Client 19] ADD,66,953 at 03:08:14 2016-08-19
+[Client 312] 668 / 519 = 1 at 03:08:14 2016-08-19
+[Client 312] Closing socket at 03:08:14 2016-08-19
+[Client 19] Hello message: Hello, you are client #156. at 03:08:14 2016-08-19
+[Client 312] done at 03:08:14 2016-08-19
+[Client 321] 297 / 613 = 0 at 03:08:14 2016-08-19
+[Client 321] Closing socket at 03:08:14 2016-08-19
+[Client 321] done at 03:08:14 2016-08-19
+[Client 326] ADD,103,705 at 03:08:14 2016-08-19
+[Client 326] Hello message: Hello, you are client #157. at 03:08:14 2016-08-19
+[Client 345] 394 - 558 = -164 at 03:08:14 2016-08-19
+[Client 345] Closing socket at 03:08:14 2016-08-19
+[Client 345] done at 03:08:14 2016-08-19
+[Client 296] 935 - 217 = 718 at 03:08:14 2016-08-19
+[Client 296] Closing socket at 03:08:14 2016-08-19
+[Client 296] done at 03:08:14 2016-08-19
+[Client 124] 860 + 805 = 1665 at 03:08:14 2016-08-19
+[Client 124] Closing socket at 03:08:14 2016-08-19
+[Client 124] done at 03:08:14 2016-08-19
+[Client 75] 318 + 95 = 413 at 03:08:14 2016-08-19
+[Client 75] Closing socket at 03:08:14 2016-08-19
+[Client 75] done at 03:08:14 2016-08-19
+[Client 119] 498 / 737 = 0 at 03:08:14 2016-08-19
+[Client 119] Closing socket at 03:08:14 2016-08-19
+[Client 119] done at 03:08:14 2016-08-19
+[Client 365] 461 + 440 = 901 at 03:08:14 2016-08-19
+[Client 365] Closing socket at 03:08:14 2016-08-19
+[Client 365] done at 03:08:14 2016-08-19
+[Client 101] 153 - 881 = -728 at 03:08:15 2016-08-19
+[Client 101] Closing socket at 03:08:15 2016-08-19
+[Client 101] done at 03:08:15 2016-08-19
+[Client 339] 538 / 382 = 1 at 03:08:15 2016-08-19
+[Client 339] Closing socket at 03:08:15 2016-08-19
+[Client 339] done at 03:08:15 2016-08-19
+[Client 92] 472 / 525 = 0 at 03:08:15 2016-08-19
+[Client 92] Closing socket at 03:08:15 2016-08-19
+[Client 92] done at 03:08:15 2016-08-19
+[Client 6] MUL,119,86 at 03:08:15 2016-08-19
+[Client 290] 783 - 678 = 105 at 03:08:15 2016-08-19
+[Client 290] Closing socket at 03:08:15 2016-08-19
+[Client 6] Hello message: Hello, you are client #158. at 03:08:15 2016-08-19
+[Client 290] done at 03:08:15 2016-08-19
+[Client 164] MUL,964,149 at 03:08:15 2016-08-19
+[Client 164] Hello message: Hello, you are client #159. at 03:08:15 2016-08-19
+[Client 239] 887 * 426 = 377862 at 03:08:15 2016-08-19
+[Client 239] Closing socket at 03:08:15 2016-08-19
+[Client 239] done at 03:08:15 2016-08-19
+[Client 214] 943 / 320 = 2 at 03:08:15 2016-08-19
+[Client 214] Closing socket at 03:08:15 2016-08-19
+[Client 214] done at 03:08:15 2016-08-19
+[Client 54] SUB,56,846 at 03:08:15 2016-08-19
+[Client 225] 236 / 593 = 0 at 03:08:15 2016-08-19
+[Client 225] Closing socket at 03:08:15 2016-08-19
+[Client 225] done at 03:08:15 2016-08-19
+[Client 54] Hello message: Hello, you are client #160. at 03:08:15 2016-08-19
+[Client 267] 530 * 639 = 338670 at 03:08:15 2016-08-19
+[Client 267] Closing socket at 03:08:15 2016-08-19
+[Client 267] done at 03:08:15 2016-08-19
+[Client 295] MUL,413,863 at 03:08:15 2016-08-19
+[Client 274] DIV,841,404 at 03:08:15 2016-08-19
+[Client 270] 161 / 893 = 0 at 03:08:15 2016-08-19
+[Client 270] Closing socket at 03:08:15 2016-08-19
+[Client 151] 316 - 990 = -674 at 03:08:15 2016-08-19
+[Client 151] Closing socket at 03:08:15 2016-08-19
+[Client 151] done at 03:08:15 2016-08-19
+[Client 295] Hello message: Hello, you are client #161. at 03:08:15 2016-08-19
+[Client 270] done at 03:08:15 2016-08-19
+[Client 274] Hello message: Hello, you are client #162. at 03:08:15 2016-08-19
+[Client 154] 354 / 642 = 0 at 03:08:15 2016-08-19
+[Client 272] 141 / 386 = 0 at 03:08:15 2016-08-19
+[Client 16] 611 - 753 = -142 at 03:08:15 2016-08-19
+[Client 272] Closing socket at 03:08:15 2016-08-19
+[Client 272] done at 03:08:15 2016-08-19
+[Client 154] Closing socket at 03:08:15 2016-08-19
+[Client 16] Closing socket at 03:08:15 2016-08-19
+[Client 154] done at 03:08:15 2016-08-19
+[Client 16] done at 03:08:15 2016-08-19
+[Client 362] 102 / 881 = 0 at 03:08:15 2016-08-19
+[Client 362] Closing socket at 03:08:15 2016-08-19
+[Client 362] done at 03:08:15 2016-08-19
+[Client 263] ADD,328,995 at 03:08:15 2016-08-19
+[Client 140] SUB,624,120 at 03:08:15 2016-08-19
+[Client 140] Hello message: Hello, you are client #163. at 03:08:15 2016-08-19
+[Client 123] ADD,189,688 at 03:08:15 2016-08-19
+[Client 263] Hello message: Hello, you are client #164. at 03:08:15 2016-08-19
+[Client 123] Hello message: Hello, you are client #165. at 03:08:15 2016-08-19
+[Client 308] 508 - 893 = -385 at 03:08:15 2016-08-19
+[Client 308] Closing socket at 03:08:15 2016-08-19
+[Client 308] done at 03:08:15 2016-08-19
+[Client 376] 560 / 645 = 0 at 03:08:15 2016-08-19
+[Client 304] 725 - 862 = -137 at 03:08:15 2016-08-19
+[Client 376] Closing socket at 03:08:15 2016-08-19
+[Client 304] Closing socket at 03:08:15 2016-08-19
+[Client 304] done at 03:08:15 2016-08-19
+[Client 376] done at 03:08:15 2016-08-19
+[Client 112] 693 + 594 = 1287 at 03:08:15 2016-08-19
+[Client 112] Closing socket at 03:08:15 2016-08-19
+[Client 203] MUL,606,248 at 03:08:15 2016-08-19
+[Client 112] done at 03:08:15 2016-08-19
+[Client 203] Hello message: Hello, you are client #166. at 03:08:15 2016-08-19
+[Client 386] 553 - 248 = 305 at 03:08:15 2016-08-19
+[Client 386] Closing socket at 03:08:15 2016-08-19
+[Client 386] done at 03:08:15 2016-08-19
+[Client 346] DIV,94,592 at 03:08:15 2016-08-19
+[Client 346] Hello message: Hello, you are client #167. at 03:08:15 2016-08-19
+[Client 83] 665 - 574 = 91 at 03:08:15 2016-08-19
+[Client 211] 181 / 980 = 0 at 03:08:15 2016-08-19
+[Client 83] Closing socket at 03:08:15 2016-08-19
+[Client 211] Closing socket at 03:08:15 2016-08-19
+[Client 83] done at 03:08:15 2016-08-19
+[Client 211] done at 03:08:15 2016-08-19
+[Client 132] 536 + 744 = 1280 at 03:08:15 2016-08-19
+[Client 132] Closing socket at 03:08:15 2016-08-19
+[Client 132] done at 03:08:15 2016-08-19
+[Client 340] 780 * 274 = 213720 at 03:08:15 2016-08-19
+[Client 340] Closing socket at 03:08:15 2016-08-19
+[Client 340] done at 03:08:15 2016-08-19
+[Client 1] 754 / 315 = 2 at 03:08:15 2016-08-19
+[Client 368] 935 + 967 = 1902 at 03:08:15 2016-08-19
+[Client 1] Closing socket at 03:08:15 2016-08-19
+[Client 368] Closing socket at 03:08:15 2016-08-19
+[Client 1] done at 03:08:15 2016-08-19
+[Client 368] done at 03:08:15 2016-08-19
+[Client 118] 493 - 255 = 238 at 03:08:15 2016-08-19
+[Client 118] Closing socket at 03:08:15 2016-08-19
+[Client 118] done at 03:08:15 2016-08-19
+[Client 121] MUL,244,622 at 03:08:15 2016-08-19
+[Client 26] SUB,496,627 at 03:08:15 2016-08-19
+[Client 26] Hello message: Hello, you are client #168. at 03:08:15 2016-08-19
+[Client 121] Hello message: Hello, you are client #169. at 03:08:15 2016-08-19
+[Client 277] 480 / 171 = 2 at 03:08:15 2016-08-19
+[Client 277] Closing socket at 03:08:15 2016-08-19
+[Client 277] done at 03:08:15 2016-08-19
+[Client 268] SUB,476,445 at 03:08:15 2016-08-19
+[Client 268] Hello message: Hello, you are client #170. at 03:08:15 2016-08-19
+[Client 180] SUB,598,69 at 03:08:15 2016-08-19
+[Client 180] Hello message: Hello, you are client #171. at 03:08:15 2016-08-19
+[Client 309] 522 + 704 = 1226 at 03:08:15 2016-08-19
+[Client 309] Closing socket at 03:08:15 2016-08-19
+[Client 42] MUL,806,430 at 03:08:15 2016-08-19
+[Client 309] done at 03:08:15 2016-08-19
+[Client 42] Hello message: Hello, you are client #172. at 03:08:15 2016-08-19
+[Client 138] 369 * 482 = 177858 at 03:08:15 2016-08-19
+[Client 138] Closing socket at 03:08:15 2016-08-19
+[Client 138] done at 03:08:15 2016-08-19
+[Client 165] SUB,835,886 at 03:08:15 2016-08-19
+[Client 165] Hello message: Hello, you are client #173. at 03:08:15 2016-08-19
+[Client 19] 66 + 953 = 1019 at 03:08:15 2016-08-19
+[Client 19] Closing socket at 03:08:15 2016-08-19
+[Client 19] done at 03:08:15 2016-08-19
+[Client 170] ADD,462,827 at 03:08:15 2016-08-19
+[Client 170] Hello message: Hello, you are client #174. at 03:08:15 2016-08-19
+[Client 89] DIV,155,310 at 03:08:15 2016-08-19
+[Client 326] 103 + 705 = 808 at 03:08:15 2016-08-19
+[Client 326] Closing socket at 03:08:15 2016-08-19
+[Client 326] done at 03:08:15 2016-08-19
+[Client 89] Hello message: Hello, you are client #175. at 03:08:15 2016-08-19
+[Client 6] 119 * 86 = 10234 at 03:08:15 2016-08-19
+[Client 6] Closing socket at 03:08:15 2016-08-19
+[Client 6] done at 03:08:15 2016-08-19
+[Client 197] ADD,349,807 at 03:08:15 2016-08-19
+[Client 197] Hello message: Hello, you are client #176. at 03:08:15 2016-08-19
+[Client 288] ADD,204,878 at 03:08:15 2016-08-19
+[Client 288] Hello message: Hello, you are client #177. at 03:08:15 2016-08-19
+[Client 164] 964 * 149 = 143636 at 03:08:15 2016-08-19
+[Client 164] Closing socket at 03:08:15 2016-08-19
+[Client 164] done at 03:08:15 2016-08-19
+[Client 295] 413 * 863 = 356419 at 03:08:15 2016-08-19
+[Client 54] 56 - 846 = -790 at 03:08:15 2016-08-19
+[Client 295] Closing socket at 03:08:15 2016-08-19
+[Client 54] Closing socket at 03:08:15 2016-08-19
+[Client 295] done at 03:08:15 2016-08-19
+[Client 54] done at 03:08:15 2016-08-19
+[Client 274] 841 / 404 = 2 at 03:08:15 2016-08-19
+[Client 274] Closing socket at 03:08:15 2016-08-19
+[Client 274] done at 03:08:15 2016-08-19
+[Client 140] 624 - 120 = 504 at 03:08:15 2016-08-19
+[Client 140] Closing socket at 03:08:15 2016-08-19
+[Client 140] done at 03:08:15 2016-08-19
+[Client 385] ADD,701,553 at 03:08:15 2016-08-19
+[Client 385] Hello message: Hello, you are client #178. at 03:08:15 2016-08-19
+[Client 155] SUB,478,222 at 03:08:15 2016-08-19
+[Client 155] Hello message: Hello, you are client #179. at 03:08:15 2016-08-19
+[Client 263] 328 + 995 = 1323 at 03:08:15 2016-08-19
+[Client 263] Closing socket at 03:08:15 2016-08-19
+[Client 263] done at 03:08:15 2016-08-19
+[Client 123] 189 + 688 = 877 at 03:08:15 2016-08-19
+[Client 123] Closing socket at 03:08:15 2016-08-19
+[Client 123] done at 03:08:15 2016-08-19
+[Client 231] ADD,620,891 at 03:08:15 2016-08-19
+[Client 231] Hello message: Hello, you are client #180. at 03:08:15 2016-08-19
+[Client 203] 606 * 248 = 150288 at 03:08:15 2016-08-19
+[Client 203] Closing socket at 03:08:15 2016-08-19
+[Client 203] done at 03:08:15 2016-08-19
+[Client 235] ADD,919,557 at 03:08:15 2016-08-19
+[Client 235] Hello message: Hello, you are client #181. at 03:08:15 2016-08-19
+[Client 36] MUL,535,83 at 03:08:15 2016-08-19
+[Client 36] Hello message: Hello, you are client #182. at 03:08:15 2016-08-19
+[Client 361] SUB,506,378 at 03:08:15 2016-08-19
+[Client 361] Hello message: Hello, you are client #183. at 03:08:15 2016-08-19
+[Client 346] 94 / 592 = 0 at 03:08:15 2016-08-19
+[Client 346] Closing socket at 03:08:15 2016-08-19
+[Client 72] ADD,573,68 at 03:08:15 2016-08-19
+[Client 346] done at 03:08:15 2016-08-19
+[Client 72] Hello message: Hello, you are client #184. at 03:08:15 2016-08-19
+[Client 121] 244 * 622 = 151768 at 03:08:15 2016-08-19
+[Client 121] Closing socket at 03:08:15 2016-08-19
+[Client 121] done at 03:08:15 2016-08-19
+[Client 26] 496 - 627 = -131 at 03:08:15 2016-08-19
+[Client 26] Closing socket at 03:08:15 2016-08-19
+[Client 26] done at 03:08:15 2016-08-19
+[Client 268] 476 - 445 = 31 at 03:08:15 2016-08-19
+[Client 268] Closing socket at 03:08:15 2016-08-19
+[Client 268] done at 03:08:15 2016-08-19
+[Client 46] ADD,199,957 at 03:08:15 2016-08-19
+[Client 46] Hello message: Hello, you are client #185. at 03:08:15 2016-08-19
+[Client 180] 598 - 69 = 529 at 03:08:15 2016-08-19
+[Client 180] Closing socket at 03:08:15 2016-08-19
+[Client 180] done at 03:08:15 2016-08-19
+[Client 42] 806 * 430 = 346580 at 03:08:15 2016-08-19
+[Client 42] Closing socket at 03:08:15 2016-08-19
+[Client 42] done at 03:08:15 2016-08-19
+[Client 22] ADD,858,797 at 03:08:15 2016-08-19
+[Client 22] Hello message: Hello, you are client #186. at 03:08:15 2016-08-19
+[Client 114] MUL,991,609 at 03:08:15 2016-08-19
+[Client 114] Hello message: Hello, you are client #187. at 03:08:15 2016-08-19
+[Client 165] 835 - 886 = -51 at 03:08:15 2016-08-19
+[Client 165] Closing socket at 03:08:15 2016-08-19
+[Client 165] done at 03:08:15 2016-08-19
+[Client 271] ADD,464,222 at 03:08:15 2016-08-19
+[Client 271] Hello message: Hello, you are client #188. at 03:08:15 2016-08-19
+[Client 170] 462 + 827 = 1289 at 03:08:15 2016-08-19
+[Client 170] Closing socket at 03:08:15 2016-08-19
+[Client 170] done at 03:08:15 2016-08-19
+[Client 115] SUB,946,399 at 03:08:15 2016-08-19
+[Client 115] Hello message: Hello, you are client #189. at 03:08:15 2016-08-19
+[Client 286] SUB,232,917 at 03:08:15 2016-08-19
+[Client 286] Hello message: Hello, you are client #190. at 03:08:15 2016-08-19
+[Client 89] 155 / 310 = 0 at 03:08:15 2016-08-19
+[Client 89] Closing socket at 03:08:15 2016-08-19
+[Client 89] done at 03:08:15 2016-08-19
+[Client 355] ADD,392,607 at 03:08:15 2016-08-19
+[Client 217] DIV,8,681 at 03:08:15 2016-08-19
+[Client 217] Hello message: Hello, you are client #192. at 03:08:15 2016-08-19
+[Client 355] Hello message: Hello, you are client #191. at 03:08:15 2016-08-19
+[Client 128] ADD,827,924 at 03:08:15 2016-08-19
+[Client 128] Hello message: Hello, you are client #193. at 03:08:15 2016-08-19
+[Client 197] 349 + 807 = 1156 at 03:08:15 2016-08-19
+[Client 197] Closing socket at 03:08:15 2016-08-19
+[Client 197] done at 03:08:15 2016-08-19
+[Client 288] 204 + 878 = 1082 at 03:08:15 2016-08-19
+[Client 288] Closing socket at 03:08:15 2016-08-19
+[Client 288] done at 03:08:15 2016-08-19
+[Client 385] 701 + 553 = 1254 at 03:08:15 2016-08-19
+[Client 385] Closing socket at 03:08:15 2016-08-19
+[Client 385] done at 03:08:15 2016-08-19
+[Client 155] 478 - 222 = 256 at 03:08:15 2016-08-19
+[Client 155] Closing socket at 03:08:15 2016-08-19
+[Client 155] done at 03:08:15 2016-08-19
+[Client 245] DIV,274,808 at 03:08:15 2016-08-19
+[Client 245] Hello message: Hello, you are client #194. at 03:08:15 2016-08-19
+[Client 204] DIV,588,444 at 03:08:15 2016-08-19
+[Client 204] Hello message: Hello, you are client #195. at 03:08:15 2016-08-19
+[Client 232] SUB,606,436 at 03:08:15 2016-08-19
+[Client 231] 620 + 891 = 1511 at 03:08:15 2016-08-19
+[Client 231] Closing socket at 03:08:15 2016-08-19
+[Client 231] done at 03:08:15 2016-08-19
+[Client 232] Hello message: Hello, you are client #196. at 03:08:15 2016-08-19
+[Client 297] MUL,515,763 at 03:08:15 2016-08-19
+[Client 297] Hello message: Hello, you are client #197. at 03:08:15 2016-08-19
+[Client 235] 919 + 557 = 1476 at 03:08:15 2016-08-19
+[Client 235] Closing socket at 03:08:15 2016-08-19
+[Client 235] done at 03:08:15 2016-08-19
+[Client 77] DIV,936,523 at 03:08:15 2016-08-19
+[Client 36] 535 * 83 = 44405 at 03:08:15 2016-08-19
+[Client 36] Closing socket at 03:08:15 2016-08-19
+[Client 36] done at 03:08:15 2016-08-19
+[Client 77] Hello message: Hello, you are client #198. at 03:08:15 2016-08-19
+[Client 205] ADD,759,284 at 03:08:15 2016-08-19
+[Client 361] 506 - 378 = 128 at 03:08:15 2016-08-19
+[Client 361] Closing socket at 03:08:15 2016-08-19
+[Client 361] done at 03:08:15 2016-08-19
+[Client 72] 573 + 68 = 641 at 03:08:15 2016-08-19
+[Client 72] Closing socket at 03:08:15 2016-08-19
+[Client 72] done at 03:08:15 2016-08-19
+[Client 205] Hello message: Hello, you are client #199. at 03:08:15 2016-08-19
+[Client 46] 199 + 957 = 1156 at 03:08:15 2016-08-19
+[Client 46] Closing socket at 03:08:15 2016-08-19
+[Client 46] done at 03:08:15 2016-08-19
+[Client 22] 858 + 797 = 1655 at 03:08:15 2016-08-19
+[Client 22] Closing socket at 03:08:15 2016-08-19
+[Client 22] done at 03:08:15 2016-08-19
+[Client 114] 991 * 609 = 603519 at 03:08:15 2016-08-19
+[Client 114] Closing socket at 03:08:15 2016-08-19
+[Client 114] done at 03:08:15 2016-08-19
+[Client 271] 464 + 222 = 686 at 03:08:15 2016-08-19
+[Client 271] Closing socket at 03:08:15 2016-08-19
+[Client 271] done at 03:08:15 2016-08-19
+[Client 175] ADD,868,258 at 03:08:15 2016-08-19
+[Client 175] Hello message: Hello, you are client #200. at 03:08:15 2016-08-19
+[Client 115] 946 - 399 = 547 at 03:08:15 2016-08-19
+[Client 115] Closing socket at 03:08:15 2016-08-19
+[Client 115] done at 03:08:15 2016-08-19
+[Client 286] 232 - 917 = -685 at 03:08:15 2016-08-19
+[Client 286] Closing socket at 03:08:15 2016-08-19
+[Client 286] done at 03:08:15 2016-08-19
+[Client 80] DIV,648,52 at 03:08:15 2016-08-19
+[Client 80] Hello message: Hello, you are client #201. at 03:08:15 2016-08-19
+[Client 355] 392 + 607 = 999 at 03:08:15 2016-08-19
+[Client 355] Closing socket at 03:08:15 2016-08-19
+[Client 355] done at 03:08:15 2016-08-19
+[Client 202] DIV,727,490 at 03:08:15 2016-08-19
+[Client 202] Hello message: Hello, you are client #202. at 03:08:15 2016-08-19
+[Client 217] 8 / 681 = 0 at 03:08:15 2016-08-19
+[Client 217] Closing socket at 03:08:15 2016-08-19
+[Client 217] done at 03:08:15 2016-08-19
+[Client 167] SUB,435,804 at 03:08:15 2016-08-19
+[Client 163] DIV,654,933 at 03:08:15 2016-08-19
+[Client 167] Hello message: Hello, you are client #203. at 03:08:15 2016-08-19
+[Client 163] Hello message: Hello, you are client #204. at 03:08:15 2016-08-19
+[Client 128] 827 + 924 = 1751 at 03:08:15 2016-08-19
+[Client 128] Closing socket at 03:08:15 2016-08-19
+[Client 128] done at 03:08:15 2016-08-19
+[Client 149] SUB,930,97 at 03:08:15 2016-08-19
+[Client 149] Hello message: Hello, you are client #205. at 03:08:15 2016-08-19
+[Client 43] DIV,57,511 at 03:08:15 2016-08-19
+[Client 43] Hello message: Hello, you are client #206. at 03:08:15 2016-08-19
+[Client 173] DIV,156,23 at 03:08:15 2016-08-19
+[Client 173] Hello message: Hello, you are client #207. at 03:08:15 2016-08-19
+[Client 245] 274 / 808 = 0 at 03:08:15 2016-08-19
+[Client 245] Closing socket at 03:08:15 2016-08-19
+[Client 204] 588 / 444 = 1 at 03:08:15 2016-08-19
+[Client 204] Closing socket at 03:08:15 2016-08-19
+[Client 245] done at 03:08:15 2016-08-19
+[Client 204] done at 03:08:15 2016-08-19
+[Client 95] ADD,301,465 at 03:08:15 2016-08-19
+[Client 95] Hello message: Hello, you are client #208. at 03:08:15 2016-08-19
+[Client 232] 606 - 436 = 170 at 03:08:15 2016-08-19
+[Client 232] Closing socket at 03:08:15 2016-08-19
+[Client 232] done at 03:08:15 2016-08-19
+[Client 297] 515 * 763 = 392945 at 03:08:15 2016-08-19
+[Client 77] 936 / 523 = 1 at 03:08:15 2016-08-19
+[Client 297] Closing socket at 03:08:15 2016-08-19
+[Client 77] Closing socket at 03:08:15 2016-08-19
+[Client 297] done at 03:08:15 2016-08-19
+[Client 77] done at 03:08:15 2016-08-19
+[Client 205] 759 + 284 = 1043 at 03:08:15 2016-08-19
+[Client 205] Closing socket at 03:08:15 2016-08-19
+[Client 205] done at 03:08:15 2016-08-19
+[Client 113] MUL,682,132 at 03:08:15 2016-08-19
+[Client 113] Hello message: Hello, you are client #209. at 03:08:15 2016-08-19
+[Client 110] SUB,48,313 at 03:08:15 2016-08-19
+[Client 110] Hello message: Hello, you are client #210. at 03:08:15 2016-08-19
+[Client 305] ADD,581,284 at 03:08:15 2016-08-19
+[Client 305] Hello message: Hello, you are client #211. at 03:08:15 2016-08-19
+[Client 191] DIV,863,836 at 03:08:15 2016-08-19
+[Client 191] Hello message: Hello, you are client #212. at 03:08:15 2016-08-19
+[Client 80] 648 / 52 = 12 at 03:08:15 2016-08-19
+[Client 80] Closing socket at 03:08:15 2016-08-19
+[Client 80] done at 03:08:15 2016-08-19
+[Client 218] ADD,143,48 at 03:08:15 2016-08-19
+[Client 175] 868 + 258 = 1126 at 03:08:15 2016-08-19
+[Client 175] Closing socket at 03:08:15 2016-08-19
+[Client 175] done at 03:08:15 2016-08-19
+[Client 31] SUB,815,764 at 03:08:15 2016-08-19
+[Client 31] Hello message: Hello, you are client #214. at 03:08:15 2016-08-19
+[Client 218] Hello message: Hello, you are client #213. at 03:08:15 2016-08-19
+[Client 69] MUL,35,878 at 03:08:15 2016-08-19
+[Client 69] Hello message: Hello, you are client #215. at 03:08:15 2016-08-19
+[Client 202] 727 / 490 = 1 at 03:08:15 2016-08-19
+[Client 202] Closing socket at 03:08:15 2016-08-19
+[Client 202] done at 03:08:15 2016-08-19
+[Client 167] 435 - 804 = -369 at 03:08:15 2016-08-19
+[Client 51] SUB,755,41 at 03:08:15 2016-08-19
+[Client 167] Closing socket at 03:08:15 2016-08-19
+[Client 167] done at 03:08:15 2016-08-19
+[Client 169] MUL,707,807 at 03:08:15 2016-08-19
+[Client 51] Hello message: Hello, you are client #216. at 03:08:15 2016-08-19
+[Client 169] Hello message: Hello, you are client #217. at 03:08:15 2016-08-19
+[Client 149] 930 - 97 = 833 at 03:08:15 2016-08-19
+[Client 163] 654 / 933 = 0 at 03:08:15 2016-08-19
+[Client 149] Closing socket at 03:08:15 2016-08-19
+[Client 163] Closing socket at 03:08:15 2016-08-19
+[Client 149] done at 03:08:15 2016-08-19
+[Client 163] done at 03:08:15 2016-08-19
+[Client 367] DIV,847,567 at 03:08:15 2016-08-19
+[Client 387] SUB,268,638 at 03:08:15 2016-08-19
+[Client 134] MUL,338,531 at 03:08:15 2016-08-19
+[Client 387] Hello message: Hello, you are client #219. at 03:08:15 2016-08-19
+[Client 134] Hello message: Hello, you are client #220. at 03:08:15 2016-08-19
+[Client 367] Hello message: Hello, you are client #218. at 03:08:15 2016-08-19
+[Client 43] 57 / 511 = 0 at 03:08:15 2016-08-19
+[Client 43] Closing socket at 03:08:15 2016-08-19
+[Client 43] done at 03:08:15 2016-08-19
+[Client 352] SUB,399,942 at 03:08:15 2016-08-19
+[Client 352] Hello message: Hello, you are client #221. at 03:08:15 2016-08-19
+[Client 173] 156 / 23 = 6 at 03:08:15 2016-08-19
+[Client 173] Closing socket at 03:08:15 2016-08-19
+[Client 173] done at 03:08:15 2016-08-19
+[Client 95] 301 + 465 = 766 at 03:08:15 2016-08-19
+[Client 95] Closing socket at 03:08:15 2016-08-19
+[Client 186] MUL,999,433 at 03:08:15 2016-08-19
+[Client 95] done at 03:08:15 2016-08-19
+[Client 186] Hello message: Hello, you are client #222. at 03:08:15 2016-08-19
+[Client 208] SUB,854,925 at 03:08:15 2016-08-19
+[Client 50] ADD,402,489 at 03:08:15 2016-08-19
+[Client 195] ADD,158,487 at 03:08:15 2016-08-19
+[Client 208] Hello message: Hello, you are client #223. at 03:08:15 2016-08-19
+[Client 195] Hello message: Hello, you are client #224. at 03:08:15 2016-08-19
+[Client 50] Hello message: Hello, you are client #225. at 03:08:15 2016-08-19
+[Client 113] 682 * 132 = 90024 at 03:08:15 2016-08-19
+[Client 113] Closing socket at 03:08:15 2016-08-19
+[Client 113] done at 03:08:15 2016-08-19
+[Client 110] 48 - 313 = -265 at 03:08:15 2016-08-19
+[Client 110] Closing socket at 03:08:15 2016-08-19
+[Client 110] done at 03:08:15 2016-08-19
+[Client 257] MUL,148,45 at 03:08:15 2016-08-19
+[Client 257] Hello message: Hello, you are client #226. at 03:08:15 2016-08-19
+[Client 305] 581 + 284 = 865 at 03:08:15 2016-08-19
+[Client 305] Closing socket at 03:08:15 2016-08-19
+[Client 305] done at 03:08:15 2016-08-19
+[Client 310] SUB,236,767 at 03:08:15 2016-08-19
+[Client 310] Hello message: Hello, you are client #227. at 03:08:15 2016-08-19
+[Client 191] 863 / 836 = 1 at 03:08:15 2016-08-19
+[Client 191] Closing socket at 03:08:15 2016-08-19
+[Client 191] done at 03:08:15 2016-08-19
+[Client 218] 143 + 48 = 191 at 03:08:15 2016-08-19
+[Client 218] Closing socket at 03:08:15 2016-08-19
+[Client 212] SUB,450,296 at 03:08:15 2016-08-19
+[Client 31] 815 - 764 = 51 at 03:08:15 2016-08-19
+[Client 218] done at 03:08:15 2016-08-19
+[Client 31] Closing socket at 03:08:15 2016-08-19
+[Client 31] done at 03:08:15 2016-08-19
+[Client 212] Hello message: Hello, you are client #228. at 03:08:15 2016-08-19
+[Client 53] MUL,753,366 at 03:08:15 2016-08-19
+[Client 53] Hello message: Hello, you are client #229. at 03:08:15 2016-08-19
+[Client 69] 35 * 878 = 30730 at 03:08:15 2016-08-19
+[Client 69] Closing socket at 03:08:15 2016-08-19
+[Client 69] done at 03:08:15 2016-08-19
+[Client 354] DIV,234,726 at 03:08:15 2016-08-19
+[Client 354] Hello message: Hello, you are client #230. at 03:08:15 2016-08-19
+[Client 63] DIV,520,110 at 03:08:15 2016-08-19
+[Client 63] Hello message: Hello, you are client #231. at 03:08:15 2016-08-19
+[Client 51] 755 - 41 = 714 at 03:08:15 2016-08-19
+[Client 51] Closing socket at 03:08:15 2016-08-19
+[Client 51] done at 03:08:15 2016-08-19
+[Client 98] MUL,542,238 at 03:08:15 2016-08-19
+[Client 98] Hello message: Hello, you are client #232. at 03:08:15 2016-08-19
+[Client 127] ADD,870,402 at 03:08:15 2016-08-19
+[Client 127] Hello message: Hello, you are client #233. at 03:08:15 2016-08-19
+[Client 169] 707 * 807 = 570549 at 03:08:15 2016-08-19
+[Client 169] Closing socket at 03:08:15 2016-08-19
+[Client 169] done at 03:08:15 2016-08-19
+[Client 387] 268 - 638 = -370 at 03:08:15 2016-08-19
+[Client 387] Closing socket at 03:08:15 2016-08-19
+[Client 387] done at 03:08:15 2016-08-19
+[Client 367] 847 / 567 = 1 at 03:08:15 2016-08-19
+[Client 367] Closing socket at 03:08:15 2016-08-19
+[Client 367] done at 03:08:15 2016-08-19
+[Client 134] 338 * 531 = 179478 at 03:08:15 2016-08-19
+[Client 134] Closing socket at 03:08:15 2016-08-19
+[Client 134] done at 03:08:15 2016-08-19
+[Client 352] 399 - 942 = -543 at 03:08:16 2016-08-19
+[Client 352] Closing socket at 03:08:16 2016-08-19
+[Client 352] done at 03:08:16 2016-08-19
+[Client 186] 999 * 433 = 432567 at 03:08:16 2016-08-19
+[Client 186] Closing socket at 03:08:16 2016-08-19
+[Client 186] done at 03:08:16 2016-08-19
+[Client 208] 854 - 925 = -71 at 03:08:16 2016-08-19
+[Client 208] Closing socket at 03:08:16 2016-08-19
+[Client 208] done at 03:08:16 2016-08-19
+[Client 50] 402 + 489 = 891 at 03:08:16 2016-08-19
+[Client 50] Closing socket at 03:08:16 2016-08-19
+[Client 50] done at 03:08:16 2016-08-19
+[Client 195] 158 + 487 = 645 at 03:08:16 2016-08-19
+[Client 195] Closing socket at 03:08:16 2016-08-19
+[Client 195] done at 03:08:16 2016-08-19
+[Client 94] DIV,619,116 at 03:08:16 2016-08-19
+[Client 257] 148 * 45 = 6660 at 03:08:16 2016-08-19
+[Client 257] Closing socket at 03:08:16 2016-08-19
+[Client 94] Hello message: Hello, you are client #234. at 03:08:16 2016-08-19
+[Client 257] done at 03:08:16 2016-08-19
+[Client 310] 236 - 767 = -531 at 03:08:16 2016-08-19
+[Client 310] Closing socket at 03:08:16 2016-08-19
+[Client 222] MUL,531,254 at 03:08:16 2016-08-19
+[Client 310] done at 03:08:16 2016-08-19
+[Client 222] Hello message: Hello, you are client #235. at 03:08:16 2016-08-19
+[Client 185] SUB,320,595 at 03:08:16 2016-08-19
+[Client 185] Hello message: Hello, you are client #236. at 03:08:16 2016-08-19
+[Client 13] MUL,469,290 at 03:08:16 2016-08-19
+[Client 13] Hello message: Hello, you are client #237. at 03:08:16 2016-08-19
+[Client 212] 450 - 296 = 154 at 03:08:16 2016-08-19
+[Client 212] Closing socket at 03:08:16 2016-08-19
+[Client 212] done at 03:08:16 2016-08-19
+[Client 3] SUB,785,533 at 03:08:16 2016-08-19
+[Client 35] DIV,440,886 at 03:08:16 2016-08-19
+[Client 3] Hello message: Hello, you are client #238. at 03:08:16 2016-08-19
+[Client 35] Hello message: Hello, you are client #239. at 03:08:16 2016-08-19
+[Client 53] 753 * 366 = 275598 at 03:08:16 2016-08-19
+[Client 53] Closing socket at 03:08:16 2016-08-19
+[Client 53] done at 03:08:16 2016-08-19
+[Client 354] 234 / 726 = 0 at 03:08:16 2016-08-19
+[Client 354] Closing socket at 03:08:16 2016-08-19
+[Client 354] done at 03:08:16 2016-08-19
+[Client 63] 520 / 110 = 4 at 03:08:16 2016-08-19
+[Client 63] Closing socket at 03:08:16 2016-08-19
+[Client 63] done at 03:08:16 2016-08-19
+[Client 347] MUL,352,235 at 03:08:16 2016-08-19
+[Client 347] Hello message: Hello, you are client #240. at 03:08:16 2016-08-19
+[Client 78] MUL,52,111 at 03:08:16 2016-08-19
+[Client 78] Hello message: Hello, you are client #241. at 03:08:16 2016-08-19
+[Client 98] 542 * 238 = 128996 at 03:08:16 2016-08-19
+[Client 98] Closing socket at 03:08:16 2016-08-19
+[Client 98] done at 03:08:16 2016-08-19
+[Client 328] DIV,98,200 at 03:08:16 2016-08-19
+[Client 328] Hello message: Hello, you are client #242. at 03:08:16 2016-08-19
+[Client 127] 870 + 402 = 1272 at 03:08:16 2016-08-19
+[Client 127] Closing socket at 03:08:16 2016-08-19
+[Client 127] done at 03:08:16 2016-08-19
+[Client 94] 619 / 116 = 5 at 03:08:16 2016-08-19
+[Client 94] Closing socket at 03:08:16 2016-08-19
+[Client 94] done at 03:08:16 2016-08-19
+[Client 222] 531 * 254 = 134874 at 03:08:16 2016-08-19
+[Client 222] Closing socket at 03:08:16 2016-08-19
+[Client 222] done at 03:08:16 2016-08-19
+[Client 185] 320 - 595 = -275 at 03:08:16 2016-08-19
+[Client 185] Closing socket at 03:08:16 2016-08-19
+[Client 185] done at 03:08:16 2016-08-19
+[Client 13] 469 * 290 = 136010 at 03:08:16 2016-08-19
+[Client 13] Closing socket at 03:08:16 2016-08-19
+[Client 13] done at 03:08:16 2016-08-19
+[Client 3] 785 - 533 = 252 at 03:08:16 2016-08-19
+[Client 3] Closing socket at 03:08:16 2016-08-19
+[Client 3] done at 03:08:16 2016-08-19
+[Client 184] DIV,402,411 at 03:08:16 2016-08-19
+[Client 184] Hello message: Hello, you are client #243. at 03:08:16 2016-08-19
+[Client 35] 440 / 886 = 0 at 03:08:16 2016-08-19
+[Client 35] Closing socket at 03:08:16 2016-08-19
+[Client 35] done at 03:08:16 2016-08-19
+[Client 347] 352 * 235 = 82720 at 03:08:16 2016-08-19
+[Client 228] ADD,345,942 at 03:08:16 2016-08-19
+[Client 347] Closing socket at 03:08:16 2016-08-19
+[Client 347] done at 03:08:16 2016-08-19
+[Client 228] Hello message: Hello, you are client #244. at 03:08:16 2016-08-19
+[Client 198] ADD,378,393 at 03:08:16 2016-08-19
+[Client 78] 52 * 111 = 5772 at 03:08:16 2016-08-19
+[Client 78] Closing socket at 03:08:16 2016-08-19
+[Client 78] done at 03:08:16 2016-08-19
+[Client 198] Hello message: Hello, you are client #245. at 03:08:16 2016-08-19
+[Client 298] DIV,226,610 at 03:08:16 2016-08-19
+[Client 298] Hello message: Hello, you are client #246. at 03:08:16 2016-08-19
+[Client 184] 402 / 411 = 0 at 03:08:16 2016-08-19
+[Client 184] Closing socket at 03:08:16 2016-08-19
+[Client 184] done at 03:08:16 2016-08-19
+[Client 328] 98 / 200 = 0 at 03:08:16 2016-08-19
+[Client 328] Closing socket at 03:08:16 2016-08-19
+[Client 328] done at 03:08:16 2016-08-19
+[Client 162] MUL,892,157 at 03:08:16 2016-08-19
+[Client 162] Hello message: Hello, you are client #247. at 03:08:16 2016-08-19
+[Client 275] SUB,975,392 at 03:08:16 2016-08-19
+[Client 315] MUL,385,655 at 03:08:16 2016-08-19
+[Client 275] Hello message: Hello, you are client #248. at 03:08:16 2016-08-19
+[Client 315] Hello message: Hello, you are client #249. at 03:08:16 2016-08-19
+[Client 76] MUL,569,652 at 03:08:16 2016-08-19
+[Client 76] Hello message: Hello, you are client #250. at 03:08:16 2016-08-19
+[Client 228] 345 + 942 = 1287 at 03:08:16 2016-08-19
+[Client 228] Closing socket at 03:08:16 2016-08-19
+[Client 228] done at 03:08:16 2016-08-19
+[Client 198] 378 + 393 = 771 at 03:08:16 2016-08-19
+[Client 198] Closing socket at 03:08:16 2016-08-19
+[Client 198] done at 03:08:16 2016-08-19
+[Client 298] 226 / 610 = 0 at 03:08:16 2016-08-19
+[Client 298] Closing socket at 03:08:16 2016-08-19
+[Client 298] done at 03:08:16 2016-08-19
+[Client 131] ADD,69,675 at 03:08:16 2016-08-19
+[Client 131] Hello message: Hello, you are client #251. at 03:08:16 2016-08-19
+[Client 219] ADD,589,373 at 03:08:16 2016-08-19
+[Client 243] ADD,988,344 at 03:08:16 2016-08-19
+[Client 219] Hello message: Hello, you are client #252. at 03:08:16 2016-08-19
+[Client 243] Hello message: Hello, you are client #253. at 03:08:16 2016-08-19
+[Client 162] 892 * 157 = 140044 at 03:08:16 2016-08-19
+[Client 162] Closing socket at 03:08:16 2016-08-19
+[Client 162] done at 03:08:16 2016-08-19
+[Client 220] SUB,549,220 at 03:08:16 2016-08-19
+[Client 275] 975 - 392 = 583 at 03:08:16 2016-08-19
+[Client 275] Closing socket at 03:08:16 2016-08-19
+[Client 275] done at 03:08:16 2016-08-19
+[Client 220] Hello message: Hello, you are client #254. at 03:08:16 2016-08-19
+[Client 315] 385 * 655 = 252175 at 03:08:16 2016-08-19
+[Client 76] 569 * 652 = 370988 at 03:08:16 2016-08-19
+[Client 315] Closing socket at 03:08:16 2016-08-19
+[Client 76] Closing socket at 03:08:16 2016-08-19
+[Client 315] done at 03:08:16 2016-08-19
+[Client 76] done at 03:08:16 2016-08-19
+[Client 293] MUL,873,515 at 03:08:16 2016-08-19
+[Client 293] Hello message: Hello, you are client #255. at 03:08:16 2016-08-19
+[Client 131] 69 + 675 = 744 at 03:08:16 2016-08-19
+[Client 131] Closing socket at 03:08:16 2016-08-19
+[Client 131] done at 03:08:16 2016-08-19
+[Client 219] 589 + 373 = 962 at 03:08:16 2016-08-19
+[Client 219] Closing socket at 03:08:16 2016-08-19
+[Client 219] done at 03:08:16 2016-08-19
+[Client 243] 988 + 344 = 1332 at 03:08:16 2016-08-19
+[Client 243] Closing socket at 03:08:16 2016-08-19
+[Client 243] done at 03:08:16 2016-08-19
+[Client 220] 549 - 220 = 329 at 03:08:16 2016-08-19
+[Client 220] Closing socket at 03:08:16 2016-08-19
+[Client 220] done at 03:08:16 2016-08-19
+[Client 234] MUL,306,472 at 03:08:16 2016-08-19
+[Client 109] SUB,539,625 at 03:08:16 2016-08-19
+[Client 234] Hello message: Hello, you are client #256. at 03:08:16 2016-08-19
+[Client 109] Hello message: Hello, you are client #257. at 03:08:16 2016-08-19
+[Client 293] 873 * 515 = 449595 at 03:08:16 2016-08-19
+[Client 293] Closing socket at 03:08:16 2016-08-19
+[Client 293] done at 03:08:16 2016-08-19
+[Client 109] 539 - 625 = -86 at 03:08:16 2016-08-19
+[Client 109] Closing socket at 03:08:16 2016-08-19
+[Client 109] done at 03:08:16 2016-08-19
+[Client 359] DIV,145,353 at 03:08:16 2016-08-19
+[Client 61] DIV,32,304 at 03:08:16 2016-08-19
+[Client 61] Hello message: Hello, you are client #259. at 03:08:16 2016-08-19
+[Client 359] Hello message: Hello, you are client #258. at 03:08:16 2016-08-19
+[Client 234] 306 * 472 = 144432 at 03:08:16 2016-08-19
+[Client 234] Closing socket at 03:08:16 2016-08-19
+[Client 234] done at 03:08:16 2016-08-19
+[Client 59] DIV,283,532 at 03:08:16 2016-08-19
+[Client 147] SUB,950,421 at 03:08:16 2016-08-19
+[Client 147] Hello message: Hello, you are client #260. at 03:08:16 2016-08-19
+[Client 59] Hello message: Hello, you are client #261. at 03:08:16 2016-08-19
+[Client 61] 32 / 304 = 0 at 03:08:16 2016-08-19
+[Client 61] Closing socket at 03:08:16 2016-08-19
+[Client 61] done at 03:08:16 2016-08-19
+[Client 302] DIV,304,347 at 03:08:16 2016-08-19
+[Client 64] MUL,456,922 at 03:08:16 2016-08-19
+[Client 302] Hello message: Hello, you are client #262. at 03:08:16 2016-08-19
+[Client 64] Hello message: Hello, you are client #263. at 03:08:16 2016-08-19
+[Client 359] 145 / 353 = 0 at 03:08:16 2016-08-19
+[Client 359] Closing socket at 03:08:16 2016-08-19
+[Client 359] done at 03:08:16 2016-08-19
+[Client 280] SUB,393,987 at 03:08:16 2016-08-19
+[Client 280] Hello message: Hello, you are client #264. at 03:08:16 2016-08-19
+[Client 192] ADD,437,954 at 03:08:16 2016-08-19
+[Client 192] Hello message: Hello, you are client #265. at 03:08:16 2016-08-19
+[Client 147] 950 - 421 = 529 at 03:08:16 2016-08-19
+[Client 147] Closing socket at 03:08:16 2016-08-19
+[Client 147] done at 03:08:16 2016-08-19
+[Client 262] DIV,967,727 at 03:08:16 2016-08-19
+[Client 262] Hello message: Hello, you are client #266. at 03:08:16 2016-08-19
+[Client 59] 283 / 532 = 0 at 03:08:16 2016-08-19
+[Client 59] Closing socket at 03:08:16 2016-08-19
+[Client 59] done at 03:08:16 2016-08-19
+[Client 133] MUL,971,764 at 03:08:16 2016-08-19
+[Client 133] Hello message: Hello, you are client #267. at 03:08:16 2016-08-19
+[Client 161] MUL,396,444 at 03:08:16 2016-08-19
+[Client 161] Hello message: Hello, you are client #268. at 03:08:16 2016-08-19
+[Client 302] 304 / 347 = 0 at 03:08:16 2016-08-19
+[Client 302] Closing socket at 03:08:16 2016-08-19
+[Client 302] done at 03:08:16 2016-08-19
+[Client 325] MUL,546,949 at 03:08:16 2016-08-19
+[Client 152] ADD,571,321 at 03:08:16 2016-08-19
+[Client 325] Hello message: Hello, you are client #269. at 03:08:16 2016-08-19
+[Client 152] Hello message: Hello, you are client #270. at 03:08:16 2016-08-19
+[Client 64] 456 * 922 = 420432 at 03:08:16 2016-08-19
+[Client 64] Closing socket at 03:08:16 2016-08-19
+[Client 64] done at 03:08:16 2016-08-19
+[Client 192] 437 + 954 = 1391 at 03:08:16 2016-08-19
+[Client 192] Closing socket at 03:08:16 2016-08-19
+[Client 192] done at 03:08:16 2016-08-19
+[Client 4] SUB,215,357 at 03:08:16 2016-08-19
+[Client 280] 393 - 987 = -594 at 03:08:16 2016-08-19
+[Client 280] Closing socket at 03:08:16 2016-08-19
+[Client 280] done at 03:08:16 2016-08-19
+[Client 4] Hello message: Hello, you are client #271. at 03:08:16 2016-08-19
+[Client 262] 967 / 727 = 1 at 03:08:16 2016-08-19
+[Client 262] Closing socket at 03:08:16 2016-08-19
+[Client 262] done at 03:08:16 2016-08-19
+[Client 133] 971 * 764 = 741844 at 03:08:16 2016-08-19
+[Client 133] Closing socket at 03:08:16 2016-08-19
+[Client 133] done at 03:08:16 2016-08-19
+[Client 172] SUB,457,626 at 03:08:16 2016-08-19
+[Client 172] Hello message: Hello, you are client #272. at 03:08:16 2016-08-19
+[Client 148] MUL,391,876 at 03:08:16 2016-08-19
+[Client 148] Hello message: Hello, you are client #273. at 03:08:16 2016-08-19
+[Client 161] 396 * 444 = 175824 at 03:08:16 2016-08-19
+[Client 161] Closing socket at 03:08:16 2016-08-19
+[Client 161] done at 03:08:16 2016-08-19
+[Client 87] MUL,29,194 at 03:08:16 2016-08-19
+[Client 379] DIV,360,215 at 03:08:16 2016-08-19
+[Client 325] 546 * 949 = 518154 at 03:08:16 2016-08-19
+[Client 325] Closing socket at 03:08:16 2016-08-19
+[Client 379] Hello message: Hello, you are client #275. at 03:08:16 2016-08-19
+[Client 87] Hello message: Hello, you are client #274. at 03:08:16 2016-08-19
+[Client 325] done at 03:08:16 2016-08-19
+[Client 152] 571 + 321 = 892 at 03:08:16 2016-08-19
+[Client 152] Closing socket at 03:08:16 2016-08-19
+[Client 152] done at 03:08:16 2016-08-19
+[Client 23] MUL,95,510 at 03:08:16 2016-08-19
+[Client 23] Hello message: Hello, you are client #276. at 03:08:16 2016-08-19
+[Client 4] 215 - 357 = -142 at 03:08:16 2016-08-19
+[Client 4] Closing socket at 03:08:16 2016-08-19
+[Client 4] done at 03:08:16 2016-08-19
+[Client 172] 457 - 626 = -169 at 03:08:16 2016-08-19
+[Client 148] 391 * 876 = 342516 at 03:08:16 2016-08-19
+[Client 172] Closing socket at 03:08:16 2016-08-19
+[Client 148] Closing socket at 03:08:16 2016-08-19
+[Client 172] done at 03:08:16 2016-08-19
+[Client 148] done at 03:08:16 2016-08-19
+[Client 87] 29 * 194 = 5626 at 03:08:16 2016-08-19
+[Client 87] Closing socket at 03:08:16 2016-08-19
+[Client 87] done at 03:08:16 2016-08-19
+[Client 278] DIV,952,739 at 03:08:16 2016-08-19
+[Client 379] 360 / 215 = 1 at 03:08:16 2016-08-19
+[Client 379] Closing socket at 03:08:16 2016-08-19
+[Client 379] done at 03:08:16 2016-08-19
+[Client 278] Hello message: Hello, you are client #277. at 03:08:16 2016-08-19
+[Client 373] SUB,996,530 at 03:08:16 2016-08-19
+[Client 373] Hello message: Hello, you are client #278. at 03:08:16 2016-08-19
+[Client 229] SUB,395,308 at 03:08:16 2016-08-19
+[Client 229] Hello message: Hello, you are client #279. at 03:08:16 2016-08-19
+[Client 331] DIV,111,918 at 03:08:16 2016-08-19
+[Client 331] Hello message: Hello, you are client #280. at 03:08:16 2016-08-19
+[Client 23] 95 * 510 = 48450 at 03:08:16 2016-08-19
+[Client 23] Closing socket at 03:08:16 2016-08-19
+[Client 23] done at 03:08:16 2016-08-19
+[Client 278] 952 / 739 = 1 at 03:08:16 2016-08-19
+[Client 278] Closing socket at 03:08:16 2016-08-19
+[Client 278] done at 03:08:16 2016-08-19
+[Client 373] 996 - 530 = 466 at 03:08:16 2016-08-19
+[Client 373] Closing socket at 03:08:16 2016-08-19
+[Client 373] done at 03:08:16 2016-08-19
+[Client 229] 395 - 308 = 87 at 03:08:16 2016-08-19
+[Client 229] Closing socket at 03:08:16 2016-08-19
+[Client 229] done at 03:08:16 2016-08-19
+[Client 360] MUL,713,422 at 03:08:16 2016-08-19
+[Client 360] Hello message: Hello, you are client #281. at 03:08:16 2016-08-19
+[Client 331] 111 / 918 = 0 at 03:08:16 2016-08-19
+[Client 331] Closing socket at 03:08:16 2016-08-19
+[Client 331] done at 03:08:16 2016-08-19
+[Client 136] MUL,548,895 at 03:08:16 2016-08-19
+[Client 136] Hello message: Hello, you are client #282. at 03:08:16 2016-08-19
+[Client 48] SUB,859,586 at 03:08:16 2016-08-19
+[Client 253] MUL,669,119 at 03:08:16 2016-08-19
+[Client 48] Hello message: Hello, you are client #283. at 03:08:16 2016-08-19
+[Client 253] Hello message: Hello, you are client #284. at 03:08:16 2016-08-19
+[Client 360] 713 * 422 = 300886 at 03:08:16 2016-08-19
+[Client 360] Closing socket at 03:08:16 2016-08-19
+[Client 360] done at 03:08:16 2016-08-19
+[Client 334] ADD,758,451 at 03:08:16 2016-08-19
+[Client 334] Hello message: Hello, you are client #285. at 03:08:16 2016-08-19
+[Client 91] SUB,584,852 at 03:08:16 2016-08-19
+[Client 136] 548 * 895 = 490460 at 03:08:16 2016-08-19
+[Client 136] Closing socket at 03:08:16 2016-08-19
+[Client 91] Hello message: Hello, you are client #286. at 03:08:16 2016-08-19
+[Client 136] done at 03:08:16 2016-08-19
+[Client 48] 859 - 586 = 273 at 03:08:16 2016-08-19
+[Client 48] Closing socket at 03:08:16 2016-08-19
+[Client 48] done at 03:08:16 2016-08-19
+[Client 71] SUB,913,933 at 03:08:16 2016-08-19
+[Client 71] Hello message: Hello, you are client #287. at 03:08:16 2016-08-19
+[Client 253] 669 * 119 = 79611 at 03:08:16 2016-08-19
+[Client 253] Closing socket at 03:08:16 2016-08-19
+[Client 253] done at 03:08:16 2016-08-19
+[Client 120] ADD,342,477 at 03:08:16 2016-08-19
+[Client 120] Hello message: Hello, you are client #288. at 03:08:16 2016-08-19
+[Client 91] 584 - 852 = -268 at 03:08:16 2016-08-19
+[Client 91] Closing socket at 03:08:16 2016-08-19
+[Client 91] done at 03:08:16 2016-08-19
+[Client 209] ADD,873,473 at 03:08:16 2016-08-19
+[Client 334] 758 + 451 = 1209 at 03:08:16 2016-08-19
+[Client 334] Closing socket at 03:08:16 2016-08-19
+[Client 334] done at 03:08:16 2016-08-19
+[Client 52] DIV,727,646 at 03:08:16 2016-08-19
+[Client 209] Hello message: Hello, you are client #289. at 03:08:16 2016-08-19
+[Client 52] Hello message: Hello, you are client #290. at 03:08:16 2016-08-19
+[Client 137] MUL,86,301 at 03:08:16 2016-08-19
+[Client 137] Hello message: Hello, you are client #291. at 03:08:16 2016-08-19
+[Client 327] ADD,271,27 at 03:08:16 2016-08-19
+[Client 327] Hello message: Hello, you are client #292. at 03:08:16 2016-08-19
+[Client 106] ADD,822,233 at 03:08:16 2016-08-19
+[Client 106] Hello message: Hello, you are client #293. at 03:08:16 2016-08-19
+[Client 71] 913 - 933 = -20 at 03:08:16 2016-08-19
+[Client 71] Closing socket at 03:08:16 2016-08-19
+[Client 71] done at 03:08:16 2016-08-19
+[Client 108] SUB,863,416 at 03:08:16 2016-08-19
+[Client 108] Hello message: Hello, you are client #294. at 03:08:16 2016-08-19
+[Client 120] 342 + 477 = 819 at 03:08:16 2016-08-19
+[Client 120] Closing socket at 03:08:16 2016-08-19
+[Client 120] done at 03:08:16 2016-08-19
+[Client 371] MUL,703,611 at 03:08:16 2016-08-19
+[Client 371] Hello message: Hello, you are client #295. at 03:08:16 2016-08-19
+[Client 209] 873 + 473 = 1346 at 03:08:16 2016-08-19
+[Client 209] Closing socket at 03:08:16 2016-08-19
+[Client 209] done at 03:08:16 2016-08-19
+[Client 357] MUL,436,230 at 03:08:16 2016-08-19
+[Client 357] Hello message: Hello, you are client #296. at 03:08:16 2016-08-19
+[Client 52] 727 / 646 = 1 at 03:08:16 2016-08-19
+[Client 52] Closing socket at 03:08:16 2016-08-19
+[Client 52] done at 03:08:16 2016-08-19
+[Client 15] ADD,252,136 at 03:08:16 2016-08-19
+[Client 15] Hello message: Hello, you are client #297. at 03:08:16 2016-08-19
+[Client 342] ADD,385,199 at 03:08:16 2016-08-19
+[Client 342] Hello message: Hello, you are client #298. at 03:08:16 2016-08-19
+[Client 137] 86 * 301 = 25886 at 03:08:16 2016-08-19
+[Client 137] Closing socket at 03:08:16 2016-08-19
+[Client 137] done at 03:08:16 2016-08-19
+[Client 332] SUB,112,597 at 03:08:16 2016-08-19
+[Client 40] MUL,150,595 at 03:08:16 2016-08-19
+[Client 332] Hello message: Hello, you are client #299. at 03:08:16 2016-08-19
+[Client 40] Hello message: Hello, you are client #300. at 03:08:16 2016-08-19
+[Client 156] MUL,850,718 at 03:08:16 2016-08-19
+[Client 156] Hello message: Hello, you are client #301. at 03:08:16 2016-08-19
+[Client 318] MUL,157,511 at 03:08:16 2016-08-19
+[Client 318] Hello message: Hello, you are client #302. at 03:08:16 2016-08-19
+[Client 55] MUL,96,290 at 03:08:16 2016-08-19
+[Client 55] Hello message: Hello, you are client #303. at 03:08:16 2016-08-19
+[Client 8] SUB,605,32 at 03:08:16 2016-08-19
+[Client 8] Hello message: Hello, you are client #304. at 03:08:16 2016-08-19
+[Client 62] ADD,533,6 at 03:08:16 2016-08-19
+[Client 62] Hello message: Hello, you are client #305. at 03:08:16 2016-08-19
+[Client 242] SUB,105,269 at 03:08:16 2016-08-19
+[Client 242] Hello message: Hello, you are client #306. at 03:08:16 2016-08-19
+[Client 142] ADD,938,18 at 03:08:16 2016-08-19
+[Client 142] Hello message: Hello, you are client #307. at 03:08:16 2016-08-19
+[Client 327] 271 + 27 = 298 at 03:08:16 2016-08-19
+[Client 327] Closing socket at 03:08:16 2016-08-19
+[Client 327] done at 03:08:16 2016-08-19
+[Client 106] 822 + 233 = 1055 at 03:08:16 2016-08-19
+[Client 106] Closing socket at 03:08:16 2016-08-19
+[Client 106] done at 03:08:16 2016-08-19
+[Client 108] 863 - 416 = 447 at 03:08:16 2016-08-19
+[Client 108] Closing socket at 03:08:16 2016-08-19
+[Client 108] done at 03:08:16 2016-08-19
+[Client 226] DIV,925,264 at 03:08:16 2016-08-19
+[Client 226] Hello message: Hello, you are client #308. at 03:08:16 2016-08-19
+[Client 371] 703 * 611 = 429533 at 03:08:16 2016-08-19
+[Client 371] Closing socket at 03:08:16 2016-08-19
+[Client 371] done at 03:08:16 2016-08-19
+[Client 375] SUB,137,402 at 03:08:16 2016-08-19
+[Client 238] ADD,625,311 at 03:08:16 2016-08-19
+[Client 238] Hello message: Hello, you are client #309. at 03:08:16 2016-08-19
+[Client 375] Hello message: Hello, you are client #310. at 03:08:16 2016-08-19
+[Client 350] ADD,165,311 at 03:08:16 2016-08-19
+[Client 350] Hello message: Hello, you are client #311. at 03:08:16 2016-08-19
+[Client 338] ADD,421,815 at 03:08:16 2016-08-19
+[Client 338] Hello message: Hello, you are client #312. at 03:08:16 2016-08-19
+[Client 356] MUL,788,994 at 03:08:16 2016-08-19
+[Client 356] Hello message: Hello, you are client #313. at 03:08:16 2016-08-19
+[Client 104] DIV,88,502 at 03:08:17 2016-08-19
+[Client 252] MUL,641,378 at 03:08:17 2016-08-19
+[Client 104] Hello message: Hello, you are client #314. at 03:08:17 2016-08-19
+[Client 252] Hello message: Hello, you are client #315. at 03:08:17 2016-08-19
+[Client 284] ADD,277,626 at 03:08:17 2016-08-19
+[Client 117] DIV,642,710 at 03:08:17 2016-08-19
+[Client 117] Hello message: Hello, you are client #316. at 03:08:17 2016-08-19
+[Client 284] Hello message: Hello, you are client #317. at 03:08:17 2016-08-19
+[Client 357] 436 * 230 = 100280 at 03:08:17 2016-08-19
+[Client 357] Closing socket at 03:08:17 2016-08-19
+[Client 357] done at 03:08:17 2016-08-19
+[Client 15] 252 + 136 = 388 at 03:08:17 2016-08-19
+[Client 15] Closing socket at 03:08:17 2016-08-19
+[Client 15] done at 03:08:17 2016-08-19
+[Client 230] ADD,308,340 at 03:08:17 2016-08-19
+[Client 230] Hello message: Hello, you are client #318. at 03:08:17 2016-08-19
+[Client 342] 385 + 199 = 584 at 03:08:17 2016-08-19
+[Client 342] Closing socket at 03:08:17 2016-08-19
+[Client 342] done at 03:08:17 2016-08-19
+[Client 317] ADD,850,643 at 03:08:17 2016-08-19
+[Client 317] Hello message: Hello, you are client #319. at 03:08:17 2016-08-19
+[Client 193] ADD,550,64 at 03:08:17 2016-08-19
+[Client 193] Hello message: Hello, you are client #320. at 03:08:17 2016-08-19
+[Client 223] SUB,135,901 at 03:08:17 2016-08-19
+[Client 223] Hello message: Hello, you are client #321. at 03:08:17 2016-08-19
+[Client 332] 112 - 597 = -485 at 03:08:17 2016-08-19
+[Client 332] Closing socket at 03:08:17 2016-08-19
+[Client 332] done at 03:08:17 2016-08-19
+[Client 88] ADD,286,889 at 03:08:17 2016-08-19
+[Client 88] Hello message: Hello, you are client #322. at 03:08:17 2016-08-19
+[Client 265] MUL,928,263 at 03:08:17 2016-08-19
+[Client 265] Hello message: Hello, you are client #323. at 03:08:17 2016-08-19
+[Client 33] MUL,132,138 at 03:08:17 2016-08-19
+[Client 33] Hello message: Hello, you are client #324. at 03:08:17 2016-08-19
+[Client 40] 150 * 595 = 89250 at 03:08:17 2016-08-19
+[Client 40] Closing socket at 03:08:17 2016-08-19
+[Client 40] done at 03:08:17 2016-08-19
+[Client 183] MUL,643,850 at 03:08:17 2016-08-19
+[Client 183] Hello message: Hello, you are client #325. at 03:08:17 2016-08-19
+[Client 206] DIV,347,424 at 03:08:17 2016-08-19
+[Client 206] Hello message: Hello, you are client #326. at 03:08:17 2016-08-19
+[Client 139] SUB,985,511 at 03:08:17 2016-08-19
+[Client 139] Hello message: Hello, you are client #327. at 03:08:17 2016-08-19
+[Client 372] MUL,248,673 at 03:08:17 2016-08-19
+[Client 372] Hello message: Hello, you are client #328. at 03:08:17 2016-08-19
+[Client 156] 850 * 718 = 610300 at 03:08:17 2016-08-19
+[Client 156] Closing socket at 03:08:17 2016-08-19
+[Client 156] done at 03:08:17 2016-08-19
+[Client 255] DIV,762,897 at 03:08:17 2016-08-19
+[Client 255] Hello message: Hello, you are client #329. at 03:08:17 2016-08-19
+[Client 254] ADD,71,295 at 03:08:17 2016-08-19
+[Client 254] Hello message: Hello, you are client #330. at 03:08:17 2016-08-19
+[Client 324] ADD,34,362 at 03:08:17 2016-08-19
+[Client 324] Hello message: Hello, you are client #331. at 03:08:17 2016-08-19
+[Client 116] SUB,393,436 at 03:08:17 2016-08-19
+[Client 116] Hello message: Hello, you are client #332. at 03:08:17 2016-08-19
+[Client 318] 157 * 511 = 80227 at 03:08:17 2016-08-19
+[Client 318] Closing socket at 03:08:17 2016-08-19
+[Client 351] SUB,204,938 at 03:08:17 2016-08-19
+[Client 318] done at 03:08:17 2016-08-19
+[Client 351] Hello message: Hello, you are client #333. at 03:08:17 2016-08-19
+[Client 73] SUB,503,308 at 03:08:17 2016-08-19
+[Client 73] Hello message: Hello, you are client #334. at 03:08:17 2016-08-19
+[Client 182] ADD,637,767 at 03:08:17 2016-08-19
+[Client 182] Hello message: Hello, you are client #335. at 03:08:17 2016-08-19
+[Client 55] 96 * 290 = 27840 at 03:08:17 2016-08-19
+[Client 55] Closing socket at 03:08:17 2016-08-19
+[Client 55] done at 03:08:17 2016-08-19
+[Client 93] MUL,229,11 at 03:08:17 2016-08-19
+[Client 93] Hello message: Hello, you are client #336. at 03:08:17 2016-08-19
+[Client 67] ADD,409,986 at 03:08:17 2016-08-19
+[Client 67] Hello message: Hello, you are client #337. at 03:08:17 2016-08-19
+[Client 383] DIV,549,771 at 03:08:17 2016-08-19
+[Client 383] Hello message: Hello, you are client #338. at 03:08:17 2016-08-19
+[Client 8] 605 - 32 = 573 at 03:08:17 2016-08-19
+[Client 8] Closing socket at 03:08:17 2016-08-19
+[Client 8] done at 03:08:17 2016-08-19
+[Client 370] ADD,121,994 at 03:08:17 2016-08-19
+[Client 370] Hello message: Hello, you are client #339. at 03:08:17 2016-08-19
+[Client 135] DIV,547,607 at 03:08:17 2016-08-19
+[Client 135] Hello message: Hello, you are client #340. at 03:08:17 2016-08-19
+[Client 62] 533 + 6 = 539 at 03:08:17 2016-08-19
+[Client 62] Closing socket at 03:08:17 2016-08-19
+[Client 62] done at 03:08:17 2016-08-19
+[Client 210] MUL,533,267 at 03:08:17 2016-08-19
+[Client 210] Hello message: Hello, you are client #341. at 03:08:17 2016-08-19
+[Client 194] MUL,375,45 at 03:08:17 2016-08-19
+[Client 194] Hello message: Hello, you are client #342. at 03:08:17 2016-08-19
+[Client 181] SUB,193,818 at 03:08:17 2016-08-19
+[Client 181] Hello message: Hello, you are client #343. at 03:08:17 2016-08-19
+[Client 242] 105 - 269 = -164 at 03:08:17 2016-08-19
+[Client 242] Closing socket at 03:08:17 2016-08-19
+[Client 242] done at 03:08:17 2016-08-19
+[Client 384] SUB,530,48 at 03:08:17 2016-08-19
+[Client 384] Hello message: Hello, you are client #344. at 03:08:17 2016-08-19
+[Client 189] DIV,623,415 at 03:08:17 2016-08-19
+[Client 189] Hello message: Hello, you are client #345. at 03:08:17 2016-08-19
+[Client 100] ADD,947,196 at 03:08:17 2016-08-19
+[Client 105] MUL,334,477 at 03:08:17 2016-08-19
+[Client 247] SUB,330,239 at 03:08:17 2016-08-19
+[Client 105] Hello message: Hello, you are client #346. at 03:08:17 2016-08-19
+[Client 100] Hello message: Hello, you are client #347. at 03:08:17 2016-08-19
+[Client 247] Hello message: Hello, you are client #348. at 03:08:17 2016-08-19
+[Client 292] DIV,5,777 at 03:08:17 2016-08-19
+[Client 292] Hello message: Hello, you are client #349. at 03:08:17 2016-08-19
+[Client 142] 938 + 18 = 956 at 03:08:17 2016-08-19
+[Client 142] Closing socket at 03:08:17 2016-08-19
+[Client 142] done at 03:08:17 2016-08-19
+[Client 226] 925 / 264 = 3 at 03:08:17 2016-08-19
+[Client 226] Closing socket at 03:08:17 2016-08-19
+[Client 226] done at 03:08:17 2016-08-19
+[Client 145] SUB,325,696 at 03:08:17 2016-08-19
+[Client 145] Hello message: Hello, you are client #350. at 03:08:17 2016-08-19
+[Client 130] DIV,956,471 at 03:08:17 2016-08-19
+[Client 130] Hello message: Hello, you are client #351. at 03:08:17 2016-08-19
+[Client 238] 625 + 311 = 936 at 03:08:17 2016-08-19
+[Client 238] Closing socket at 03:08:17 2016-08-19
+[Client 375] 137 - 402 = -265 at 03:08:17 2016-08-19
+[Client 238] done at 03:08:17 2016-08-19
+[Client 375] Closing socket at 03:08:17 2016-08-19
+[Client 375] done at 03:08:17 2016-08-19
+[Client 171] ADD,780,941 at 03:08:17 2016-08-19
+[Client 171] Hello message: Hello, you are client #352. at 03:08:17 2016-08-19
+[Client 350] 165 + 311 = 476 at 03:08:17 2016-08-19
+[Client 350] Closing socket at 03:08:17 2016-08-19
+[Client 350] done at 03:08:17 2016-08-19
+[Client 276] ADD,227,753 at 03:08:17 2016-08-19
+[Client 287] DIV,777,734 at 03:08:17 2016-08-19
+[Client 276] Hello message: Hello, you are client #353. at 03:08:17 2016-08-19
+[Client 287] Hello message: Hello, you are client #354. at 03:08:17 2016-08-19
+[Client 256] DIV,50,60 at 03:08:17 2016-08-19
+[Client 338] 421 + 815 = 1236 at 03:08:17 2016-08-19
+[Client 338] Closing socket at 03:08:17 2016-08-19
+[Client 256] Hello message: Hello, you are client #355. at 03:08:17 2016-08-19
+[Client 338] done at 03:08:17 2016-08-19
+[Client 356] 788 * 994 = 783272 at 03:08:17 2016-08-19
+[Client 356] Closing socket at 03:08:17 2016-08-19
+[Client 356] done at 03:08:17 2016-08-19
+[Client 79] MUL,808,436 at 03:08:17 2016-08-19
+[Client 79] Hello message: Hello, you are client #356. at 03:08:17 2016-08-19
+[Client 104] 88 / 502 = 0 at 03:08:17 2016-08-19
+[Client 104] Closing socket at 03:08:17 2016-08-19
+[Client 104] done at 03:08:17 2016-08-19
+[Client 252] 641 * 378 = 242298 at 03:08:17 2016-08-19
+[Client 252] Closing socket at 03:08:17 2016-08-19
+[Client 252] done at 03:08:17 2016-08-19
+[Client 18] ADD,654,281 at 03:08:17 2016-08-19
+[Client 18] Hello message: Hello, you are client #357. at 03:08:17 2016-08-19
+[Client 9] MUL,260,967 at 03:08:17 2016-08-19
+[Client 9] Hello message: Hello, you are client #358. at 03:08:17 2016-08-19
+[Client 117] 642 / 710 = 0 at 03:08:17 2016-08-19
+[Client 117] Closing socket at 03:08:17 2016-08-19
+[Client 117] done at 03:08:17 2016-08-19
+[Client 82] DIV,487,344 at 03:08:17 2016-08-19
+[Client 82] Hello message: Hello, you are client #359. at 03:08:17 2016-08-19
+[Client 284] 277 + 626 = 903 at 03:08:17 2016-08-19
+[Client 284] Closing socket at 03:08:17 2016-08-19
+[Client 284] done at 03:08:17 2016-08-19
+[Client 237] SUB,319,785 at 03:08:17 2016-08-19
+[Client 237] Hello message: Hello, you are client #360. at 03:08:17 2016-08-19
+[Client 369] SUB,528,177 at 03:08:17 2016-08-19
+[Client 369] Hello message: Hello, you are client #361. at 03:08:17 2016-08-19
+[Client 363] MUL,264,788 at 03:08:17 2016-08-19
+[Client 363] Hello message: Hello, you are client #362. at 03:08:17 2016-08-19
+[Client 316] DIV,703,889 at 03:08:17 2016-08-19
+[Client 316] Hello message: Hello, you are client #363. at 03:08:17 2016-08-19
+[Client 215] ADD,397,460 at 03:08:17 2016-08-19
+[Client 215] Hello message: Hello, you are client #364. at 03:08:17 2016-08-19
+[Client 281] MUL,950,771 at 03:08:17 2016-08-19
+[Client 281] Hello message: Hello, you are client #365. at 03:08:17 2016-08-19
+[Client 230] 308 + 340 = 648 at 03:08:17 2016-08-19
+[Client 230] Closing socket at 03:08:17 2016-08-19
+[Client 230] done at 03:08:17 2016-08-19
+[Client 317] 850 + 643 = 1493 at 03:08:17 2016-08-19
+[Client 317] Closing socket at 03:08:17 2016-08-19
+[Client 303] DIV,587,427 at 03:08:17 2016-08-19
+[Client 317] done at 03:08:17 2016-08-19
+[Client 303] Hello message: Hello, you are client #366. at 03:08:17 2016-08-19
+[Client 261] DIV,268,889 at 03:08:17 2016-08-19
+[Client 261] Hello message: Hello, you are client #367. at 03:08:17 2016-08-19
+[Client 358] ADD,329,661 at 03:08:17 2016-08-19
+[Client 358] Hello message: Hello, you are client #368. at 03:08:17 2016-08-19
+[Client 193] 550 + 64 = 614 at 03:08:17 2016-08-19
+[Client 193] Closing socket at 03:08:17 2016-08-19
+[Client 193] done at 03:08:17 2016-08-19
+[Client 330] DIV,46,876 at 03:08:17 2016-08-19
+[Client 330] Hello message: Hello, you are client #369. at 03:08:17 2016-08-19
+[Client 129] SUB,32,233 at 03:08:17 2016-08-19
+[Client 129] Hello message: Hello, you are client #370. at 03:08:17 2016-08-19
+[Client 201] MUL,93,803 at 03:08:17 2016-08-19
+[Client 201] Hello message: Hello, you are client #371. at 03:08:17 2016-08-19
+[Client 201] Server is too busy to handle request right now, please try again later at 03:08:17 2016-08-19
+[Client 201] Closing socket at 03:08:17 2016-08-19
+[Client 201] done at 03:08:17 2016-08-19
+[Client 223] 135 - 901 = -766 at 03:08:17 2016-08-19
+[Client 223] Closing socket at 03:08:17 2016-08-19
+[Client 223] done at 03:08:17 2016-08-19
+[Client 190] DIV,713,175 at 03:08:17 2016-08-19
+[Client 190] Hello message: Hello, you are client #372. at 03:08:17 2016-08-19
+[Client 88] 286 + 889 = 1175 at 03:08:17 2016-08-19
+[Client 88] Closing socket at 03:08:17 2016-08-19
+[Client 88] done at 03:08:17 2016-08-19
+[Client 41] DIV,857,632 at 03:08:17 2016-08-19
+[Client 41] Hello message: Hello, you are client #373. at 03:08:17 2016-08-19
+[Client 265] 928 * 263 = 244064 at 03:08:17 2016-08-19
+[Client 265] Closing socket at 03:08:17 2016-08-19
+[Client 265] done at 03:08:17 2016-08-19
+[Client 216] MUL,98,224 at 03:08:17 2016-08-19
+[Client 381] DIV,192,593 at 03:08:17 2016-08-19
+[Client 216] Hello message: Hello, you are client #375. at 03:08:17 2016-08-19
+[Client 381] Hello message: Hello, you are client #374. at 03:08:17 2016-08-19
+[Client 381] Server is too busy to handle request right now, please try again later at 03:08:17 2016-08-19
+[Client 381] Closing socket at 03:08:17 2016-08-19
+[Client 381] done at 03:08:17 2016-08-19
+[Client 33] 132 * 138 = 18216 at 03:08:17 2016-08-19
+[Client 33] Closing socket at 03:08:17 2016-08-19
+[Client 33] done at 03:08:17 2016-08-19
+[Client 183] 643 * 850 = 546550 at 03:08:17 2016-08-19
+[Client 183] Closing socket at 03:08:17 2016-08-19
+[Client 183] done at 03:08:17 2016-08-19
+[Client 177] DIV,771,787 at 03:08:17 2016-08-19
+[Client 177] Hello message: Hello, you are client #376. at 03:08:17 2016-08-19
+[Client 206] 347 / 424 = 0 at 03:08:17 2016-08-19
+[Client 206] Closing socket at 03:08:17 2016-08-19
+[Client 206] done at 03:08:17 2016-08-19
+[Client 139] 985 - 511 = 474 at 03:08:17 2016-08-19
+[Client 139] Closing socket at 03:08:17 2016-08-19
+[Client 139] done at 03:08:17 2016-08-19
+[Client 259] MUL,98,825 at 03:08:17 2016-08-19
+[Client 259] Hello message: Hello, you are client #377. at 03:08:17 2016-08-19
+[Client 260] DIV,80,715 at 03:08:17 2016-08-19
+[Client 349] SUB,345,334 at 03:08:17 2016-08-19
+[Client 260] Hello message: Hello, you are client #378. at 03:08:17 2016-08-19
+[Client 319] SUB,183,929 at 03:08:17 2016-08-19
+[Client 349] Hello message: Hello, you are client #379. at 03:08:17 2016-08-19
+[Client 319] Hello message: Hello, you are client #380. at 03:08:17 2016-08-19
+[Client 319] Server is too busy to handle request right now, please try again later at 03:08:17 2016-08-19
+[Client 319] Closing socket at 03:08:17 2016-08-19
+[Client 319] done at 03:08:17 2016-08-19
+[Client 372] 248 * 673 = 166904 at 03:08:17 2016-08-19
+[Client 372] Closing socket at 03:08:17 2016-08-19
+[Client 372] done at 03:08:17 2016-08-19
+[Client 255] 762 / 897 = 0 at 03:08:17 2016-08-19
+[Client 255] Closing socket at 03:08:17 2016-08-19
+[Client 255] done at 03:08:17 2016-08-19
+[Client 254] 71 + 295 = 366 at 03:08:17 2016-08-19
+[Client 254] Closing socket at 03:08:17 2016-08-19
+[Client 241] MUL,586,556 at 03:08:17 2016-08-19
+[Client 254] done at 03:08:17 2016-08-19
+[Client 241] Hello message: Hello, you are client #381. at 03:08:17 2016-08-19
+[Client 324] 34 + 362 = 396 at 03:08:17 2016-08-19
+[Client 324] Closing socket at 03:08:17 2016-08-19
+[Client 324] done at 03:08:17 2016-08-19
+[Client 116] 393 - 436 = -43 at 03:08:17 2016-08-19
+[Client 116] Closing socket at 03:08:17 2016-08-19
+[Client 116] done at 03:08:17 2016-08-19
+[Client 351] 204 - 938 = -734 at 03:08:17 2016-08-19
+[Client 351] Closing socket at 03:08:17 2016-08-19
+[Client 351] done at 03:08:17 2016-08-19
+[Client 73] 503 - 308 = 195 at 03:08:17 2016-08-19
+[Client 182] 637 + 767 = 1404 at 03:08:17 2016-08-19
+[Client 73] Closing socket at 03:08:17 2016-08-19
+[Client 182] Closing socket at 03:08:17 2016-08-19
+[Client 73] done at 03:08:17 2016-08-19
+[Client 182] done at 03:08:17 2016-08-19
+[Client 166] SUB,966,757 at 03:08:17 2016-08-19
+[Client 166] Hello message: Hello, you are client #382. at 03:08:17 2016-08-19
+[Client 93] 229 * 11 = 2519 at 03:08:17 2016-08-19
+[Client 93] Closing socket at 03:08:17 2016-08-19
+[Client 93] done at 03:08:17 2016-08-19
+[Client 17] SUB,614,534 at 03:08:17 2016-08-19
+[Client 17] Hello message: Hello, you are client #383. at 03:08:17 2016-08-19
+[Client 67] 409 + 986 = 1395 at 03:08:17 2016-08-19
+[Client 67] Closing socket at 03:08:17 2016-08-19
+[Client 67] done at 03:08:17 2016-08-19
+[Client 370] 121 + 994 = 1115 at 03:08:17 2016-08-19
+[Client 370] Closing socket at 03:08:17 2016-08-19
+[Client 370] done at 03:08:17 2016-08-19
+[Client 383] 549 / 771 = 0 at 03:08:17 2016-08-19
+[Client 383] Closing socket at 03:08:17 2016-08-19
+[Client 383] done at 03:08:17 2016-08-19
+[Client 244] ADD,296,216 at 03:08:17 2016-08-19
+[Client 244] Hello message: Hello, you are client #384. at 03:08:17 2016-08-19
+[Client 158] SUB,766,136 at 03:08:17 2016-08-19
+[Client 158] Hello message: Hello, you are client #385. at 03:08:17 2016-08-19
+[Client 135] 547 / 607 = 0 at 03:08:17 2016-08-19
+[Client 135] Closing socket at 03:08:17 2016-08-19
+[Client 135] done at 03:08:17 2016-08-19
+[Client 84] ADD,506,464 at 03:08:17 2016-08-19
+[Client 84] Hello message: Hello, you are client #386. at 03:08:17 2016-08-19
+[Client 210] 533 * 267 = 142311 at 03:08:17 2016-08-19
+[Client 210] Closing socket at 03:08:17 2016-08-19
+[Client 210] done at 03:08:17 2016-08-19
+[Client 194] 375 * 45 = 16875 at 03:08:17 2016-08-19
+[Client 194] Closing socket at 03:08:17 2016-08-19
+[Client 194] done at 03:08:17 2016-08-19
+[Client 181] 193 - 818 = -625 at 03:08:17 2016-08-19
+[Client 181] Closing socket at 03:08:17 2016-08-19
+[Client 181] done at 03:08:17 2016-08-19
+[Client 384] 530 - 48 = 482 at 03:08:17 2016-08-19
+[Client 384] Closing socket at 03:08:17 2016-08-19
+[Client 384] done at 03:08:17 2016-08-19
+[Client 146] DIV,653,407 at 03:08:17 2016-08-19
+[Client 146] Hello message: Hello, you are client #387. at 03:08:17 2016-08-19
+[Client 249] DIV,839,958 at 03:08:17 2016-08-19
+[Client 249] Hello message: Hello, you are client #388. at 03:08:17 2016-08-19
+[Client 189] 623 / 415 = 1 at 03:08:17 2016-08-19
+[Client 189] Closing socket at 03:08:17 2016-08-19
+[Client 189] done at 03:08:17 2016-08-19
+[Client 100] 947 + 196 = 1143 at 03:08:17 2016-08-19
+[Client 100] Closing socket at 03:08:17 2016-08-19
+[Client 100] done at 03:08:17 2016-08-19
+[Client 105] 334 * 477 = 159318 at 03:08:17 2016-08-19
+[Client 105] Closing socket at 03:08:17 2016-08-19
+[Client 105] done at 03:08:17 2016-08-19
+[Client 247] 330 - 239 = 91 at 03:08:17 2016-08-19
+[Client 247] Closing socket at 03:08:17 2016-08-19
+[Client 247] done at 03:08:17 2016-08-19
+[Client 292] 5 / 777 = 0 at 03:08:17 2016-08-19
+[Client 292] Closing socket at 03:08:17 2016-08-19
+[Client 292] done at 03:08:17 2016-08-19
+[Client 145] 325 - 696 = -371 at 03:08:17 2016-08-19
+[Client 145] Closing socket at 03:08:17 2016-08-19
+[Client 145] done at 03:08:17 2016-08-19
+[Client 130] 956 / 471 = 2 at 03:08:18 2016-08-19
+[Client 130] Closing socket at 03:08:18 2016-08-19
+[Client 130] done at 03:08:18 2016-08-19
+[Client 276] 227 + 753 = 980 at 03:08:18 2016-08-19
+[Client 276] Closing socket at 03:08:18 2016-08-19
+[Client 171] 780 + 941 = 1721 at 03:08:18 2016-08-19
+[Client 276] done at 03:08:18 2016-08-19
+[Client 171] Closing socket at 03:08:18 2016-08-19
+[Client 171] done at 03:08:18 2016-08-19
+[Client 287] 777 / 734 = 1 at 03:08:18 2016-08-19
+[Client 287] Closing socket at 03:08:18 2016-08-19
+[Client 287] done at 03:08:18 2016-08-19
+[Client 256] 50 / 60 = 0 at 03:08:18 2016-08-19
+[Client 256] Closing socket at 03:08:18 2016-08-19
+[Client 79] 808 * 436 = 352288 at 03:08:18 2016-08-19
+[Client 256] done at 03:08:18 2016-08-19
+[Client 79] Closing socket at 03:08:18 2016-08-19
+[Client 79] done at 03:08:18 2016-08-19
+[Client 18] 654 + 281 = 935 at 03:08:18 2016-08-19
+[Client 82] 487 / 344 = 1 at 03:08:18 2016-08-19
+[Client 18] Closing socket at 03:08:18 2016-08-19
+[Client 82] Closing socket at 03:08:18 2016-08-19
+[Client 18] done at 03:08:18 2016-08-19
+[Client 9] 260 * 967 = 251420 at 03:08:18 2016-08-19
+[Client 82] done at 03:08:18 2016-08-19
+[Client 9] Closing socket at 03:08:18 2016-08-19
+[Client 9] done at 03:08:18 2016-08-19
+[Client 237] 319 - 785 = -466 at 03:08:18 2016-08-19
+[Client 237] Closing socket at 03:08:18 2016-08-19
+[Client 237] done at 03:08:18 2016-08-19
+[Client 369] 528 - 177 = 351 at 03:08:18 2016-08-19
+[Client 369] Closing socket at 03:08:18 2016-08-19
+[Client 369] done at 03:08:18 2016-08-19
+[Client 316] 703 / 889 = 0 at 03:08:18 2016-08-19
+[Client 363] 264 * 788 = 208032 at 03:08:18 2016-08-19
+[Client 316] Closing socket at 03:08:18 2016-08-19
+[Client 363] Closing socket at 03:08:18 2016-08-19
+[Client 316] done at 03:08:18 2016-08-19
+[Client 363] done at 03:08:18 2016-08-19
+[Client 215] 397 + 460 = 857 at 03:08:18 2016-08-19
+[Client 215] Closing socket at 03:08:18 2016-08-19
+[Client 215] done at 03:08:18 2016-08-19
+[Client 281] 950 * 771 = 732450 at 03:08:18 2016-08-19
+[Client 281] Closing socket at 03:08:18 2016-08-19
+[Client 281] done at 03:08:18 2016-08-19
+[Client 261] 268 / 889 = 0 at 03:08:18 2016-08-19
+[Client 303] 587 / 427 = 1 at 03:08:18 2016-08-19
+[Client 261] Closing socket at 03:08:18 2016-08-19
+[Client 303] Closing socket at 03:08:18 2016-08-19
+[Client 261] done at 03:08:18 2016-08-19
+[Client 303] done at 03:08:18 2016-08-19
+[Client 358] 329 + 661 = 990 at 03:08:18 2016-08-19
+[Client 358] Closing socket at 03:08:18 2016-08-19
+[Client 358] done at 03:08:18 2016-08-19
+[Client 129] 32 - 233 = -201 at 03:08:18 2016-08-19
+[Client 190] 713 / 175 = 4 at 03:08:18 2016-08-19
+[Client 129] Closing socket at 03:08:18 2016-08-19
+[Client 190] Closing socket at 03:08:18 2016-08-19
+[Client 129] done at 03:08:18 2016-08-19
+[Client 190] done at 03:08:18 2016-08-19
+[Client 330] 46 / 876 = 0 at 03:08:18 2016-08-19
+[Client 330] Closing socket at 03:08:18 2016-08-19
+[Client 330] done at 03:08:18 2016-08-19
+[Client 41] 857 / 632 = 1 at 03:08:18 2016-08-19
+[Client 41] Closing socket at 03:08:18 2016-08-19
+[Client 41] done at 03:08:18 2016-08-19
+[Client 216] 98 * 224 = 21952 at 03:08:18 2016-08-19
+[Client 216] Closing socket at 03:08:18 2016-08-19
+[Client 177] 771 / 787 = 0 at 03:08:18 2016-08-19
+[Client 216] done at 03:08:18 2016-08-19
+[Client 177] Closing socket at 03:08:18 2016-08-19
+[Client 177] done at 03:08:18 2016-08-19
+[Client 260] 80 / 715 = 0 at 03:08:18 2016-08-19
+[Client 260] Closing socket at 03:08:18 2016-08-19
+[Client 259] 98 * 825 = 80850 at 03:08:18 2016-08-19
+[Client 260] done at 03:08:18 2016-08-19
+[Client 259] Closing socket at 03:08:18 2016-08-19
+[Client 259] done at 03:08:18 2016-08-19
+[Client 349] 345 - 334 = 11 at 03:08:18 2016-08-19
+[Client 349] Closing socket at 03:08:18 2016-08-19
+[Client 349] done at 03:08:18 2016-08-19
+[Client 241] 586 * 556 = 325816 at 03:08:18 2016-08-19
+[Client 241] Closing socket at 03:08:18 2016-08-19
+[Client 241] done at 03:08:18 2016-08-19
+[Client 17] 614 - 534 = 80 at 03:08:18 2016-08-19
+[Client 166] 966 - 757 = 209 at 03:08:18 2016-08-19
+[Client 166] Closing socket at 03:08:18 2016-08-19
+[Client 17] Closing socket at 03:08:18 2016-08-19
+[Client 244] 296 + 216 = 512 at 03:08:18 2016-08-19
+[Client 166] done at 03:08:18 2016-08-19
+[Client 244] Closing socket at 03:08:18 2016-08-19
+[Client 17] done at 03:08:18 2016-08-19
+[Client 244] done at 03:08:18 2016-08-19
+[Client 158] 766 - 136 = 630 at 03:08:18 2016-08-19
+[Client 158] Closing socket at 03:08:18 2016-08-19
+[Client 158] done at 03:08:18 2016-08-19
+[Client 84] 506 + 464 = 970 at 03:08:18 2016-08-19
+[Client 84] Closing socket at 03:08:18 2016-08-19
+[Client 84] done at 03:08:18 2016-08-19
+[Client 146] 653 / 407 = 1 at 03:08:18 2016-08-19
+[Client 146] Closing socket at 03:08:18 2016-08-19
+[Client 146] done at 03:08:18 2016-08-19
+[Client 249] 839 / 958 = 0 at 03:08:18 2016-08-19
+[Client 249] Closing socket at 03:08:18 2016-08-19
+[Client 249] done at 03:08:18 2016-08-19
+[Main] All clients have quit at 03:08:18 2016-08-19
